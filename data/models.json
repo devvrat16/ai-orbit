@@ -1,0 +1,643 @@
+[
+  {
+    "id": "224b4627-d14c-5e12-a2c6-f57e5794b139",
+    "entity_type": "MODEL",
+    "name": "NVIDIA Isaac GR00T N1",
+    "description": "Open foundation model for generalist humanoid robot reasoning and skills.",
+    "url": "https://research.nvidia.com/publication/2025-03_nvidia-isaac-gr00t-n1-open-foundation-model-humanoid-robots",
+    "categories": [
+      "robotics",
+      "vision-language-action",
+      "physical-ai"
+    ],
+    "source": {
+      "name": "NVIDIA Research",
+      "url": "https://research.nvidia.com/publication/2025-03_nvidia-isaac-gr00t-n1-open-foundation-model-humanoid-robots"
+    },
+    "license": null,
+    "modalities": [
+      "vision",
+      "language",
+      "action"
+    ],
+    "provider": "NVIDIA"
+  },
+  {
+    "id": "5699a87d-d50a-5031-9b4a-91d4ff95f1a6",
+    "entity_type": "MODEL",
+    "name": "cascade-expert/cascade-gen000000",
+    "description": "Hugging Face model",
+    "url": "https://huggingface.co/cascade-expert/cascade-gen000000",
+    "categories": [
+      "AI/ML"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/cascade-expert/cascade-gen000000"
+    },
+    "collected_at": "2026-08-18T20:36:34.704567",
+    "license": null,
+    "modalities": [],
+    "provider": "cascade-expert"
+  },
+  {
+    "id": "653055ad-bff1-5987-89ef-c8c34dca804d",
+    "entity_type": "MODEL",
+    "name": "MORES-horizon/MORESPulse",
+    "description": "text-classification",
+    "url": "https://huggingface.co/MORES-horizon/MORESPulse",
+    "categories": [
+      "text-classification"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/MORES-horizon/MORESPulse"
+    },
+    "collected_at": "2026-08-18T20:36:34.703666",
+    "license": null,
+    "modalities": [
+      "text-classification"
+    ],
+    "provider": "MORES-horizon"
+  },
+  {
+    "id": "c64cb27b-7d12-5db4-b54a-a91bfdb18e29",
+    "entity_type": "MODEL",
+    "name": "MORES-horizon/MORES_emotions9",
+    "description": "text-classification",
+    "url": "https://huggingface.co/MORES-horizon/MORES_emotions9",
+    "categories": [
+      "text-classification"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/MORES-horizon/MORES_emotions9"
+    },
+    "collected_at": "2026-08-18T20:36:34.703891",
+    "license": null,
+    "modalities": [
+      "text-classification"
+    ],
+    "provider": "MORES-horizon"
+  },
+  {
+    "id": "43ac667b-61f8-55ca-9723-82a4156dff94",
+    "entity_type": "MODEL",
+    "name": "prism-drift/qwen35-9b-m0-v4-tuned-noeval-model-only-checkpoints",
+    "description": "Hugging Face model",
+    "url": "https://huggingface.co/prism-drift/qwen35-9b-m0-v4-tuned-noeval-model-only-checkpoints",
+    "categories": [
+      "AI/ML"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/prism-drift/qwen35-9b-m0-v4-tuned-noeval-model-only-checkpoints"
+    },
+    "collected_at": "2026-08-18T20:36:34.699393",
+    "license": null,
+    "modalities": [],
+    "provider": "prism-drift"
+  },
+  {
+    "id": "a27287d1-8068-5a8d-8e97-bcabd388f4c4",
+    "entity_type": "MODEL",
+    "name": "BlueShark1214/koth-miner-ev4",
+    "description": "Hugging Face model",
+    "url": "https://huggingface.co/BlueShark1214/koth-miner-ev4",
+    "categories": [
+      "AI/ML"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/BlueShark1214/koth-miner-ev4"
+    },
+    "collected_at": "2026-08-18T20:36:34.701678",
+    "license": null,
+    "modalities": [],
+    "provider": "BlueShark1214"
+  },
+  {
+    "id": "3bcf0e2b-ee76-53fc-a27f-51d60ab5784d",
+    "entity_type": "MODEL",
+    "name": "blueeagle998/koth-miner-202",
+    "description": "Hugging Face model",
+    "url": "https://huggingface.co/blueeagle998/koth-miner-202",
+    "categories": [
+      "AI/ML"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/blueeagle998/koth-miner-202"
+    },
+    "collected_at": "2026-08-18T20:36:34.702102",
+    "license": null,
+    "modalities": [],
+    "provider": "blueeagle998"
+  },
+  {
+    "id": "b5d5dbdb-6cd5-5b57-8ed2-3adbe00dd501",
+    "entity_type": "MODEL",
+    "name": "blueeagle998/koth-miner-197",
+    "description": "Hugging Face model",
+    "url": "https://huggingface.co/blueeagle998/koth-miner-197",
+    "categories": [
+      "AI/ML"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/blueeagle998/koth-miner-197"
+    },
+    "collected_at": "2026-08-18T20:36:34.702239",
+    "license": null,
+    "modalities": [],
+    "provider": "blueeagle998"
+  },
+  {
+    "id": "0b93ab6c-19c4-56f1-a11c-637aceb8c810",
+    "entity_type": "MODEL",
+    "name": "blueeagle998/koth-miner-199",
+    "description": "Hugging Face model",
+    "url": "https://huggingface.co/blueeagle998/koth-miner-199",
+    "categories": [
+      "AI/ML"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/blueeagle998/koth-miner-199"
+    },
+    "collected_at": "2026-08-18T20:36:34.702426",
+    "license": null,
+    "modalities": [],
+    "provider": "blueeagle998"
+  },
+  {
+    "id": "5427ec28-2139-5e9e-8e87-4c3c281be738",
+    "entity_type": "MODEL",
+    "name": "blueeagle998/koth-miner-200",
+    "description": "Hugging Face model",
+    "url": "https://huggingface.co/blueeagle998/koth-miner-200",
+    "categories": [
+      "AI/ML"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/blueeagle998/koth-miner-200"
+    },
+    "collected_at": "2026-08-18T20:36:34.702479",
+    "license": null,
+    "modalities": [],
+    "provider": "blueeagle998"
+  },
+  {
+    "id": "4d3a3282-f0e0-5ffe-b6ca-296babe997f9",
+    "entity_type": "MODEL",
+    "name": "blueeagle998/koth-miner-201",
+    "description": "Hugging Face model",
+    "url": "https://huggingface.co/blueeagle998/koth-miner-201",
+    "categories": [
+      "AI/ML"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/blueeagle998/koth-miner-201"
+    },
+    "collected_at": "2026-08-18T20:36:34.702705",
+    "license": null,
+    "modalities": [],
+    "provider": "blueeagle998"
+  },
+  {
+    "id": "836a2796-57bd-5b9d-bded-5d0c81dd71df",
+    "entity_type": "MODEL",
+    "name": "blueeagle998/koth-miner-173",
+    "description": "Hugging Face model",
+    "url": "https://huggingface.co/blueeagle998/koth-miner-173",
+    "categories": [
+      "AI/ML"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/blueeagle998/koth-miner-173"
+    },
+    "collected_at": "2026-08-18T20:36:34.702743",
+    "license": null,
+    "modalities": [],
+    "provider": "blueeagle998"
+  },
+  {
+    "id": "ced2e62d-983a-5b7b-9218-499067558319",
+    "entity_type": "MODEL",
+    "name": "blueeagle998/koth-miner-198",
+    "description": "Hugging Face model",
+    "url": "https://huggingface.co/blueeagle998/koth-miner-198",
+    "categories": [
+      "AI/ML"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/blueeagle998/koth-miner-198"
+    },
+    "collected_at": "2026-08-18T20:36:34.702762",
+    "license": null,
+    "modalities": [],
+    "provider": "blueeagle998"
+  },
+  {
+    "id": "2367bfba-b43f-523e-801b-3a059e5a054c",
+    "entity_type": "MODEL",
+    "name": "Andrew93110/sn99-miner",
+    "description": "Hugging Face model",
+    "url": "https://huggingface.co/Andrew93110/sn99-miner",
+    "categories": [
+      "AI/ML"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/Andrew93110/sn99-miner"
+    },
+    "collected_at": "2026-08-18T20:36:34.702853",
+    "license": null,
+    "modalities": [],
+    "provider": "Andrew93110"
+  },
+  {
+    "id": "1869be96-da5b-5ba3-86d4-c333028ddcfa",
+    "entity_type": "MODEL",
+    "name": "safafaf22/MyAwesomeModel-TestRepo",
+    "description": "feature-extraction",
+    "url": "https://huggingface.co/safafaf22/MyAwesomeModel-TestRepo",
+    "categories": [
+      "feature-extraction"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/safafaf22/MyAwesomeModel-TestRepo"
+    },
+    "collected_at": "2026-08-18T20:36:34.702872",
+    "license": null,
+    "modalities": [
+      "feature-extraction"
+    ],
+    "provider": "safafaf22"
+  },
+  {
+    "id": "992a7549-e1d3-5a6b-b47b-a8de8097b73c",
+    "entity_type": "MODEL",
+    "name": "standjones/albedo-arc-applet3-t6",
+    "description": "Hugging Face model",
+    "url": "https://huggingface.co/standjones/albedo-arc-applet3-t6",
+    "categories": [
+      "AI/ML"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/standjones/albedo-arc-applet3-t6"
+    },
+    "collected_at": "2026-08-18T20:36:34.703330",
+    "license": null,
+    "modalities": [],
+    "provider": "standjones"
+  },
+  {
+    "id": "1a430413-1f11-5e1b-93dc-778d17d5518b",
+    "entity_type": "MODEL",
+    "name": "unsup-opsd/ckpts",
+    "description": "Hugging Face model",
+    "url": "https://huggingface.co/unsup-opsd/ckpts",
+    "categories": [
+      "AI/ML"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/unsup-opsd/ckpts"
+    },
+    "collected_at": "2026-08-18T20:36:34.703684",
+    "license": null,
+    "modalities": [],
+    "provider": "unsup-opsd"
+  },
+  {
+    "id": "8f426f35-60f5-5ea8-ae69-178b051f3836",
+    "entity_type": "MODEL",
+    "name": "aravdhoot/scaling-em-adapters",
+    "description": "Hugging Face model",
+    "url": "https://huggingface.co/aravdhoot/scaling-em-adapters",
+    "categories": [
+      "AI/ML"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/aravdhoot/scaling-em-adapters"
+    },
+    "collected_at": "2026-08-18T20:36:34.703720",
+    "license": null,
+    "modalities": [],
+    "provider": "aravdhoot"
+  },
+  {
+    "id": "dc14826c-d261-5b48-944c-f628e0ef550e",
+    "entity_type": "MODEL",
+    "name": "standjones/albedo-arc-windsword8989-9999",
+    "description": "Hugging Face model",
+    "url": "https://huggingface.co/standjones/albedo-arc-windsword8989-9999",
+    "categories": [
+      "AI/ML"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/standjones/albedo-arc-windsword8989-9999"
+    },
+    "collected_at": "2026-08-18T20:51:33.899934",
+    "license": null,
+    "modalities": [],
+    "provider": "standjones"
+  },
+  {
+    "id": "288b2b58-d0f5-5212-96eb-d181b712ebba",
+    "entity_type": "MODEL",
+    "name": "richard-king/windsword8989-albedo-qwen3.6-35b-9999-ab54d5ee",
+    "description": "Hugging Face model",
+    "url": "https://huggingface.co/richard-king/windsword8989-albedo-qwen3.6-35b-9999-ab54d5ee",
+    "categories": [
+      "AI/ML"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/richard-king/windsword8989-albedo-qwen3.6-35b-9999-ab54d5ee"
+    },
+    "collected_at": "2026-08-18T20:51:33.900827",
+    "license": null,
+    "modalities": [],
+    "provider": "richard-king"
+  },
+  {
+    "id": "16449e44-22a9-5c76-ac29-6794e1c83b9e",
+    "entity_type": "MODEL",
+    "name": "highlands/new01",
+    "description": "Hugging Face model",
+    "url": "https://huggingface.co/highlands/new01",
+    "categories": [
+      "AI/ML"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/highlands/new01"
+    },
+    "collected_at": "2026-08-18T20:51:33.902869",
+    "license": null,
+    "modalities": [],
+    "provider": "highlands"
+  },
+  {
+    "id": "15bbe446-d604-5403-b154-903eb9143ba8",
+    "entity_type": "MODEL",
+    "name": "quandao10/t2i_pretrain",
+    "description": "Hugging Face model",
+    "url": "https://huggingface.co/quandao10/t2i_pretrain",
+    "categories": [
+      "AI/ML"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/quandao10/t2i_pretrain"
+    },
+    "collected_at": "2026-08-18T20:51:33.903062",
+    "license": null,
+    "modalities": [],
+    "provider": "quandao10"
+  },
+  {
+    "id": "30df71b7-2e7c-55b0-9363-939592d8f457",
+    "entity_type": "MODEL",
+    "name": "castdies/cn-7",
+    "description": "Hugging Face model",
+    "url": "https://huggingface.co/castdies/cn-7",
+    "categories": [
+      "AI/ML"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/castdies/cn-7"
+    },
+    "collected_at": "2026-08-18T20:51:33.903368",
+    "license": null,
+    "modalities": [],
+    "provider": "castdies"
+  },
+  {
+    "id": "833fdc4f-31ae-55fb-a624-d650cbafae3b",
+    "entity_type": "MODEL",
+    "name": "castdies/cn-5",
+    "description": "Hugging Face model",
+    "url": "https://huggingface.co/castdies/cn-5",
+    "categories": [
+      "AI/ML"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/castdies/cn-5"
+    },
+    "collected_at": "2026-08-18T20:51:33.903467",
+    "license": null,
+    "modalities": [],
+    "provider": "castdies"
+  },
+  {
+    "id": "c5d1e5eb-696e-5075-be0f-461558b83ca5",
+    "entity_type": "MODEL",
+    "name": "castdies/cn-12",
+    "description": "Hugging Face model",
+    "url": "https://huggingface.co/castdies/cn-12",
+    "categories": [
+      "AI/ML"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/castdies/cn-12"
+    },
+    "collected_at": "2026-08-18T20:51:33.903612",
+    "license": null,
+    "modalities": [],
+    "provider": "castdies"
+  },
+  {
+    "id": "35d4608a-3817-5b2a-875d-3d868566ce4d",
+    "entity_type": "MODEL",
+    "name": "castdies/cn-11",
+    "description": "Hugging Face model",
+    "url": "https://huggingface.co/castdies/cn-11",
+    "categories": [
+      "AI/ML"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/castdies/cn-11"
+    },
+    "collected_at": "2026-08-18T20:51:33.903624",
+    "license": null,
+    "modalities": [],
+    "provider": "castdies"
+  },
+  {
+    "id": "ad2675a4-6f16-5968-8a57-8e0a17a6d795",
+    "entity_type": "MODEL",
+    "name": "castdies/cn-9",
+    "description": "Hugging Face model",
+    "url": "https://huggingface.co/castdies/cn-9",
+    "categories": [
+      "AI/ML"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/castdies/cn-9"
+    },
+    "collected_at": "2026-08-18T20:51:33.903650",
+    "license": null,
+    "modalities": [],
+    "provider": "castdies"
+  },
+  {
+    "id": "5aac84e2-e2ef-5a03-9a88-83896bece909",
+    "entity_type": "MODEL",
+    "name": "castdies/cn-10",
+    "description": "Hugging Face model",
+    "url": "https://huggingface.co/castdies/cn-10",
+    "categories": [
+      "AI/ML"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/castdies/cn-10"
+    },
+    "collected_at": "2026-08-18T20:51:33.903666",
+    "license": null,
+    "modalities": [],
+    "provider": "castdies"
+  },
+  {
+    "id": "7a2c197f-8c9f-5568-a9a2-fd128f3a3660",
+    "entity_type": "MODEL",
+    "name": "castdies/cn-2",
+    "description": "Hugging Face model",
+    "url": "https://huggingface.co/castdies/cn-2",
+    "categories": [
+      "AI/ML"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/castdies/cn-2"
+    },
+    "collected_at": "2026-08-18T20:51:33.903679",
+    "license": null,
+    "modalities": [],
+    "provider": "castdies"
+  },
+  {
+    "id": "525602cb-2da5-59cb-8a99-766925762ad4",
+    "entity_type": "MODEL",
+    "name": "castdies/cn-3",
+    "description": "Hugging Face model",
+    "url": "https://huggingface.co/castdies/cn-3",
+    "categories": [
+      "AI/ML"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/castdies/cn-3"
+    },
+    "collected_at": "2026-08-18T20:51:33.903691",
+    "license": null,
+    "modalities": [],
+    "provider": "castdies"
+  },
+  {
+    "id": "c0339920-ec12-5d37-8024-f8bd1ddcbab4",
+    "entity_type": "MODEL",
+    "name": "castdies/cn-4",
+    "description": "Hugging Face model",
+    "url": "https://huggingface.co/castdies/cn-4",
+    "categories": [
+      "AI/ML"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/castdies/cn-4"
+    },
+    "collected_at": "2026-08-18T20:51:33.903704",
+    "license": null,
+    "modalities": [],
+    "provider": "castdies"
+  },
+  {
+    "id": "33489e29-bd13-58b4-95e0-4fe919629bc4",
+    "entity_type": "MODEL",
+    "name": "castdies/cn-6",
+    "description": "Hugging Face model",
+    "url": "https://huggingface.co/castdies/cn-6",
+    "categories": [
+      "AI/ML"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/castdies/cn-6"
+    },
+    "collected_at": "2026-08-18T20:51:33.903716",
+    "license": null,
+    "modalities": [],
+    "provider": "castdies"
+  },
+  {
+    "id": "baf69d44-1346-56a6-8aa2-8f137634557b",
+    "entity_type": "MODEL",
+    "name": "Research-Inst-RosettaFlareLab-005/Models_2026.08_August",
+    "description": "Hugging Face model",
+    "url": "https://huggingface.co/Research-Inst-RosettaFlareLab-005/Models_2026.08_August",
+    "categories": [
+      "AI/ML"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/Research-Inst-RosettaFlareLab-005/Models_2026.08_August"
+    },
+    "collected_at": "2026-08-18T21:04:46.020496",
+    "license": null,
+    "modalities": [],
+    "provider": "Research-Inst-RosettaFlareLab-005"
+  },
+  {
+    "id": "ae7d8fda-bca0-5ad9-b65c-ec388f90cf0d",
+    "entity_type": "MODEL",
+    "name": "zoarag/Telekinetic_tomato",
+    "description": "Hugging Face model",
+    "url": "https://huggingface.co/zoarag/Telekinetic_tomato",
+    "categories": [
+      "AI/ML"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/zoarag/Telekinetic_tomato"
+    },
+    "collected_at": "2026-08-18T21:04:46.020810",
+    "license": null,
+    "modalities": [],
+    "provider": "zoarag"
+  },
+  {
+    "id": "73be9586-ea29-5c90-bf1a-cb22de99c1c0",
+    "entity_type": "MODEL",
+    "name": "Impliedhomeland/cosine-1B-60B-datamatched-resume",
+    "description": "Hugging Face model",
+    "url": "https://huggingface.co/Impliedhomeland/cosine-1B-60B-datamatched-resume",
+    "categories": [
+      "AI/ML"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/Impliedhomeland/cosine-1B-60B-datamatched-resume"
+    },
+    "collected_at": "2026-08-18T21:04:46.020829",
+    "license": null,
+    "modalities": [],
+    "provider": "Impliedhomeland"
+  }
+]

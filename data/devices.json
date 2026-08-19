@@ -1,0 +1,35 @@
+[
+  {
+    "id": "b9d30fca-230a-56ba-8740-5cf828314804",
+    "entity_type": "DEVICE",
+    "name": "NVIDIA Jetson AGX Orin",
+    "description": "Embedded AI compute platform for generative AI, robotics, computer vision and autonomous machines.",
+    "url": "https://www.nvidia.com/en-in/autonomous-machines/embedded-systems/jetson-orin/",
+    "categories": [
+      "edge-ai",
+      "robotics",
+      "hardware"
+    ],
+    "source": {
+      "name": "NVIDIA",
+      "url": "https://www.nvidia.com/en-in/autonomous-machines/embedded-systems/jetson-orin/"
+    },
+    "model_name": "NVIDIA Isaac GR00T N1"
+  },
+  {
+    "id": "a97d0333-4426-54e4-92f5-072407e0f83c",
+    "entity_type": "DEVICE",
+    "name": "NVIDIA DGX Spark",
+    "description": "Desktop AI platform designed to build and run autonomous agents and local AI workloads.",
+    "url": "https://www.nvidia.com/en-in/products/workstations/dgx-spark/",
+    "categories": [
+      "ai-compute",
+      "desktop",
+      "agents"
+    ],
+    "source": {
+      "name": "NVIDIA",
+      "url": "https://www.nvidia.com/en-in/products/workstations/dgx-spark/"
+    }
+  }
+]

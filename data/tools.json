@@ -1,0 +1,542 @@
+[
+  {
+    "id": "125ea3c1-6066-5ce0-b3bf-b07b476fe2b9",
+    "entity_type": "TOOL",
+    "name": "Microsoft Translator",
+    "description": "Break language barriers: translate text, speech, real-time conversations.",
+    "url": "https://www.futurepedia.io/tool/microsoft-translator",
+    "categories": [
+      "translator"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/microsoft-translator"
+    },
+    "collected_at": "2026-08-12T13:07:39.569619+00:00",
+    "startup_name": "Microsoft Translator",
+    "pricing_model": "FREE",
+    "catalog_view": "Tools"
+  },
+  {
+    "id": "14bc4cd7-37b0-52e7-9c6b-b9c16a128006",
+    "entity_type": "TOOL",
+    "name": "Google Translate",
+    "description": "Instant translations across 100+ languages, voice, text, and image.",
+    "url": "https://www.futurepedia.io/tool/google-translate",
+    "categories": [
+      "translator"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/google-translate"
+    },
+    "collected_at": "2026-08-12T13:07:39.569473+00:00",
+    "startup_name": "Google Translate",
+    "pricing_model": "FREE",
+    "catalog_view": "Tools"
+  },
+  {
+    "id": "ba3ccb12-d4cf-505a-9a4f-5bd9094c6167",
+    "entity_type": "TOOL",
+    "name": "ChatAnything.AI - AI Text To Image And Speech Generator",
+    "description": "by ChatAnything.AI",
+    "url": "https://www.toolpilot.ai/collections/images-photos/products/chatanything-ai",
+    "categories": [
+      "Images Photos"
+    ],
+    "source": {
+      "name": "ToolPilot",
+      "url": "https://www.toolpilot.ai/collections/images-photos/products/chatanything-ai"
+    },
+    "collected_at": "2026-08-12T13:07:46.673832+00:00",
+    "startup_name": "ChatAnything.AI - AI Text To Image And Speech Generator",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Tools"
+  },
+  {
+    "id": "a66f113e-e3d5-5461-8aee-b4b6d6a88e9a",
+    "entity_type": "TOOL",
+    "name": "Palabra.ai - Palabra.ai is a real-time AI speech translation platform.",
+    "description": "by Palabra AI",
+    "url": "https://www.toolpilot.ai/collections/text-content/products/palabra-ai",
+    "categories": [
+      "Text Content"
+    ],
+    "source": {
+      "name": "ToolPilot",
+      "url": "https://www.toolpilot.ai/collections/text-content/products/palabra-ai"
+    },
+    "collected_at": "2026-08-12T13:07:40.634119+00:00",
+    "startup_name": "Palabra.ai - Palabra.ai is a real-time AI speech translation platform",
+    "pricing_model": "PAID",
+    "catalog_view": "Tools"
+  },
+  {
+    "id": "01d1f649-2f76-5343-890d-284917344313",
+    "entity_type": "TOOL",
+    "name": "CM3leon by Meta",
+    "description": "Unleash creativity and insight with a single AI for text-to-image and image-to-text transformations.",
+    "url": "https://www.futurepedia.io/tool/cm3leon-by-meta",
+    "categories": [
+      "text to image"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/cm3leon-by-meta"
+    },
+    "collected_at": "2026-08-12T13:09:12.295716+00:00",
+    "startup_name": "CM3leon by Meta",
+    "pricing_model": null,
+    "catalog_view": "Tools"
+  },
+  {
+    "id": "d5637495-b60c-5535-914a-3f74871a841e",
+    "entity_type": "TOOL",
+    "name": "GoZen Content AI",
+    "description": "Revolutionize content creation with AI-powered writing, multilingual support, and image generation.",
+    "url": "https://www.futurepedia.io/tool/gozen-content-ai",
+    "categories": [
+      "copywriting"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/gozen-content-ai"
+    },
+    "collected_at": "2026-08-12T13:09:03.908387+00:00",
+    "startup_name": "GoZen Content AI",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Tools"
+  },
+  {
+    "id": "b653560e-4b4c-5d36-9d9a-823d452bf3b1",
+    "entity_type": "TOOL",
+    "name": "Gen-2 by Runway",
+    "description": "An AI tool that creates videos from text, images, or clips, blending creativity with technology.",
+    "url": "https://www.futurepedia.io/tool/gen-2-by-runway",
+    "categories": [
+      "video generators"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/gen-2-by-runway"
+    },
+    "collected_at": "2026-08-12T13:08:56.913941+00:00",
+    "startup_name": "Gen-2 by Runway",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Tools"
+  },
+  {
+    "id": "08ce274f-1442-5f2e-83d3-022974c51e68",
+    "entity_type": "TOOL",
+    "name": "TheB.AI",
+    "description": "Unified AI platform offering customizable chatbots, image generation, and API integration.",
+    "url": "https://www.futurepedia.io/tool/theb-ai",
+    "categories": [
+      "ai chatbots"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/theb-ai"
+    },
+    "collected_at": "2026-08-12T13:09:18.659556+00:00",
+    "startup_name": "TheB.AI",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Tools"
+  },
+  {
+    "id": "d21516a2-3cf1-5e57-8f1f-3fa4d8bd54cb",
+    "entity_type": "TOOL",
+    "name": "CogiX",
+    "description": "Unleash creativity with AI-driven text, image, code generation, and multilingual chatbots.",
+    "url": "https://www.futurepedia.io/tool/cogix",
+    "categories": [
+      "writing generators"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/cogix"
+    },
+    "collected_at": "2026-08-12T13:09:06.397615+00:00",
+    "startup_name": "CogiX",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Tools"
+  },
+  {
+    "id": "171a6356-e5de-52ae-ae30-9943a76ec238",
+    "entity_type": "TOOL",
+    "name": "Google Imagen 3",
+    "description": "Revolutionizes photorealism in AI-generated images with deep language understanding.",
+    "url": "https://www.futurepedia.io/tool/google-imagen-3",
+    "categories": [
+      "text to image"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/google-imagen-3"
+    },
+    "collected_at": "2026-08-12T13:09:03.914913+00:00",
+    "startup_name": "Google Imagen 3",
+    "pricing_model": "FREE",
+    "catalog_view": "Tools"
+  },
+  {
+    "id": "da288100-2f78-5746-bba6-8d3916d09788",
+    "entity_type": "TOOL",
+    "name": "Ideogram",
+    "description": "Transform text to stunning visuals with AI, enhancing creativity and collaboration.",
+    "url": "https://www.futurepedia.io/tool/ideogram",
+    "categories": [
+      "image generators"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/ideogram"
+    },
+    "collected_at": "2026-08-12T13:09:01.805309+00:00",
+    "startup_name": "Ideogram",
+    "pricing_model": "FREE",
+    "catalog_view": "Tools"
+  },
+  {
+    "id": "30ca75ac-7c7c-5385-8b72-a2a6a5919e97",
+    "entity_type": "TOOL",
+    "name": "Vertex AI",
+    "description": "Streamline ML workflows with Google's advanced AI models and robust MLOps tools.",
+    "url": "https://www.futurepedia.io/tool/vertex-ai",
+    "categories": [
+      "ai chatbots"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/vertex-ai"
+    },
+    "collected_at": "2026-08-12T13:09:18.660868+00:00",
+    "startup_name": "Vertex AI",
+    "pricing_model": null,
+    "catalog_view": "Tools"
+  },
+  {
+    "id": "0d2aa736-d5d5-587b-a9a0-37df0b8156eb",
+    "entity_type": "TOOL",
+    "name": "DiffusionBee",
+    "description": "Transform text into stunning AI art offline on macOS, free and user-friendly.",
+    "url": "https://www.futurepedia.io/tool/diffusionbee",
+    "categories": [
+      "image generators"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/diffusionbee"
+    },
+    "collected_at": "2026-08-12T13:09:01.804401+00:00",
+    "startup_name": "DiffusionBee",
+    "pricing_model": "FREE",
+    "catalog_view": "Tools"
+  },
+  {
+    "id": "9bfa43e7-cf0c-5be1-92b2-3b623424a89b",
+    "entity_type": "TOOL",
+    "name": "Aithor",
+    "description": "Revolutionize writing with AI-powered paraphrasing and plagiarism detection.",
+    "url": "https://www.futurepedia.io/tool/aithor",
+    "categories": [
+      "writing generators"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/aithor"
+    },
+    "collected_at": "2026-08-12T13:09:26.310584+00:00",
+    "startup_name": "Aithor",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Tools"
+  },
+  {
+    "id": "d57613db-64a1-5733-a6a5-8b05049a7143",
+    "entity_type": "TOOL",
+    "name": "ZMO",
+    "description": "Seamlessly turn text and images into diverse, AI-driven visual masterpieces.",
+    "url": "https://www.futurepedia.io/tool/zmo",
+    "categories": [
+      "image generators"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/zmo"
+    },
+    "collected_at": "2026-08-12T13:09:12.296463+00:00",
+    "startup_name": "ZMO",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Tools"
+  },
+  {
+    "id": "617af657-1eb1-5d19-8883-c2c2cf9bd8f5",
+    "entity_type": "TOOL",
+    "name": "Cabina AI",
+    "description": "Streamline content creation and image generation with multi-LLM integration.",
+    "url": "https://www.futurepedia.io/tool/cabinaai",
+    "categories": [
+      "writing generators"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/cabinaai"
+    },
+    "collected_at": "2026-08-12T13:09:03.912387+00:00",
+    "startup_name": "Cabina AI",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Tools"
+  },
+  {
+    "id": "dd33f76d-d0a0-56d7-b94f-cb622cffe989",
+    "entity_type": "TOOL",
+    "name": "StarryAI",
+    "description": "Transform text into stunning AI-generated art, fully owning your creations.",
+    "url": "https://www.futurepedia.io/tool/starryai",
+    "categories": [
+      "text to image"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/starryai"
+    },
+    "collected_at": "2026-08-12T13:09:15.259447+00:00",
+    "startup_name": "StarryAI",
+    "pricing_model": "PAID",
+    "catalog_view": "Tools"
+  },
+  {
+    "id": "7a2bbeb7-a92a-54ad-b51e-06cf1bdad9cc",
+    "entity_type": "TOOL",
+    "name": "PicSo",
+    "description": "Transform text into diverse art styles effortlessly with AI on any device.",
+    "url": "https://www.futurepedia.io/tool/picso",
+    "categories": [
+      "text to image"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/picso"
+    },
+    "collected_at": "2026-08-12T13:09:03.914279+00:00",
+    "startup_name": "PicSo",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Tools"
+  },
+  {
+    "id": "29e01fb0-1d8b-53fd-8033-9e118073b873",
+    "entity_type": "TOOL",
+    "name": "Dezgo",
+    "description": "Transform text into stunning images or videos with AI-driven creativity.",
+    "url": "https://www.futurepedia.io/tool/dezgo",
+    "categories": [
+      "video generators"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/dezgo"
+    },
+    "collected_at": "2026-08-12T13:08:56.915293+00:00",
+    "startup_name": "Dezgo",
+    "pricing_model": "FREE",
+    "catalog_view": "Tools"
+  },
+  {
+    "id": "11bec1e3-189b-5d59-a096-b9cc9b114c74",
+    "entity_type": "TOOL",
+    "name": "Artigen Pro AI",
+    "description": "Transform text into realistic images instantly, free and user-friendly.",
+    "url": "https://www.futurepedia.io/tool/artigen-pro-ai",
+    "categories": [
+      "image generators"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/artigen-pro-ai"
+    },
+    "collected_at": "2026-08-12T13:09:06.395816+00:00",
+    "startup_name": "Artigen Pro AI",
+    "pricing_model": "FREE",
+    "catalog_view": "Tools"
+  },
+  {
+    "id": "c159c995-c7c1-514c-9df0-c65285a6ba86",
+    "entity_type": "TOOL",
+    "name": "Typho",
+    "description": "AI-driven artistry: Create stunning, personalized portraits from text.",
+    "url": "https://www.futurepedia.io/tool/typho",
+    "categories": [
+      "image generators"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/typho"
+    },
+    "collected_at": "2026-08-12T13:09:03.906994+00:00",
+    "startup_name": "Typho",
+    "pricing_model": "FREE",
+    "catalog_view": "Tools"
+  },
+  {
+    "id": "eacb013a-2fa3-59b6-b699-9f26ff4eda28",
+    "entity_type": "TOOL",
+    "name": "Stable Horde",
+    "description": "Harness AI for efficient, community-driven image and text generation.",
+    "url": "https://www.futurepedia.io/tool/stable-horde",
+    "categories": [
+      "image generators"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/stable-horde"
+    },
+    "collected_at": "2026-08-12T13:08:56.915021+00:00",
+    "startup_name": "Stable Horde",
+    "pricing_model": "FREE",
+    "catalog_view": "Tools"
+  },
+  {
+    "id": "1149c85b-c351-5c9b-b5e3-d4ada8f2ebf8",
+    "entity_type": "TOOL",
+    "name": "Imagine",
+    "description": "Transform ideas into high-resolution AI-generated art effortlessly.",
+    "url": "https://www.futurepedia.io/tool/imagine",
+    "categories": [
+      "text to image"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/imagine"
+    },
+    "collected_at": "2026-08-12T13:09:06.396609+00:00",
+    "startup_name": "Imagine",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Tools"
+  },
+  {
+    "id": "c52ab392-6415-5e92-bb5c-f806ce5196e9",
+    "entity_type": "TOOL",
+    "name": "Viggle AI",
+    "description": "Animate images effortlessly with text prompts and motion control.",
+    "url": "https://www.futurepedia.io/tool/viggle",
+    "categories": [
+      "video generators"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/viggle"
+    },
+    "collected_at": "2026-08-12T13:10:18.545269+00:00",
+    "startup_name": "Viggle AI",
+    "pricing_model": "FREE",
+    "catalog_view": "Tools"
+  },
+  {
+    "id": "b22f2dc3-5e13-5747-9dee-063d5efce167",
+    "entity_type": "TOOL",
+    "name": "Meta AI",
+    "description": "Enhances machine learning, NLP, and computer vision capabilities.",
+    "url": "https://www.futurepedia.io/tool/meta-ai",
+    "categories": [
+      "ai chatbots"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/meta-ai"
+    },
+    "collected_at": "2026-08-12T13:09:10.184492+00:00",
+    "startup_name": "Meta AI",
+    "pricing_model": "FREE",
+    "catalog_view": "Tools"
+  },
+  {
+    "id": "cd5de335-5056-5ef9-8f12-3657e265cecf",
+    "entity_type": "TOOL",
+    "name": "Magnific AI Image Generator",
+    "description": "Create high-resolution, detailed images from prompts and photos.",
+    "url": "https://www.futurepedia.io/tool/magnific-ai-image-generator",
+    "categories": [
+      "text to image"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/magnific-ai-image-generator"
+    },
+    "collected_at": "2026-08-12T13:09:06.398109+00:00",
+    "startup_name": "Magnific AI Image Generator",
+    "pricing_model": "PAID",
+    "catalog_view": "Tools"
+  },
+  {
+    "id": "8a5b9798-e2b3-5642-bc9c-5e2e124d0e1f",
+    "entity_type": "TOOL",
+    "name": "Dreamina",
+    "description": "Effortlessly transform text prompts into stunning visual art.",
+    "url": "https://www.futurepedia.io/tool/dreamina",
+    "categories": [
+      "text to image"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/dreamina"
+    },
+    "collected_at": "2026-08-12T13:09:10.186182+00:00",
+    "startup_name": "Dreamina",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Tools"
+  },
+  {
+    "id": "2a8ae78a-8ffb-55b7-88a2-0f0d39fd4085",
+    "entity_type": "TOOL",
+    "name": "Elai.io",
+    "description": "Transform video creation with AI avatars and text-to-speech.",
+    "url": "https://www.futurepedia.io/tool/elai-io",
+    "categories": [
+      "video generators"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/elai-io"
+    },
+    "collected_at": "2026-08-12T13:10:12.780475+00:00",
+    "startup_name": "Elai.io",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Tools"
+  },
+  {
+    "id": "de72e737-b417-5e08-886f-53fa3a0a545f",
+    "entity_type": "TOOL",
+    "name": "Transkriptor",
+    "description": "Effortlessly transcribe audio to text across 100+ languages.",
+    "url": "https://www.futurepedia.io/tool/transkriptor",
+    "categories": [
+      "transcriber"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/transkriptor"
+    },
+    "collected_at": "2026-08-12T13:09:26.312341+00:00",
+    "startup_name": "Transkriptor",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Tools"
+  },
+  {
+    "id": "7f4910f7-0f5a-5dba-afcf-863008b08660",
+    "entity_type": "TOOL",
+    "name": "Jasper Art",
+    "description": "Transform text into stunning, royalty-free images instantly.",
+    "url": "https://www.futurepedia.io/tool/jasper-art",
+    "categories": [
+      "text to image"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/jasper-art"
+    },
+    "collected_at": "2026-08-12T13:09:10.184664+00:00",
+    "startup_name": "Jasper Art",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Tools"
+  }
+]

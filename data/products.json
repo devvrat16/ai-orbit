@@ -1,0 +1,512 @@
+[
+  {
+    "id": "648b5de1-a52e-5144-996f-456beb77aa68",
+    "entity_type": "PRODUCT",
+    "name": "AutoGPT",
+    "description": "Automate workflows with customizable AI agents seamlessly.",
+    "url": "https://www.futurepedia.io/tool/auto-gpt",
+    "categories": [
+      "ai agents"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/auto-gpt"
+    },
+    "collected_at": "2026-08-19T08:04:38.897308+00:00",
+    "startup_name": "AutoGPT",
+    "pricing_model": "FREE"
+  },
+  {
+    "id": "fd89dda7-1c86-5c8f-876b-7c1d73c22cec",
+    "entity_type": "PRODUCT",
+    "name": "n8n",
+    "description": "Build, inspect, and automate AI workflows visually.",
+    "url": "https://www.futurepedia.io/tool/n8n",
+    "categories": [
+      "workflows"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/n8n"
+    },
+    "collected_at": "2026-08-19T08:04:38.897079+00:00",
+    "startup_name": "n8n",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "e50769e2-141f-537f-ac27-7ffef7955733",
+    "entity_type": "PRODUCT",
+    "name": "ZenCall.ai",
+    "description": "Streamlines multilingual call management with seamless app integration.",
+    "url": "https://www.futurepedia.io/tool/zencall-ai",
+    "categories": [
+      "customer support"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/zencall-ai"
+    },
+    "collected_at": "2026-08-19T08:04:38.896844+00:00",
+    "startup_name": "ZenCall.ai",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "378e1c54-de4f-5c69-ab3b-bc0c530bf240",
+    "entity_type": "PRODUCT",
+    "name": "Microsoft Bing",
+    "description": "AI-enhanced precision searches with personalized, multimedia-rich results.",
+    "url": "https://www.futurepedia.io/tool/microsoft-bing",
+    "categories": [
+      "search engine"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/microsoft-bing"
+    },
+    "collected_at": "2026-08-19T08:03:52.983095+00:00",
+    "startup_name": "Microsoft Bing",
+    "pricing_model": "FREE"
+  },
+  {
+    "id": "36c8d1d9-4c0b-56d2-8db4-9b6c2179affc",
+    "entity_type": "PRODUCT",
+    "name": "Komo Search",
+    "description": "Revolutionize search with AI: intuitive, efficient, customizable, secure.",
+    "url": "https://www.futurepedia.io/tool/komo-search",
+    "categories": [
+      "search engine"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/komo-search"
+    },
+    "collected_at": "2026-08-19T08:03:52.982934+00:00",
+    "startup_name": "Komo Search",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "6a59018d-cced-5863-a77e-17988d898fdc",
+    "entity_type": "PRODUCT",
+    "name": "QuickSearchPlus",
+    "description": "Effortlessly manage bookmarks and browse securely across devices.",
+    "url": "https://www.futurepedia.io/tool/quicksearchplus",
+    "categories": [
+      "search engine"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/quicksearchplus"
+    },
+    "collected_at": "2026-08-19T08:03:52.982774+00:00",
+    "startup_name": "QuickSearchPlus",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "9d05c1b6-0197-5fea-9e32-c36ee5d1afdb",
+    "entity_type": "PRODUCT",
+    "name": "Merlin",
+    "description": "Enhance web productivity with AI: write, summarize, code, translate effortlessly.",
+    "url": "https://www.futurepedia.io/tool/merlin",
+    "categories": [
+      "ai chatbots"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/merlin"
+    },
+    "collected_at": "2026-08-19T08:03:52.982615+00:00",
+    "startup_name": "Merlin",
+    "pricing_model": "FREE"
+  },
+  {
+    "id": "100f2f93-b939-5fd5-b7e6-74daec3e192d",
+    "entity_type": "PRODUCT",
+    "name": "Shortwave",
+    "description": "AI-powered email tool enhances productivity and organization.",
+    "url": "https://www.futurepedia.io/tool/shortwave",
+    "categories": [
+      "email assistant"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/shortwave"
+    },
+    "collected_at": "2026-08-19T08:03:52.982450+00:00",
+    "startup_name": "Shortwave",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "6288be64-f46d-5af5-b5c8-baf37d453046",
+    "entity_type": "PRODUCT",
+    "name": "Superhuman",
+    "description": "Revolutionize email with AI, speed, and intuitive productivity enhancements.",
+    "url": "https://www.futurepedia.io/tool/superhuman",
+    "categories": [
+      "email assistant"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/superhuman"
+    },
+    "collected_at": "2026-08-19T08:03:52.982296+00:00",
+    "startup_name": "Superhuman",
+    "pricing_model": "PAID"
+  },
+  {
+    "id": "5569013c-2a75-5e82-b2df-ff5af7bbbf70",
+    "entity_type": "PRODUCT",
+    "name": "Fellow",
+    "description": "Automates meeting notes, insights, and follow-ups seamlessly.",
+    "url": "https://www.futurepedia.io/tool/fellow",
+    "categories": [
+      "personal assistant"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/fellow"
+    },
+    "collected_at": "2026-08-19T08:03:52.982137+00:00",
+    "startup_name": "Fellow",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "55f083a1-fbad-5926-96eb-760d231663b1",
+    "entity_type": "PRODUCT",
+    "name": "STORYD",
+    "description": "Transform ideas into captivating presentations instantly with AI.",
+    "url": "https://www.futurepedia.io/tool/storyd",
+    "categories": [
+      "presentations"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/storyd"
+    },
+    "collected_at": "2026-08-19T08:03:52.981977+00:00",
+    "startup_name": "STORYD",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "862c5ace-2f47-56fa-bb30-b7cbd4f4d9e0",
+    "entity_type": "PRODUCT",
+    "name": "PowerMode AI",
+    "description": "Optimize business operations with AI-driven insights and automation.",
+    "url": "https://www.futurepedia.io/tool/powermode-ai",
+    "categories": [
+      "presentations"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/powermode-ai"
+    },
+    "collected_at": "2026-08-19T08:03:52.981804+00:00",
+    "startup_name": "PowerMode AI",
+    "pricing_model": "FREE"
+  },
+  {
+    "id": "90d8448e-a4e6-573c-a158-39898f889bca",
+    "entity_type": "PRODUCT",
+    "name": "Simplified",
+    "description": "Streamline marketing, design, and social media with AI-powered tools.",
+    "url": "https://www.futurepedia.io/tool/simplified",
+    "categories": [
+      "marketing"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/simplified"
+    },
+    "collected_at": "2026-08-19T08:03:52.981643+00:00",
+    "startup_name": "Simplified",
+    "pricing_model": "PAID"
+  },
+  {
+    "id": "3770b513-c9ec-5166-aeea-48e7a438c937",
+    "entity_type": "PRODUCT",
+    "name": "Plus AI",
+    "description": "Transform Google Slides with intuitive, multilingual AI tools.",
+    "url": "https://www.futurepedia.io/tool/plusdocs",
+    "categories": [
+      "presentations"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/plusdocs"
+    },
+    "collected_at": "2026-08-19T08:03:52.981478+00:00",
+    "startup_name": "Plus AI",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "6207c492-938f-5fd4-a79c-075700d95c15",
+    "entity_type": "PRODUCT",
+    "name": "Synthesia",
+    "description": "AI-powered platform for quick, multilingual video creation.",
+    "url": "https://www.futurepedia.io/tool/synthesia",
+    "categories": [
+      "video generators"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/synthesia"
+    },
+    "collected_at": "2026-08-19T08:03:52.981305+00:00",
+    "startup_name": "Synthesia",
+    "pricing_model": "PAID"
+  },
+  {
+    "id": "125ea3c1-6066-5ce0-b3bf-b07b476fe2b9",
+    "entity_type": "PRODUCT",
+    "name": "Microsoft Translator",
+    "description": "Break language barriers: translate text, speech, real-time conversations.",
+    "url": "https://www.futurepedia.io/tool/microsoft-translator",
+    "categories": [
+      "translator"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/microsoft-translator"
+    },
+    "collected_at": "2026-08-19T08:03:52.981130+00:00",
+    "startup_name": "Microsoft Translator",
+    "pricing_model": "FREE"
+  },
+  {
+    "id": "14bc4cd7-37b0-52e7-9c6b-b9c16a128006",
+    "entity_type": "PRODUCT",
+    "name": "Google Translate",
+    "description": "Instant translations across 100+ languages, voice, text, and image.",
+    "url": "https://www.futurepedia.io/tool/google-translate",
+    "categories": [
+      "translator"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/google-translate"
+    },
+    "collected_at": "2026-08-19T08:03:52.980956+00:00",
+    "startup_name": "Google Translate",
+    "pricing_model": "FREE"
+  },
+  {
+    "id": "1b1cbbc3-d724-5752-8b17-8c49dab368b2",
+    "entity_type": "PRODUCT",
+    "name": "DeepL Translator",
+    "description": "Transform text across 32 languages with unmatched accuracy.",
+    "url": "https://www.futurepedia.io/tool/deepl-translator",
+    "categories": [
+      "translator"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/deepl-translator"
+    },
+    "collected_at": "2026-08-19T08:03:52.980793+00:00",
+    "startup_name": "DeepL Translator",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "b4accddb-98e6-5413-b9c6-07576565659b",
+    "entity_type": "PRODUCT",
+    "name": "Zoho Sheet",
+    "description": "Create, analyze, and collaborate on spreadsheets seamlessly online.",
+    "url": "https://www.futurepedia.io/tool/zoho-sheet",
+    "categories": [
+      "spreadsheets"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/zoho-sheet"
+    },
+    "collected_at": "2026-08-19T08:03:52.980629+00:00",
+    "startup_name": "Zoho Sheet",
+    "pricing_model": "FREE"
+  },
+  {
+    "id": "2349ef76-60bc-57bf-b643-33704f884dcb",
+    "entity_type": "PRODUCT",
+    "name": "Rows AI",
+    "description": "Transform spreadsheets into AI-powered data analysis tools, simplifying complex insights.",
+    "url": "https://www.futurepedia.io/tool/rows-ai",
+    "categories": [
+      "spreadsheets"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/rows-ai"
+    },
+    "collected_at": "2026-08-19T08:03:52.980456+00:00",
+    "startup_name": "Rows AI",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "26b88e67-acc3-5d1d-8fed-7010d4532109",
+    "entity_type": "PRODUCT",
+    "name": "Gigasheet",
+    "description": "Transform big data with spreadsheet ease; no-code, AI-enhanced analysis.",
+    "url": "https://www.futurepedia.io/tool/gigasheet",
+    "categories": [
+      "spreadsheets"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/gigasheet"
+    },
+    "collected_at": "2026-08-19T08:03:52.980253+00:00",
+    "startup_name": "Gigasheet",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "b73f7538-c0a4-530f-854f-cbcabcf03fa9",
+    "entity_type": "PRODUCT",
+    "name": "Lido",
+    "description": "Streamlines PDF-to-Excel conversion for finance teams.",
+    "url": "https://www.futurepedia.io/tool/lido",
+    "categories": [
+      "finance"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/lido"
+    },
+    "collected_at": "2026-08-19T08:03:52.980035+00:00",
+    "startup_name": "Lido",
+    "pricing_model": "PAID"
+  },
+  {
+    "id": "f43ee7db-4a8d-5cec-9e79-a3537fa3af6b",
+    "entity_type": "PRODUCT",
+    "name": "Scite",
+    "description": "Transform research with AI-driven Smart Citations and deep insights.",
+    "url": "https://www.futurepedia.io/tool/scite",
+    "categories": [
+      "research"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/scite"
+    },
+    "collected_at": "2026-08-19T08:03:52.979874+00:00",
+    "startup_name": "Scite",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "b332a93f-3b1e-5d13-9e72-bbde1341e65d",
+    "entity_type": "PRODUCT",
+    "name": "Julius AI",
+    "description": "Unleash AI-driven data analysis with real-time insights and automated processing.",
+    "url": "https://www.futurepedia.io/tool/julius",
+    "categories": [
+      "marketing"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/julius"
+    },
+    "collected_at": "2026-08-19T08:03:52.979718+00:00",
+    "startup_name": "Julius AI",
+    "pricing_model": "PAID"
+  },
+  {
+    "id": "8533648a-e533-5489-8f4c-6dd736f5be9f",
+    "entity_type": "PRODUCT",
+    "name": "Consensus",
+    "description": "Unlock expert knowledge: AI-powered, ad-free research from 200M+ scientific papers.",
+    "url": "https://www.futurepedia.io/tool/consensus",
+    "categories": [
+      "research"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/consensus"
+    },
+    "collected_at": "2026-08-19T08:03:52.979545+00:00",
+    "startup_name": "Consensus",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "074bda6c-548b-5417-8561-b89a2878cf1c",
+    "entity_type": "PRODUCT",
+    "name": "SoBrief",
+    "description": "73,530 free book summaries in 40 languages (with paid audio).",
+    "url": "https://www.futurepedia.io/tool/sobrief",
+    "categories": [
+      "summarizer"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/sobrief"
+    },
+    "collected_at": "2026-08-19T08:03:52.979348+00:00",
+    "startup_name": "SoBrief",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "ca05e85e-e1b2-5b37-8d8d-7120dce3d0e2",
+    "entity_type": "PRODUCT",
+    "name": "Jigso",
+    "description": "Optimize tasks, automate alerts, and retrieve data seamlessly.",
+    "url": "https://www.futurepedia.io/tool/jigso",
+    "categories": [
+      "personal assistant"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/jigso"
+    },
+    "collected_at": "2026-08-19T08:03:52.979186+00:00",
+    "startup_name": "Jigso",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "f3527ba2-2aec-5306-927d-b60bb065caba",
+    "entity_type": "PRODUCT",
+    "name": "You",
+    "description": "Transforms searches into personalized, private experiences with AI-driven results.",
+    "url": "https://www.futurepedia.io/tool/you",
+    "categories": [
+      "search engine"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/you"
+    },
+    "collected_at": "2026-08-19T08:03:52.978991+00:00",
+    "startup_name": "You",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "ce79828e-7c92-54a4-baac-4c17488390a7",
+    "entity_type": "PRODUCT",
+    "name": "Monica",
+    "description": "AI assistant revolutionizing chat, writing, coding, and more.",
+    "url": "https://www.futurepedia.io/tool/monica",
+    "categories": [
+      "ai chatbots"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/monica"
+    },
+    "collected_at": "2026-08-19T08:03:52.978825+00:00",
+    "startup_name": "Monica",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "79633cd4-9433-5390-89e6-d242c50aa204",
+    "entity_type": "PRODUCT",
+    "name": "MagicTrips",
+    "description": "Effortlessly create personalized travel itineraries in seconds.",
+    "url": "https://www.futurepedia.io/tool/magictrips",
+    "categories": [
+      "travel"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/magictrips"
+    },
+    "collected_at": "2026-08-19T08:03:52.978625+00:00",
+    "startup_name": "MagicTrips",
+    "pricing_model": "FREE"
+  }
+]

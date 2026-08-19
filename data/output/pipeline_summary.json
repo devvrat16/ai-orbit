@@ -1,0 +1,66 @@
+{
+  "mode": "incremental",
+  "sources": {
+    "official_product_sites": {
+      "new_candidates_enriched": 60
+    },
+    "ai_directories": {
+      "candidates": 1000
+    },
+    "github": {
+      "candidates": 199,
+      "token_configured": true
+    },
+    "hugging_face": {
+      "models": 0,
+      "datasets": 0
+    },
+    "youtube": {
+      "candidates": 73,
+      "api_key_configured": true
+    },
+    "news_rss": {
+      "fresh_candidates": 40,
+      "freshness_hours": 24
+    }
+  },
+  "added": {
+    "startups": 30,
+    "products": 30,
+    "research_papers": 1000,
+    "repositories": 199,
+    "models": 0,
+    "datasets": 0,
+    "videos": 73,
+    "news": 40,
+    "jobs": 175
+  },
+  "resolution": {
+    "STARTUP": {
+      "changed": 2
+    },
+    "PRODUCT": {
+      "changed": 0
+    },
+    "JOB": {
+      "changed": 18
+    },
+    "resolver": {
+      "total_mappings": 161,
+      "resolved": 4,
+      "unresolved": 157,
+      "resolution_rate": "2.5%"
+    }
+  },
+  "sqlite_counts": {
+    "JOB": 175,
+    "NEWS": 40,
+    "PRODUCT": 30,
+    "REPOSITORY": 199,
+    "RESEARCH_PAPER": 1000,
+    "STARTUP": 30,
+    "VIDEO": 73
+  },
+  "freshness_hours": 24,
+  "timestamp": "2026-08-19T08:09:54.033909+00:00"
+}

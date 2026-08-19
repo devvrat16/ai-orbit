@@ -1,0 +1,610 @@
+[
+  {
+    "id": "138a1562-108d-5050-ad28-43b25bfcb3ed",
+    "entity_type": "COMPANY",
+    "name": "Blue",
+    "description": "Your phone finally has someone to run it. Plug in Blue, just ask.",
+    "url": "https://heyblue.com/",
+    "categories": [
+      "Hardware",
+      "Productivity",
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/blue"
+    },
+    "collected_at": "2026-08-12T13:07:28.450006Z",
+    "founding_year": null,
+    "industry_sector": "Hardware, Productivity, AI",
+    "headquarters": "San Francisco",
+    "employee_count": 6
+  },
+  {
+    "id": "3af40bcc-9e82-5ddd-9aa5-268894308d17",
+    "entity_type": "COMPANY",
+    "name": "Cas",
+    "description": "Autonomous security testing for web apps, APIs, cloud, and AI systems",
+    "url": "https://casco.com",
+    "categories": [
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/casco"
+    },
+    "collected_at": "2026-08-12T13:07:35.394247Z",
+    "founding_year": null,
+    "industry_sector": "",
+    "headquarters": "",
+    "employee_count": 10
+  },
+  {
+    "id": "6e6798ea-4bbb-50a4-b90b-728222bfab7f",
+    "entity_type": "COMPANY",
+    "name": "And",
+    "description": "Agents that build personal injury cases",
+    "url": "http://www.useandco.com",
+    "categories": [
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/andco"
+    },
+    "collected_at": "2026-08-12T13:07:16.916210Z",
+    "founding_year": null,
+    "industry_sector": "",
+    "headquarters": "San Francisco",
+    "employee_count": 3
+  },
+  {
+    "id": "dce80aae-f197-501e-9287-f14d8510ba35",
+    "entity_type": "COMPANY",
+    "name": "Ara",
+    "description": "The Cloud Coding Agent",
+    "url": "https://ara.so",
+    "categories": [
+      "Developer Tools",
+      "Enterprise Software",
+      "Cloud Computing"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/ara"
+    },
+    "collected_at": "2026-08-12T13:07:15.547578Z",
+    "founding_year": null,
+    "industry_sector": "Developer Tools, Enterprise Software, Cloud Computing",
+    "headquarters": "San Francisco",
+    "employee_count": 2
+  },
+  {
+    "id": "2a897881-0d13-5899-8706-7e83b2deb41b",
+    "entity_type": "COMPANY",
+    "name": "Hub",
+    "description": "Real-world training data for frontier AI labs and robotics.",
+    "url": "https://hub.xyz",
+    "categories": [
+      "Robotics",
+      "Crowdsourcing",
+      "Big Data",
+      "Infrastructure",
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/hub"
+    },
+    "collected_at": "2026-08-12T13:07:17.551698Z",
+    "founding_year": null,
+    "industry_sector": "Robotics, Crowdsourcing, Big Data, Infrastructure, AI",
+    "headquarters": "San Francisco",
+    "employee_count": 10
+  },
+  {
+    "id": "b1e37238-d435-5956-9494-7baa54af998b",
+    "entity_type": "COMPANY",
+    "name": "Shor",
+    "description": "International payroll, built for founders",
+    "url": "https://www.shorpay.com",
+    "categories": [
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/shor"
+    },
+    "collected_at": "2026-08-12T13:07:32.643728Z",
+    "founding_year": null,
+    "industry_sector": "",
+    "headquarters": "San Francisco",
+    "employee_count": 4
+  },
+  {
+    "id": "e5b13465-7b9b-5c34-a726-fc1afb3e29ed",
+    "entity_type": "COMPANY",
+    "name": "Way",
+    "description": "AI operator for medlegal cases",
+    "url": "https://wayco.ai",
+    "categories": [
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/wayco"
+    },
+    "collected_at": "2026-08-12T13:07:18.215118Z",
+    "founding_year": null,
+    "industry_sector": "",
+    "headquarters": "New York City",
+    "employee_count": 5
+  },
+  {
+    "id": "5f8851c1-a2cf-5e19-be89-5df1da10a3b7",
+    "entity_type": "COMPANY",
+    "name": "NVIDIA",
+    "description": "Computing company developing AI platforms, models and robotics systems.",
+    "url": "https://www.nvidia.com/",
+    "categories": [
+      "AI",
+      "Robotics",
+      "Physical AI"
+    ],
+    "source": {
+      "name": "Official Company Site",
+      "url": "https://www.nvidia.com/"
+    },
+    "collected_at": "2026-08-18T21:22:26.056966+00:00",
+    "founding_year": null,
+    "industry_sector": "AI / Robotics",
+    "headquarters": null,
+    "employee_count": null
+  },
+  {
+    "id": "f565a3ac-2ae4-59d4-bfad-886a5be10c51",
+    "entity_type": "COMPANY",
+    "name": "Banana ML",
+    "description": "The agentic system of action for hotel groups and management companies",
+    "url": "https://getanana.com",
+    "categories": [
+      "Artificial Intelligence"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/anana"
+    },
+    "collected_at": "2026-08-12T13:07:34.599902Z",
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": "New York City",
+    "employee_count": 2
+  },
+  {
+    "id": "6ea680fc-6950-5f3e-98c2-2afa62392bbc",
+    "entity_type": "COMPANY",
+    "name": "Agility Robotics",
+    "description": "Humanoid robotics company developing Digit for human-centric work.",
+    "url": "https://www.agilityrobotics.com/",
+    "categories": [
+      "AI",
+      "Robotics",
+      "Physical AI"
+    ],
+    "source": {
+      "name": "Official Company Site",
+      "url": "https://www.agilityrobotics.com/"
+    },
+    "collected_at": "2026-08-18T21:22:26.056965+00:00",
+    "founding_year": null,
+    "industry_sector": "AI / Robotics",
+    "headquarters": null,
+    "employee_count": null
+  },
+  {
+    "id": "a56d46c7-a175-5429-8c1a-0205b3d6463c",
+    "entity_type": "COMPANY",
+    "name": "OpenAI",
+    "description": "AI Financial Research Terminal built for Healthcare (and beyond)",
+    "url": "https://www.soriaanalytics.com/",
+    "categories": [
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/soria"
+    },
+    "collected_at": "2026-08-12T13:07:15.547504Z",
+    "founding_year": null,
+    "industry_sector": "",
+    "headquarters": "New York City",
+    "employee_count": 3
+  },
+  {
+    "id": "8bcd7b9d-11f1-58ea-bcac-d2552710e814",
+    "entity_type": "COMPANY",
+    "name": "Figure",
+    "description": "AI robotics company developing general-purpose humanoid robots.",
+    "url": "https://www.figure.ai/",
+    "categories": [
+      "AI",
+      "Robotics",
+      "Physical AI"
+    ],
+    "source": {
+      "name": "Official Company Site",
+      "url": "https://www.figure.ai/"
+    },
+    "collected_at": "2026-08-18T21:22:26.056960+00:00",
+    "founding_year": null,
+    "industry_sector": "AI / Robotics",
+    "headquarters": null,
+    "employee_count": null
+  },
+  {
+    "id": "e4d4d1c3-4b1c-5a65-9934-99d7e8d0edd1",
+    "entity_type": "COMPANY",
+    "name": "Boston Dynamics",
+    "description": "Robotics company building dynamic mobile robots and humanoids.",
+    "url": "https://bostondynamics.com/",
+    "categories": [
+      "AI",
+      "Robotics",
+      "Physical AI"
+    ],
+    "source": {
+      "name": "Official Company Site",
+      "url": "https://bostondynamics.com/"
+    },
+    "collected_at": "2026-08-18T21:22:26.056945+00:00",
+    "founding_year": null,
+    "industry_sector": "AI / Robotics",
+    "headquarters": null,
+    "employee_count": null
+  },
+  {
+    "id": "332c9707-ebd2-5402-b0ad-d6f0dc941933",
+    "entity_type": "COMPANY",
+    "name": "Unitree Robotics",
+    "description": "Robotics company developing quadruped and humanoid robots.",
+    "url": "https://www.unitree.com/",
+    "categories": [
+      "AI",
+      "Robotics",
+      "Physical AI"
+    ],
+    "source": {
+      "name": "Official Company Site",
+      "url": "https://www.unitree.com/"
+    },
+    "collected_at": "2026-08-18T21:22:26.056963+00:00",
+    "founding_year": null,
+    "industry_sector": "AI / Robotics",
+    "headquarters": null,
+    "employee_count": null
+  },
+  {
+    "id": "64daf357-870e-5208-8746-0effcc865cae",
+    "entity_type": "COMPANY",
+    "name": "Sapien",
+    "description": "Synthetic populations for decisions",
+    "url": "https://www.asksapien.ai/",
+    "categories": [
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/outrove"
+    },
+    "collected_at": "2026-08-12T13:07:28.450158Z",
+    "founding_year": null,
+    "industry_sector": "AI",
+    "headquarters": "San Francisco",
+    "employee_count": 2
+  },
+  {
+    "id": "4a68da7f-dd92-5618-9226-a16786a4a64a",
+    "entity_type": "COMPANY",
+    "name": "Cascade",
+    "description": "Distilling Proprietary Intelligence",
+    "url": "https://runcascade.com/",
+    "categories": [
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/cascade"
+    },
+    "collected_at": "2026-08-12T13:07:22.926169Z",
+    "founding_year": null,
+    "industry_sector": "",
+    "headquarters": "San Francisco",
+    "employee_count": 2
+  },
+  {
+    "id": "73de9af3-a493-5ef7-b54f-685a91bcd16e",
+    "entity_type": "COMPANY",
+    "name": "Prism",
+    "description": "AI-native recruiting agency",
+    "url": "https://tryprism.com/",
+    "categories": [
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/tryprism"
+    },
+    "collected_at": "2026-08-12T13:07:25.824088Z",
+    "founding_year": null,
+    "industry_sector": "",
+    "headquarters": "London",
+    "employee_count": 4
+  },
+  {
+    "id": "0d367828-1e4b-55cf-b66e-11ae2d54a741",
+    "entity_type": "COMPANY",
+    "name": "Bloom",
+    "description": "The brand layer for agents.",
+    "url": "https://trybloom.ai",
+    "categories": [
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/trybloom"
+    },
+    "collected_at": "2026-08-12T13:07:19.013947Z",
+    "founding_year": null,
+    "industry_sector": "",
+    "headquarters": "San Francisco",
+    "employee_count": 3
+  },
+  {
+    "id": "8ecd1b25-5339-5e78-9d1c-cdd789e4fae9",
+    "entity_type": "COMPANY",
+    "name": "Doe",
+    "description": "The boring stuff, handled. Everything else, supercharged.",
+    "url": "https://doe.so/",
+    "categories": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "SaaS",
+      "Productivity",
+      "Data Visualization"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/doe"
+    },
+    "collected_at": "2026-08-12T13:07:31.107478Z",
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence, Generative AI, SaaS, Productivity, Data Visualization",
+    "headquarters": "San Francisco",
+    "employee_count": 4
+  },
+  {
+    "id": "e3f53f57-f66a-586f-9ad2-0905815e8935",
+    "entity_type": "COMPANY",
+    "name": "Lab0",
+    "description": "AI FDEs to make your B2B SaaS Go Live in Days, not Months",
+    "url": "https://lab0.ai",
+    "categories": [
+      "SaaS",
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/lab0"
+    },
+    "collected_at": "2026-08-12T13:07:16.271673Z",
+    "founding_year": null,
+    "industry_sector": "SaaS, AI",
+    "headquarters": "San Francisco",
+    "employee_count": 3
+  },
+  {
+    "id": "c853998f-4d58-58df-8560-7a978e1e5a1b",
+    "entity_type": "COMPANY",
+    "name": "Nixo",
+    "description": "Deployment intelligence for forward deployed engineers",
+    "url": "https://withnixo.com/",
+    "categories": [
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/nixo"
+    },
+    "collected_at": "2026-08-12T13:07:34.599868Z",
+    "founding_year": null,
+    "industry_sector": "",
+    "headquarters": "San Francisco",
+    "employee_count": 6
+  },
+  {
+    "id": "1a0f8d99-ddcd-5ee9-af11-b6899b6260ef",
+    "entity_type": "COMPANY",
+    "name": "F2",
+    "description": "The AI platform for private markets investors",
+    "url": "http://f2.ai",
+    "categories": [
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/f2"
+    },
+    "collected_at": "2026-08-12T13:07:27.832441Z",
+    "founding_year": null,
+    "industry_sector": "AI",
+    "headquarters": "New York City",
+    "employee_count": 15
+  },
+  {
+    "id": "dfe7829a-8294-5755-89a9-b1fec4b418af",
+    "entity_type": "COMPANY",
+    "name": "Char",
+    "description": "The AI notepad that knows and works for you",
+    "url": "https://char.com",
+    "categories": [
+      "SaaS",
+      "Productivity",
+      "Open Source",
+      "AI",
+      "AI Assistant"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/char"
+    },
+    "collected_at": "2026-08-12T13:07:30.402754Z",
+    "founding_year": null,
+    "industry_sector": "SaaS, Productivity, Open Source, AI, AI Assistant",
+    "headquarters": "Seoul, South Korea",
+    "employee_count": 4
+  },
+  {
+    "id": "f3f12dcf-b319-55ae-8963-a1f3482486af",
+    "entity_type": "COMPANY",
+    "name": "Ashr",
+    "description": "Automated Multi-Modal Testing for Agents",
+    "url": "https://ashr.io",
+    "categories": [
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/ashr"
+    },
+    "collected_at": "2026-08-12T13:07:22.271473Z",
+    "founding_year": null,
+    "industry_sector": "",
+    "headquarters": "San Francisco",
+    "employee_count": 2
+  },
+  {
+    "id": "2450c4ad-c750-5714-881c-c441952f297b",
+    "entity_type": "COMPANY",
+    "name": "Lexi",
+    "description": "AI Operating System for Legal Teams",
+    "url": "https://getlexi.io/",
+    "categories": [
+      "SaaS",
+      "Legal",
+      "LegalTech",
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/lexi"
+    },
+    "collected_at": "2026-08-12T13:07:26.427029Z",
+    "founding_year": null,
+    "industry_sector": "SaaS, Legal, LegalTech, AI",
+    "headquarters": "San Francisco",
+    "employee_count": 15
+  },
+  {
+    "id": "c70ac619-189a-52e0-9f9e-807fc1b64f58",
+    "entity_type": "COMPANY",
+    "name": "Pops",
+    "description": "Create & play AI games with friends",
+    "url": "https://pops.fyi",
+    "categories": [
+      "Artificial Intelligence",
+      "Gaming",
+      "Social"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/pops"
+    },
+    "collected_at": "2026-08-12T13:07:14.854694Z",
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence, Gaming, Social",
+    "headquarters": "New York City",
+    "employee_count": 1
+  },
+  {
+    "id": "7111552c-3f30-57f5-8445-fcd13a1113f5",
+    "entity_type": "COMPANY",
+    "name": "Sol",
+    "description": "Code and browse in the same place",
+    "url": "https://www.solbrowser.com",
+    "categories": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Design",
+      "Design Tools"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/solbrowser"
+    },
+    "collected_at": "2026-08-12T13:07:25.824228Z",
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence, Developer Tools, Design, Design Tools",
+    "headquarters": "San Francisco",
+    "employee_count": 2
+  },
+  {
+    "id": "6560b6a2-182b-5043-aeca-e20717f926fc",
+    "entity_type": "COMPANY",
+    "name": "Nex",
+    "description": "Claude Cowork for GTM Automations",
+    "url": "https://nex.ai",
+    "categories": [
+      "AIOps",
+      "Workflow Automation"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/nex"
+    },
+    "collected_at": "2026-08-12T13:07:08.660688Z",
+    "founding_year": null,
+    "industry_sector": "AIOps, Workflow Automation",
+    "headquarters": "San Francisco",
+    "employee_count": 5
+  },
+  {
+    "id": "326d4993-ffe1-57f4-9436-cc76950b4f71",
+    "entity_type": "COMPANY",
+    "name": "sieve",
+    "description": "AI + human review to solve data cleaning - accessible via API or Excel",
+    "url": "https://usesieve.com/",
+    "categories": [
+      "Investing",
+      "Data Engineering",
+      "APIs"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/sieveai"
+    },
+    "collected_at": "2026-08-12T13:07:33.234023Z",
+    "founding_year": null,
+    "industry_sector": "Investing, Data Engineering, APIs",
+    "headquarters": "New York City",
+    "employee_count": 2
+  },
+  {
+    "id": "c2f44365-3a1c-52fb-b259-d42c3da959f1",
+    "entity_type": "COMPANY",
+    "name": "truth",
+    "description": "Automatically blocking risky behavior with real-time governance agents",
+    "url": "https://www.truthsystems.ai",
+    "categories": [
+      "Artificial Intelligence"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/truthsystems"
+    },
+    "collected_at": "2026-08-12T13:07:32.643810Z",
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": "San Francisco",
+    "employee_count": 6
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "id": "1d978314-40fb-5b98-8265-538a625c49f8",
+    "entity_type": "DATASET",
+    "name": "HuggingFaceH4/ultrachat_200k",
+    "description": "Large instruction/chat dataset for supervised fine-tuning and conversational model research.",
+    "url": "https://huggingface.co/datasets/HuggingFaceH4/ultrachat_200k",
+    "categories": [
+      "AI Dataset"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/datasets/HuggingFaceH4/ultrachat_200k"
+    },
+    "provider": "HuggingFaceH4",
+    "tags": [
+      "dataset",
+      "AI/ML"
+    ]
+  },
+  {
+    "id": "9847ea18-b316-5a43-950d-bae28a3f7039",
+    "entity_type": "DATASET",
+    "name": "openai/gsm8k",
+    "description": "Grade-school math word-problem benchmark used for mathematical reasoning evaluation.",
+    "url": "https://huggingface.co/datasets/openai/gsm8k",
+    "categories": [
+      "AI Dataset"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/datasets/openai/gsm8k"
+    },
+    "provider": "openai",
+    "tags": [
+      "dataset",
+      "AI/ML"
+    ]
+  },
+  {
+    "id": "2cb4912e-0a77-5086-a15c-b43e1e701704",
+    "entity_type": "DATASET",
+    "name": "rajpurkar/squad",
+    "description": "Stanford Question Answering Dataset for extractive question answering.",
+    "url": "https://huggingface.co/datasets/rajpurkar/squad",
+    "categories": [
+      "AI Dataset"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/datasets/rajpurkar/squad"
+    },
+    "provider": "rajpurkar",
+    "tags": [
+      "dataset",
+      "AI/ML"
+    ]
+  },
+  {
+    "id": "f8cc1dd8-22ea-5cd2-8b39-a7c4c046d20d",
+    "entity_type": "DATASET",
+    "name": "stanfordnlp/imdb",
+    "description": "Large movie-review sentiment dataset used for text classification research.",
+    "url": "https://huggingface.co/datasets/stanfordnlp/imdb",
+    "categories": [
+      "AI Dataset"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/datasets/stanfordnlp/imdb"
+    },
+    "provider": "stanfordnlp",
+    "tags": [
+      "dataset",
+      "AI/ML"
+    ]
+  },
+  {
+    "id": "acb81848-d516-5171-ad50-dcf63e2dac83",
+    "entity_type": "DATASET",
+    "name": "Anthropic/hh-rlhf",
+    "description": "Human preference data for helpfulness and harmlessness research in language models.",
+    "url": "https://huggingface.co/datasets/Anthropic/hh-rlhf",
+    "categories": [
+      "AI Dataset"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/datasets/Anthropic/hh-rlhf"
+    },
+    "provider": "Anthropic",
+    "tags": [
+      "dataset",
+      "AI/ML"
+    ]
+  }
+]
