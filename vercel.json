@@ -1,10 +1,8 @@
 {
-  "version": 2,
-  "cleanUrls": true,
-  "headers": [
+  "rewrites": [
     {
-      "source": "/data/(.*)\.json",
-      "headers": [{"key":"Cache-Control","value":"public, max-age=60, s-maxage=300"}]
+      "source": "/(.*)",
+      "destination": "/index.html"
     }
   ]
 }
