@@ -1,0 +1,9 @@
+main.py
+run.py
+validate_submission.py
+src/
+.venv/
+__pycache__/
+*.pyc
+.env
+.git/
