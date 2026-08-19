@@ -1,5 +1,1485 @@
 [
   {
+    "id": "eee16b72-337d-5e70-bb8d-b25677a45dcf",
+    "entity_type": "JOB",
+    "name": "Product Manager II",
+    "description": "ZyngaProduct Manager IIReposted 59 Minutes AgoSavedHybridBen · Product",
+    "url": "https://builtin.com/job/product-manager-ii/10362498",
+    "categories": [
+      "Product"
+    ],
+    "source": {
+      "name": "Built In",
+      "url": "https://builtin.com/job/product-manager-ii/10362498"
+    },
+    "collected_at": "2026-08-19T11:48:57.972002Z",
+    "company": "ZyngaProduct Manager IIReposted 59 Minutes AgoSavedHybridBen",
+    "date": "2026-08-19T11:48:57.971991+00:00",
+    "is_remote": false,
+    "role_family": "Product",
+    "location": null
+  },
+  {
+    "id": "77ec64f5-a78f-538d-9515-786586358920",
+    "entity_type": "JOB",
+    "name": "Senior Software Engineer II (Java and Python)",
+    "description": "OptumSenior Software Engineer II (Java and Python)24 Minutes · Engineering",
+    "url": "https://builtin.com/job/senior-software-engineer-ii-java-and-python/10752758",
+    "categories": [
+      "Engineering"
+    ],
+    "source": {
+      "name": "Built In",
+      "url": "https://builtin.com/job/senior-software-engineer-ii-java-and-python/10752758"
+    },
+    "collected_at": "2026-08-19T11:48:57.919498Z",
+    "company": "OptumSenior Software Engineer II (Java and Python)24 Minutes",
+    "date": "2026-08-19T11:48:57.919477+00:00",
+    "is_remote": false,
+    "role_family": "Engineering",
+    "location": null
+  },
+  {
+    "id": "22018649-9fec-5d53-a90c-b348f8beb4e2",
+    "entity_type": "JOB",
+    "name": "Senior Manager, HR Business Partnering",
+    "description": "Leovegasgroup · Management",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/leovegasgroup/senior-manager-hr-business-partnering-leeds-110272",
+    "categories": [
+      "Management"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/leovegasgroup/senior-manager-hr-business-partnering-leeds-110272"
+    },
+    "collected_at": "2026-08-19T11:48:57.484719Z",
+    "company": "Leovegasgroup",
+    "date": "2026-08-19T11:48:57.484710+00:00",
+    "is_remote": false,
+    "role_family": "Management",
+    "location": "Leeds, UK"
+  },
+  {
+    "id": "f4b73829-ae90-5c29-99b6-c5c8d7f47a2c",
+    "entity_type": "JOB",
+    "name": "Field Sales Account Executive",
+    "description": "Lightspeedhq · Other",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/lightspeedhq/field-sales-account-executive-manchester-51741",
+    "categories": [
+      "Other"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lightspeedhq/field-sales-account-executive-manchester-51741"
+    },
+    "collected_at": "2026-08-19T11:48:57.484665Z",
+    "company": "Lightspeedhq",
+    "date": "2026-08-19T11:48:57.484657+00:00",
+    "is_remote": false,
+    "role_family": "Other",
+    "location": "Manchester"
+  },
+  {
+    "id": "36efe741-dc1e-593e-ad6d-e027cc85e77a",
+    "entity_type": "JOB",
+    "name": "Digital Sharks: Performance Data Associate — Marketplace Intelligence (Early Careers)",
+    "description": "Sharkninjaoperating · Other",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/sharkninjaoperatingllc/digital-sharks-performance-data-associate-marketplace-intelligence-early-careers-london-300833",
+    "categories": [
+      "Other"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sharkninjaoperatingllc/digital-sharks-performance-data-associate-marketplace-intelligence-early-careers-london-300833"
+    },
+    "collected_at": "2026-08-19T11:48:57.484623Z",
+    "company": "Sharkninjaoperating",
+    "date": "2026-08-19T11:48:57.484612+00:00",
+    "is_remote": false,
+    "role_family": "Other",
+    "location": "London"
+  },
+  {
+    "id": "0bd1d1e4-9553-5249-98b5-2c15f1b5bc4b",
+    "entity_type": "JOB",
+    "name": "Senior Director PR, EMEA",
+    "description": "Sharkninjaoperating · Other",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/sharkninjaoperatingllc/senior-director-pr-emea-london-64884",
+    "categories": [
+      "Other"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sharkninjaoperatingllc/senior-director-pr-emea-london-64884"
+    },
+    "collected_at": "2026-08-19T11:48:57.484553Z",
+    "company": "Sharkninjaoperating",
+    "date": "2026-08-19T11:48:57.484543+00:00",
+    "is_remote": false,
+    "role_family": "Other",
+    "location": "London"
+  },
+  {
+    "id": "fc890c79-b9da-5126-a88d-5637b32595ef",
+    "entity_type": "JOB",
+    "name": "Senior Payroll Manager",
+    "description": "Sonymusicentertainment · Management",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/sonymusicentertainment/senior-payroll-manager-london-128124",
+    "categories": [
+      "Management"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sonymusicentertainment/senior-payroll-manager-london-128124"
+    },
+    "collected_at": "2026-08-19T11:48:57.484337Z",
+    "company": "Sonymusicentertainment",
+    "date": "2026-08-19T11:48:57.484329+00:00",
+    "is_remote": false,
+    "role_family": "Management",
+    "location": "London"
+  },
+  {
+    "id": "3785d84d-916b-577c-99f8-111310698538",
+    "entity_type": "JOB",
+    "name": "SEO Manager (m/w/d) – München",
+    "description": "Seokratie Gmbh · Management",
+    "url": "https://www.arbeitnow.com/jobs/companies/seokratie-gmbh/seo-manager-munchen-289576",
+    "categories": [
+      "Management"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/seokratie-gmbh/seo-manager-munchen-289576"
+    },
+    "collected_at": "2026-08-19T11:48:57.482920Z",
+    "company": "Seokratie Gmbh",
+    "date": "2026-08-19T11:48:57.482909+00:00",
+    "is_remote": false,
+    "role_family": "Management",
+    "location": "München"
+  },
+  {
+    "id": "41a5d704-571b-5d3c-a3f9-bcd9cd0c2ddc",
+    "entity_type": "JOB",
+    "name": "DevOps Engineer – Release & Deployment (m/w/d)",
+    "description": "GRAYOAK · Engineering",
+    "url": "https://www.arbeitnow.com/jobs/companies/grayoak/devops-engineer-release-deployment-frankfurt-am-main-45673",
+    "categories": [
+      "Engineering"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/grayoak/devops-engineer-release-deployment-frankfurt-am-main-45673"
+    },
+    "collected_at": "2026-08-19T11:48:57.482879Z",
+    "company": "GRAYOAK",
+    "date": "2026-08-19T11:48:57.482868+00:00",
+    "is_remote": false,
+    "role_family": "Engineering",
+    "location": "Frankfurt am Main"
+  },
+  {
+    "id": "21a04c75-791e-5c49-92c8-4ec53b234c6f",
+    "entity_type": "JOB",
+    "name": "Werkstudent (m/w/d) - Lieferpartner-Akquise & Datenpflege",
+    "description": "Bex Technologies Gmbh · Other",
+    "url": "https://www.arbeitnow.com/jobs/companies/bex-technologies-gmbh/remote-werkstudent-lieferpartner-akquise-datenpflege-441897",
+    "categories": [
+      "Other"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/bex-technologies-gmbh/remote-werkstudent-lieferpartner-akquise-datenpflege-441897"
+    },
+    "collected_at": "2026-08-19T11:48:57.482670Z",
+    "company": "Bex Technologies Gmbh",
+    "date": "2026-08-19T11:48:57.482657+00:00",
+    "is_remote": false,
+    "role_family": "Other",
+    "location": "Mobil - Remote - Germany"
+  },
+  {
+    "id": "ed949c53-78e2-50c1-82b5-b18e60f34859",
+    "entity_type": "JOB",
+    "name": "(Senior-) PR-Consultant New Health (m/w/d)",
+    "description": "Haebmau · Other",
+    "url": "https://www.arbeitnow.com/jobs/companies/haebmau/senior-pr-consultant-new-health-munchen-205297",
+    "categories": [
+      "Other"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/haebmau/senior-pr-consultant-new-health-munchen-205297"
+    },
+    "collected_at": "2026-08-19T11:48:57.482443Z",
+    "company": "Haebmau",
+    "date": "2026-08-19T11:48:57.482432+00:00",
+    "is_remote": false,
+    "role_family": "Other",
+    "location": "München"
+  },
+  {
+    "id": "cd82bf38-fcbe-5e73-8769-11a75e5d732a",
+    "entity_type": "JOB",
+    "name": "Software Engineer - Sensor Fusion (m/f/d)",
+    "description": "Quantum-Systems GmbH · Engineering",
+    "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/software-engineer-sensor-fusion-gilching-223212",
+    "categories": [
+      "Engineering"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/software-engineer-sensor-fusion-gilching-223212"
+    },
+    "collected_at": "2026-08-19T11:48:57.482382Z",
+    "company": "Quantum-Systems GmbH",
+    "date": "2026-08-19T11:48:57.482372+00:00",
+    "is_remote": false,
+    "role_family": "Engineering",
+    "location": "Gilching, Bayern, Germany"
+  },
+  {
+    "id": "c522334a-71e4-52ab-87ba-763b2494be31",
+    "entity_type": "JOB",
+    "name": "Senior Brand Manager – Global Brand Leadership (m/f/d)",
+    "description": "Quantum-Systems GmbH · Management",
+    "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-brand-manager-global-brand-leadership-gilching-267557",
+    "categories": [
+      "Management"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-brand-manager-global-brand-leadership-gilching-267557"
+    },
+    "collected_at": "2026-08-19T11:48:57.482327Z",
+    "company": "Quantum-Systems GmbH",
+    "date": "2026-08-19T11:48:57.482314+00:00",
+    "is_remote": false,
+    "role_family": "Management",
+    "location": "Gilching, Bayern, Germany"
+  },
+  {
+    "id": "ceef3dba-e27a-5abe-b672-affb631dcbbb",
+    "entity_type": "JOB",
+    "name": "Recruiter / Talent Acquisition Specialist (m/w/d) Teilzeit in Freital",
+    "description": "VEAXO Unternehmensgruppe · Other",
+    "url": "https://www.arbeitnow.com/jobs/companies/veaxo-unternehmensgruppe/recruiter-talent-acquisition-specialist-teilzeit-in-freital-dresden-469367",
+    "categories": [
+      "Other"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/veaxo-unternehmensgruppe/recruiter-talent-acquisition-specialist-teilzeit-in-freital-dresden-469367"
+    },
+    "collected_at": "2026-08-19T11:48:57.482255Z",
+    "company": "VEAXO Unternehmensgruppe",
+    "date": "2026-08-19T11:48:57.482242+00:00",
+    "is_remote": false,
+    "role_family": "Other",
+    "location": "Dresden, Sachsen, Deutschland"
+  },
+  {
+    "id": "42748e2d-afe4-5248-b2ad-7b664d366c43",
+    "entity_type": "JOB",
+    "name": "Teamleiter Jahresabschluss / Steuerberater (m/w/d)",
+    "description": "Hypertrics GmbH · Machine Learning",
+    "url": "https://www.arbeitnow.com/jobs/companies/hypertrics-gmbh/remote-teamleiter-jahresabschluss-steuerberater-dresden-170716",
+    "categories": [
+      "Machine Learning"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/hypertrics-gmbh/remote-teamleiter-jahresabschluss-steuerberater-dresden-170716"
+    },
+    "collected_at": "2026-08-19T11:48:57.482196Z",
+    "company": "Hypertrics GmbH",
+    "date": "2026-08-19T11:48:57.482184+00:00",
+    "is_remote": true,
+    "role_family": "Machine Learning",
+    "location": "Homeoffice"
+  },
+  {
+    "id": "cc106a05-922e-5eec-9e50-6ab0121c7cd2",
+    "entity_type": "JOB",
+    "name": "Battery System Engineer/Architect (all genders)",
+    "description": "Stark · Engineering",
+    "url": "https://www.arbeitnow.com/jobs/companies/stark/battery-system-engineer-architect-all-genders-munich-496194",
+    "categories": [
+      "Engineering"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/stark/battery-system-engineer-architect-all-genders-munich-496194"
+    },
+    "collected_at": "2026-08-19T11:48:57.482128Z",
+    "company": "Stark",
+    "date": "2026-08-19T11:48:57.482118+00:00",
+    "is_remote": false,
+    "role_family": "Engineering",
+    "location": "Munich"
+  },
+  {
+    "id": "b8b916ba-14aa-5c40-bba8-fcd84ac76774",
+    "entity_type": "JOB",
+    "name": "Data Platform Engineer – Data Operations (all genders)",
+    "description": "Stark · Engineering",
+    "url": "https://www.arbeitnow.com/jobs/companies/stark/data-platform-engineer-data-operations-all-genders-munich-402129",
+    "categories": [
+      "Engineering"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/stark/data-platform-engineer-data-operations-all-genders-munich-402129"
+    },
+    "collected_at": "2026-08-19T11:48:57.482089Z",
+    "company": "Stark",
+    "date": "2026-08-19T11:48:57.482078+00:00",
+    "is_remote": false,
+    "role_family": "Engineering",
+    "location": "Munich"
+  },
+  {
+    "id": "8e962cae-8e86-5e7f-85b3-10a504f6add6",
+    "entity_type": "JOB",
+    "name": "Datalink Integration & Test Engineer – Communications / MANET (all genders)",
+    "description": "Stark · Engineering",
+    "url": "https://www.arbeitnow.com/jobs/companies/stark/datalink-integration-test-engineer-communications-manet-all-genders-berlin-498002",
+    "categories": [
+      "Engineering"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/stark/datalink-integration-test-engineer-communications-manet-all-genders-berlin-498002"
+    },
+    "collected_at": "2026-08-19T11:48:57.481977Z",
+    "company": "Stark",
+    "date": "2026-08-19T11:48:57.481966+00:00",
+    "is_remote": false,
+    "role_family": "Engineering",
+    "location": "Berlin"
+  },
+  {
+    "id": "600f59d8-158e-544d-8cb1-2324d9176f47",
+    "entity_type": "JOB",
+    "name": "Director Marketing (all genders)",
+    "description": "Stark · Other",
+    "url": "https://www.arbeitnow.com/jobs/companies/stark/director-marketing-all-genders-berlin-374258",
+    "categories": [
+      "Other"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/stark/director-marketing-all-genders-berlin-374258"
+    },
+    "collected_at": "2026-08-19T11:48:57.481903Z",
+    "company": "Stark",
+    "date": "2026-08-19T11:48:57.481892+00:00",
+    "is_remote": false,
+    "role_family": "Other",
+    "location": "Berlin"
+  },
+  {
+    "id": "498dce27-b6e4-5393-ac21-e103c8cfe3dc",
+    "entity_type": "JOB",
+    "name": "Field Robotics Engineer – Data Operations (all genders)",
+    "description": "Stark · Engineering",
+    "url": "https://www.arbeitnow.com/jobs/companies/stark/field-robotics-engineer-data-operations-all-genders-munich-6651",
+    "categories": [
+      "Engineering"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/stark/field-robotics-engineer-data-operations-all-genders-munich-6651"
+    },
+    "collected_at": "2026-08-19T11:48:57.481867Z",
+    "company": "Stark",
+    "date": "2026-08-19T11:48:57.481854+00:00",
+    "is_remote": false,
+    "role_family": "Engineering",
+    "location": "Munich"
+  },
+  {
+    "id": "61313889-d9a2-5904-8f34-658ae8a64c47",
+    "entity_type": "JOB",
+    "name": "PMT Architect (All genders)",
+    "description": "Stark · Other",
+    "url": "https://www.arbeitnow.com/jobs/companies/stark/pmt-architect-all-genders-munich-467221",
+    "categories": [
+      "Other"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/stark/pmt-architect-all-genders-munich-467221"
+    },
+    "collected_at": "2026-08-19T11:48:57.481741Z",
+    "company": "Stark",
+    "date": "2026-08-19T11:48:57.481730+00:00",
+    "is_remote": false,
+    "role_family": "Other",
+    "location": "Munich"
+  },
+  {
+    "id": "a1e423dc-3cd8-5c3e-a474-cb30435ef291",
+    "entity_type": "JOB",
+    "name": "Senior Sales Manager – Luftwaffe (all genders)",
+    "description": "Stark · Management",
+    "url": "https://www.arbeitnow.com/jobs/companies/stark/senior-sales-manager-luftwaffe-all-genders-berlin-253153",
+    "categories": [
+      "Management"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/stark/senior-sales-manager-luftwaffe-all-genders-berlin-253153"
+    },
+    "collected_at": "2026-08-19T11:48:57.481497Z",
+    "company": "Stark",
+    "date": "2026-08-19T11:48:57.481485+00:00",
+    "is_remote": false,
+    "role_family": "Management",
+    "location": "Berlin"
+  },
+  {
+    "id": "09de98f7-ce62-5d10-beec-90f2f6a35658",
+    "entity_type": "JOB",
+    "name": "Senior Software Engineer - Mission Autonomy (All Genders)",
+    "description": "Stark · Engineering",
+    "url": "https://www.arbeitnow.com/jobs/companies/stark/senior-software-engineer-mission-autonomy-all-genders-munich-209895",
+    "categories": [
+      "Engineering"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/stark/senior-software-engineer-mission-autonomy-all-genders-munich-209895"
+    },
+    "collected_at": "2026-08-19T11:48:57.481461Z",
+    "company": "Stark",
+    "date": "2026-08-19T11:48:57.481451+00:00",
+    "is_remote": false,
+    "role_family": "Engineering",
+    "location": "Munich"
+  },
+  {
+    "id": "a9e0b0ef-96ea-5576-951f-b38f4f988962",
+    "entity_type": "JOB",
+    "name": "Senior Software Engineer - Mission Autonomy (All Genders)",
+    "description": "Stark · Engineering",
+    "url": "https://www.arbeitnow.com/jobs/companies/stark/senior-software-engineer-mission-autonomy-all-genders-munich-497387",
+    "categories": [
+      "Engineering"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/stark/senior-software-engineer-mission-autonomy-all-genders-munich-497387"
+    },
+    "collected_at": "2026-08-19T11:48:57.481406Z",
+    "company": "Stark",
+    "date": "2026-08-19T11:48:57.481396+00:00",
+    "is_remote": false,
+    "role_family": "Engineering",
+    "location": "Munich"
+  },
+  {
+    "id": "a3c95b4b-1007-5a83-b141-27ec51397a22",
+    "entity_type": "JOB",
+    "name": "Software IV&V Lead",
+    "description": "Stark · Engineering",
+    "url": "https://www.arbeitnow.com/jobs/companies/stark/software-ivv-lead-munich-389910",
+    "categories": [
+      "Engineering"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/stark/software-ivv-lead-munich-389910"
+    },
+    "collected_at": "2026-08-19T11:48:57.481354Z",
+    "company": "Stark",
+    "date": "2026-08-19T11:48:57.481344+00:00",
+    "is_remote": false,
+    "role_family": "Engineering",
+    "location": "Munich"
+  },
+  {
+    "id": "6b2ac319-120b-5c34-9e2b-9f45322ddf32",
+    "entity_type": "JOB",
+    "name": "Systems Architect (All Genders)",
+    "description": "Stark · Other",
+    "url": "https://www.arbeitnow.com/jobs/companies/stark/systems-architect-all-genders-munich-397587",
+    "categories": [
+      "Other"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/stark/systems-architect-all-genders-munich-397587"
+    },
+    "collected_at": "2026-08-19T11:48:57.481254Z",
+    "company": "Stark",
+    "date": "2026-08-19T11:48:57.481241+00:00",
+    "is_remote": false,
+    "role_family": "Other",
+    "location": "Munich"
+  },
+  {
+    "id": "23a6e0b8-654a-5d17-af76-3e7bdd7727d8",
+    "entity_type": "JOB",
+    "name": "UAV Operations Engineer / Pilot – Data Operations (all genders)",
+    "description": "Stark · Engineering",
+    "url": "https://www.arbeitnow.com/jobs/companies/stark/uav-operations-engineer-pilot-data-operations-all-genders-munich-219556",
+    "categories": [
+      "Engineering"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/stark/uav-operations-engineer-pilot-data-operations-all-genders-munich-219556"
+    },
+    "collected_at": "2026-08-19T11:48:57.481178Z",
+    "company": "Stark",
+    "date": "2026-08-19T11:48:57.481165+00:00",
+    "is_remote": false,
+    "role_family": "Engineering",
+    "location": "Munich"
+  },
+  {
+    "id": "dcd28bfb-2f3d-5d69-8312-51881fa8478e",
+    "entity_type": "JOB",
+    "name": "Senior Social Media Creative (Concept & Copy) (m/w/d)",
+    "description": "KNSK · Other",
+    "url": "https://www.arbeitnow.com/jobs/companies/knsk/senior-social-media-creative-concept-copy-hamburg-306732",
+    "categories": [
+      "Other"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/knsk/senior-social-media-creative-concept-copy-hamburg-306732"
+    },
+    "collected_at": "2026-08-19T11:48:57.480866Z",
+    "company": "KNSK",
+    "date": "2026-08-19T11:48:57.480854+00:00",
+    "is_remote": false,
+    "role_family": "Other",
+    "location": "Hamburg"
+  },
+  {
+    "id": "8e45cf15-e9db-5c79-94d7-27ee29440bf9",
+    "entity_type": "JOB",
+    "name": "Senior Generative AI Engineer (m/w/d)",
+    "description": "Alexander Thamm GmbH · Engineering",
+    "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/senior-generative-ai-engineer-munchen-217260",
+    "categories": [
+      "Engineering"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/senior-generative-ai-engineer-munchen-217260"
+    },
+    "collected_at": "2026-08-19T11:48:57.480816Z",
+    "company": "Alexander Thamm GmbH",
+    "date": "2026-08-19T11:48:57.480805+00:00",
+    "is_remote": false,
+    "role_family": "Engineering",
+    "location": "München"
+  },
+  {
+    "id": "ed2cc78f-d614-5ca8-90e2-8a554f3aa16f",
+    "entity_type": "JOB",
+    "name": "Principal Data Engineer (m/w/d)",
+    "description": "Alexander Thamm GmbH · Engineering",
+    "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/principal-data-engineer-munchen-77292",
+    "categories": [
+      "Engineering"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/principal-data-engineer-munchen-77292"
+    },
+    "collected_at": "2026-08-19T11:48:57.480770Z",
+    "company": "Alexander Thamm GmbH",
+    "date": "2026-08-19T11:48:57.480760+00:00",
+    "is_remote": false,
+    "role_family": "Engineering",
+    "location": "München"
+  },
+  {
+    "id": "69188dfb-714f-5019-abba-e85227372c58",
+    "entity_type": "JOB",
+    "name": "Principal Data Scientist (m/w/d)",
+    "description": "Alexander Thamm GmbH · Data Science",
+    "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/principal-data-scientist-munchen-118879",
+    "categories": [
+      "Data Science"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/principal-data-scientist-munchen-118879"
+    },
+    "collected_at": "2026-08-19T11:48:57.480722Z",
+    "company": "Alexander Thamm GmbH",
+    "date": "2026-08-19T11:48:57.480712+00:00",
+    "is_remote": false,
+    "role_family": "Data Science",
+    "location": "München"
+  },
+  {
+    "id": "65923d09-617b-5f29-9d2a-5897a9f61b0e",
+    "entity_type": "JOB",
+    "name": "Senior Data & AI Projektleitung - Schwerpunkt Defense (m/w/d)",
+    "description": "Alexander Thamm GmbH · Artificial Intelligence",
+    "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/senior-data-ai-projektleitung-schwerpunkt-defense-munchen-60328",
+    "categories": [
+      "Artificial Intelligence"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/senior-data-ai-projektleitung-schwerpunkt-defense-munchen-60328"
+    },
+    "collected_at": "2026-08-19T11:48:57.480678Z",
+    "company": "Alexander Thamm GmbH",
+    "date": "2026-08-19T11:48:57.480662+00:00",
+    "is_remote": false,
+    "role_family": "Artificial Intelligence",
+    "location": "München"
+  },
+  {
+    "id": "59d8f93d-49cc-5f7d-986c-7b288b846b78",
+    "entity_type": "JOB",
+    "name": "Senior Data Engineer (m/w/d)",
+    "description": "Alexander Thamm GmbH · Engineering",
+    "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/senior-data-engineer-munchen-361544",
+    "categories": [
+      "Engineering"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/senior-data-engineer-munchen-361544"
+    },
+    "collected_at": "2026-08-19T11:48:57.480620Z",
+    "company": "Alexander Thamm GmbH",
+    "date": "2026-08-19T11:48:57.480599+00:00",
+    "is_remote": false,
+    "role_family": "Engineering",
+    "location": "München"
+  },
+  {
+    "id": "b63ade67-8f3c-5dc6-bf41-3e0c1f279f95",
+    "entity_type": "JOB",
+    "name": "Teamlead Data & AI (m/w/d)",
+    "description": "Alexander Thamm GmbH · Management",
+    "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/teamlead-data-ai-munchen-252523",
+    "categories": [
+      "Management"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/teamlead-data-ai-munchen-252523"
+    },
+    "collected_at": "2026-08-19T11:48:57.480534Z",
+    "company": "Alexander Thamm GmbH",
+    "date": "2026-08-19T11:48:57.480500+00:00",
+    "is_remote": false,
+    "role_family": "Management",
+    "location": "München"
+  },
+  {
+    "id": "b865981f-fe7e-583c-bee6-1f82f98286fe",
+    "entity_type": "JOB",
+    "name": "Principal DevOps Engineer (m/w/d)",
+    "description": "Alexander Thamm GmbH · Engineering",
+    "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/principal-devops-engineer-munchen-312598",
+    "categories": [
+      "Engineering"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/principal-devops-engineer-munchen-312598"
+    },
+    "collected_at": "2026-08-19T11:48:57.480488Z",
+    "company": "Alexander Thamm GmbH",
+    "date": "2026-08-19T11:48:57.480477+00:00",
+    "is_remote": false,
+    "role_family": "Engineering",
+    "location": "München"
+  },
+  {
+    "id": "94cbfb78-d1ce-5c5a-b635-92d725897d93",
+    "entity_type": "JOB",
+    "name": "Solution Architect Connectivity Orchestrierung & Automatisierung (all genders)",
+    "description": "Accenture · Other",
+    "url": "https://www.arbeitnow.com/jobs/companies/accenture/solution-architect-connectivity-orchestrierung-automatisierung-all-genders-aachen-492003",
+    "categories": [
+      "Other"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/accenture/solution-architect-connectivity-orchestrierung-automatisierung-all-genders-aachen-492003"
+    },
+    "collected_at": "2026-08-19T11:48:57.480377Z",
+    "company": "Accenture",
+    "date": "2026-08-19T11:48:57.480363+00:00",
+    "is_remote": false,
+    "role_family": "Other",
+    "location": "Aachen"
+  },
+  {
+    "id": "5b1ed41a-935e-59ed-b2ef-da08da0aff19",
+    "entity_type": "JOB",
+    "name": "Praktikum als IT-Administrator & Data Analyst",
+    "description": "Pflegia · Data Science",
+    "url": "https://www.arbeitnow.com/jobs/companies/pflegia/praktikum-als-it-administrator-data-analyst-berlin-146121",
+    "categories": [
+      "Data Science"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/pflegia/praktikum-als-it-administrator-data-analyst-berlin-146121"
+    },
+    "collected_at": "2026-08-19T11:48:57.480240Z",
+    "company": "Pflegia",
+    "date": "2026-08-19T11:48:57.480230+00:00",
+    "is_remote": false,
+    "role_family": "Data Science",
+    "location": "Berlin"
+  },
+  {
+    "id": "61c29d0f-c888-548c-9071-4a732912ad0d",
+    "entity_type": "JOB",
+    "name": "Founders Associate (F/M/*)",
+    "description": "Amber · Other",
+    "url": "https://www.arbeitnow.com/jobs/companies/amber/founders-associate-f-m-koln-479058",
+    "categories": [
+      "Other"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/amber/founders-associate-f-m-koln-479058"
+    },
+    "collected_at": "2026-08-19T11:48:57.480080Z",
+    "company": "Amber",
+    "date": "2026-08-19T11:48:57.480070+00:00",
+    "is_remote": false,
+    "role_family": "Other",
+    "location": "Köln"
+  },
+  {
+    "id": "fc17e7a6-2721-5aff-9653-1d9d62cb83ab",
+    "entity_type": "JOB",
+    "name": "Intern, Global Partnership",
+    "description": "Proxima Fusion GmbH · Other",
+    "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/intern-global-partnership-munich-236065",
+    "categories": [
+      "Other"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/intern-global-partnership-munich-236065"
+    },
+    "collected_at": "2026-08-19T11:48:57.480022Z",
+    "company": "Proxima Fusion GmbH",
+    "date": "2026-08-19T11:48:57.480011+00:00",
+    "is_remote": false,
+    "role_family": "Other",
+    "location": "Munich"
+  },
+  {
+    "id": "0ad93f4f-1e4f-5196-bf5d-24fc06c1dd20",
+    "entity_type": "JOB",
+    "name": "Business Operations Manager",
+    "description": "YAZIO · Management",
+    "url": "https://www.arbeitnow.com/jobs/companies/yazio/business-operations-manager-berlin-270922",
+    "categories": [
+      "Management"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/yazio/business-operations-manager-berlin-270922"
+    },
+    "collected_at": "2026-08-19T11:48:57.479973Z",
+    "company": "YAZIO",
+    "date": "2026-08-19T11:48:57.479963+00:00",
+    "is_remote": false,
+    "role_family": "Management",
+    "location": "Berlin"
+  },
+  {
+    "id": "684dd1bb-b4ca-5ac6-b3ac-9d0faf2b9ee2",
+    "entity_type": "JOB",
+    "name": "Werkstudent",
+    "description": "Flatironhealth · Other",
+    "url": "https://www.arbeitnow.com/jobs/companies/flatironhealth/werkstudent-481703",
+    "categories": [
+      "Other"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/flatironhealth/werkstudent-481703"
+    },
+    "collected_at": "2026-08-19T11:48:57.479923Z",
+    "company": "Flatironhealth",
+    "date": "2026-08-19T11:48:57.479913+00:00",
+    "is_remote": false,
+    "role_family": "Other",
+    "location": ""
+  },
+  {
+    "id": "b644ef1b-45e6-54e2-be66-dc2e9daa7c28",
+    "entity_type": "JOB",
+    "name": "Senior Product Manager | Core (m/f/d)",
+    "description": "Superchat · Product",
+    "url": "https://www.arbeitnow.com/jobs/companies/superchat/senior-product-manager-core-berlin-berlin-203690",
+    "categories": [
+      "Product"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/superchat/senior-product-manager-core-berlin-berlin-203690"
+    },
+    "collected_at": "2026-08-19T11:48:57.479878Z",
+    "company": "Superchat",
+    "date": "2026-08-19T11:48:57.479868+00:00",
+    "is_remote": false,
+    "role_family": "Product",
+    "location": "Berlin, Berlin"
+  },
+  {
+    "id": "9da7882e-6fa7-56b6-aec4-68abe1122b29",
+    "entity_type": "JOB",
+    "name": "Teamleiter Financial Services (m/w/d)",
+    "description": "Alexander Thamm GmbH · Machine Learning",
+    "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/teamleiter-financial-services-frankfurt-am-main-301629",
+    "categories": [
+      "Machine Learning"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/teamleiter-financial-services-frankfurt-am-main-301629"
+    },
+    "collected_at": "2026-08-19T11:48:57.479761Z",
+    "company": "Alexander Thamm GmbH",
+    "date": "2026-08-19T11:48:57.479744+00:00",
+    "is_remote": false,
+    "role_family": "Machine Learning",
+    "location": "Frankfurt am Main"
+  },
+  {
+    "id": "cac9ecd7-0c88-5a6b-a676-3b15af44a2c2",
+    "entity_type": "JOB",
+    "name": "Business Development Manager:in (all genders)",
+    "description": "CHEEX · Management",
+    "url": "https://www.arbeitnow.com/jobs/companies/cheex/business-development-managerin-all-genders-berlin-222050",
+    "categories": [
+      "Management"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/cheex/business-development-managerin-all-genders-berlin-222050"
+    },
+    "collected_at": "2026-08-19T11:48:57.479712Z",
+    "company": "CHEEX",
+    "date": "2026-08-19T11:48:57.479701+00:00",
+    "is_remote": false,
+    "role_family": "Management",
+    "location": "Berlin"
+  },
+  {
+    "id": "24dfc7cf-dd4f-5f37-be72-4d789f3f5c60",
+    "entity_type": "JOB",
+    "name": "Praktikum als Quantitative Campaign Manager (m/w/d)",
+    "description": "Pflegia · Management",
+    "url": "https://www.arbeitnow.com/jobs/companies/pflegia/praktikum-als-quantitative-campaign-manager-berlin-313360",
+    "categories": [
+      "Management"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/pflegia/praktikum-als-quantitative-campaign-manager-berlin-313360"
+    },
+    "collected_at": "2026-08-19T11:48:57.479678Z",
+    "company": "Pflegia",
+    "date": "2026-08-19T11:48:57.479668+00:00",
+    "is_remote": false,
+    "role_family": "Management",
+    "location": "Berlin"
+  },
+  {
+    "id": "68a973c0-9c36-5444-baad-ff6d33b96865",
+    "entity_type": "JOB",
+    "name": "(Senior) Influencer Marketing Manager",
+    "description": "CHEEX · Management",
+    "url": "https://www.arbeitnow.com/jobs/companies/cheex/senior-influencer-marketing-manager-berlin-265382",
+    "categories": [
+      "Management"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/cheex/senior-influencer-marketing-manager-berlin-265382"
+    },
+    "collected_at": "2026-08-19T11:48:57.479643Z",
+    "company": "CHEEX",
+    "date": "2026-08-19T11:48:57.479633+00:00",
+    "is_remote": false,
+    "role_family": "Management",
+    "location": "Berlin"
+  },
+  {
+    "id": "b388f30b-8e9e-5a8e-b9f4-9750bade9690",
+    "entity_type": "JOB",
+    "name": "Pflichtpraktikum Übersetzung & Sprachprüfung (DE-ENG, ENG-DE)",
+    "description": "Landsiedel NLP Training · Other",
+    "url": "https://www.arbeitnow.com/jobs/companies/landsiedel-nlp-training/pflichtpraktikum-ubersetzung-sprachprufung-de-eng-eng-de-kitzingen-94755",
+    "categories": [
+      "Other"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/landsiedel-nlp-training/pflichtpraktikum-ubersetzung-sprachprufung-de-eng-eng-de-kitzingen-94755"
+    },
+    "collected_at": "2026-08-19T11:48:57.479609Z",
+    "company": "Landsiedel NLP Training",
+    "date": "2026-08-19T11:48:57.479592+00:00",
+    "is_remote": true,
+    "role_family": "Other",
+    "location": "Kitzingen"
+  },
+  {
+    "id": "e664a62d-765e-54ac-83b7-9cf686e1384e",
+    "entity_type": "JOB",
+    "name": "Video Content Creator (m/w/d)",
+    "description": "Memodo · Other",
+    "url": "https://www.arbeitnow.com/jobs/companies/memodo/video-content-creator-munich-143210",
+    "categories": [
+      "Other"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/memodo/video-content-creator-munich-143210"
+    },
+    "collected_at": "2026-08-19T11:48:57.479552Z",
+    "company": "Memodo",
+    "date": "2026-08-19T11:48:57.479539+00:00",
+    "is_remote": false,
+    "role_family": "Other",
+    "location": "Munich"
+  },
+  {
+    "id": "f2677e81-f78d-5636-a7b5-eba5bbc4abfa",
+    "entity_type": "JOB",
+    "name": "Backend Engineer (m/w/d) - Founding Team",
+    "description": "Zahln · Engineering",
+    "url": "https://www.arbeitnow.com/jobs/companies/zahln/backend-engineer-founding-team-augsburg-263526",
+    "categories": [
+      "Engineering"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/zahln/backend-engineer-founding-team-augsburg-263526"
+    },
+    "collected_at": "2026-08-19T11:48:57.479506Z",
+    "company": "Zahln",
+    "date": "2026-08-19T11:48:57.479498+00:00",
+    "is_remote": false,
+    "role_family": "Engineering",
+    "location": "Augsburg"
+  },
+  {
+    "id": "38e99a5e-ba55-5a4b-9583-3ea61e31993b",
+    "entity_type": "JOB",
+    "name": "Senior Berater Konzernkunden / Strategie (m/w/d)",
+    "description": "Strategy Core Ventures GmbH · Other",
+    "url": "https://www.arbeitnow.com/jobs/companies/strategy-core-ventures-gmbh/senior-berater-konzernkunden-strategie-hamburg-431437",
+    "categories": [
+      "Other"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/strategy-core-ventures-gmbh/senior-berater-konzernkunden-strategie-hamburg-431437"
+    },
+    "collected_at": "2026-08-19T11:48:57.479425Z",
+    "company": "Strategy Core Ventures GmbH",
+    "date": "2026-08-19T11:48:57.479416+00:00",
+    "is_remote": false,
+    "role_family": "Other",
+    "location": "Hamburg"
+  },
+  {
+    "id": "e89aac43-e60b-5ed6-a54e-b050cde925bf",
+    "entity_type": "JOB",
+    "name": "Strategy & Operations Manager - Robotics",
+    "description": "RoboService GmbH · Management",
+    "url": "https://www.arbeitnow.com/jobs/companies/roboservice-gmbh/strategy-operations-manager-robotics-berlin-386777",
+    "categories": [
+      "Management"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/roboservice-gmbh/strategy-operations-manager-robotics-berlin-386777"
+    },
+    "collected_at": "2026-08-19T11:48:57.479393Z",
+    "company": "RoboService GmbH",
+    "date": "2026-08-19T11:48:57.479385+00:00",
+    "is_remote": false,
+    "role_family": "Management",
+    "location": "Berlin"
+  },
+  {
+    "id": "2d702f5b-5c84-59c2-9a0a-bf452e10916a",
+    "entity_type": "JOB",
+    "name": "Senior Consultant Konzernkunden / Strategieberatung (m/w/d)",
+    "description": "Strategy Core Ventures GmbH · Other",
+    "url": "https://www.arbeitnow.com/jobs/companies/strategy-core-ventures-gmbh/senior-consultant-konzernkunden-strategieberatung-hamburg-440946",
+    "categories": [
+      "Other"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/strategy-core-ventures-gmbh/senior-consultant-konzernkunden-strategieberatung-hamburg-440946"
+    },
+    "collected_at": "2026-08-19T11:48:57.479346Z",
+    "company": "Strategy Core Ventures GmbH",
+    "date": "2026-08-19T11:48:57.479337+00:00",
+    "is_remote": false,
+    "role_family": "Other",
+    "location": "Hamburg"
+  },
+  {
+    "id": "39da8ba9-df45-52b6-98a2-8b8cba7e0efb",
+    "entity_type": "JOB",
+    "name": "Consultant Education & Sales Operations (m/w/d)",
+    "description": "Strategy Core Ventures GmbH · Other",
+    "url": "https://www.arbeitnow.com/jobs/companies/strategy-core-ventures-gmbh/consultant-education-sales-operations-hamburg-205617",
+    "categories": [
+      "Other"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/strategy-core-ventures-gmbh/consultant-education-sales-operations-hamburg-205617"
+    },
+    "collected_at": "2026-08-19T11:48:57.479313Z",
+    "company": "Strategy Core Ventures GmbH",
+    "date": "2026-08-19T11:48:57.479304+00:00",
+    "is_remote": false,
+    "role_family": "Other",
+    "location": "Hamburg"
+  },
+  {
+    "id": "fa484e44-e259-5c55-b5e5-f0499c0516fd",
+    "entity_type": "JOB",
+    "name": "Senior Paid Social Manager (m/w/d)",
+    "description": "bedrop · Management",
+    "url": "https://www.arbeitnow.com/jobs/companies/bedrop/senior-paid-social-manager-mannheim-397356",
+    "categories": [
+      "Management"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/bedrop/senior-paid-social-manager-mannheim-397356"
+    },
+    "collected_at": "2026-08-19T11:48:57.479277Z",
+    "company": "bedrop",
+    "date": "2026-08-19T11:48:57.479269+00:00",
+    "is_remote": true,
+    "role_family": "Management",
+    "location": "Mannheim"
+  },
+  {
+    "id": "43e8531d-c698-54bc-a3c0-4bd262b903cd",
+    "entity_type": "JOB",
+    "name": "Projektmanager Online-Marketing (w/m/d)",
+    "description": "SUCHMEISTEREI GmbH · Management",
+    "url": "https://www.arbeitnow.com/jobs/companies/suchmeisterei-gmbh/projektmanager-online-marketing-berlin-429206",
+    "categories": [
+      "Management"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/suchmeisterei-gmbh/projektmanager-online-marketing-berlin-429206"
+    },
+    "collected_at": "2026-08-19T11:48:57.479084Z",
+    "company": "SUCHMEISTEREI GmbH",
+    "date": "2026-08-19T11:48:57.479077+00:00",
+    "is_remote": false,
+    "role_family": "Management",
+    "location": "Berlin"
+  },
+  {
+    "id": "22f47c11-f276-5266-8ffe-a73d21d0e128",
+    "entity_type": "JOB",
+    "name": "SEO/GEO Manager im Online-Marketing (m/w/d)",
+    "description": "SUCHMEISTEREI GmbH · Management",
+    "url": "https://www.arbeitnow.com/jobs/companies/suchmeisterei-gmbh/seo-geo-manager-im-online-marketing-berlin-17633",
+    "categories": [
+      "Management"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/suchmeisterei-gmbh/seo-geo-manager-im-online-marketing-berlin-17633"
+    },
+    "collected_at": "2026-08-19T11:48:57.479045Z",
+    "company": "SUCHMEISTEREI GmbH",
+    "date": "2026-08-19T11:48:57.479038+00:00",
+    "is_remote": false,
+    "role_family": "Management",
+    "location": "Berlin"
+  },
+  {
+    "id": "1a0a180e-31ac-565c-ac4f-4d295325656f",
+    "entity_type": "JOB",
+    "name": "Trainee Online-Marketing (w/m/d)",
+    "description": "SUCHMEISTEREI GmbH · Artificial Intelligence",
+    "url": "https://www.arbeitnow.com/jobs/companies/suchmeisterei-gmbh/trainee-online-marketing-berlin-437789",
+    "categories": [
+      "Artificial Intelligence"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/suchmeisterei-gmbh/trainee-online-marketing-berlin-437789"
+    },
+    "collected_at": "2026-08-19T11:48:57.479017Z",
+    "company": "SUCHMEISTEREI GmbH",
+    "date": "2026-08-19T11:48:57.479009+00:00",
+    "is_remote": false,
+    "role_family": "Artificial Intelligence",
+    "location": "Berlin"
+  },
+  {
+    "id": "cd23f1a0-9ecb-5648-952a-43be75953cd5",
+    "entity_type": "JOB",
+    "name": "SEO/GEO Manager im Online-Marketing (m/w/d)",
+    "description": "SUCHMEISTEREI GmbH · Management",
+    "url": "https://www.arbeitnow.com/jobs/companies/suchmeisterei-gmbh/seo-geo-manager-im-online-marketing-berlin-48033",
+    "categories": [
+      "Management"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/suchmeisterei-gmbh/seo-geo-manager-im-online-marketing-berlin-48033"
+    },
+    "collected_at": "2026-08-19T11:48:57.478987Z",
+    "company": "SUCHMEISTEREI GmbH",
+    "date": "2026-08-19T11:48:57.478979+00:00",
+    "is_remote": false,
+    "role_family": "Management",
+    "location": "Berlin"
+  },
+  {
+    "id": "bf98e637-254f-5472-ab28-17d6e18037ca",
+    "entity_type": "JOB",
+    "name": "Legal Counsel - Compliance (m/w/d)",
+    "description": "Lecturio GmbH · Other",
+    "url": "https://www.arbeitnow.com/jobs/companies/lecturio-gmbh/legal-counsel-compliance-berlin-337711",
+    "categories": [
+      "Other"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/lecturio-gmbh/legal-counsel-compliance-berlin-337711"
+    },
+    "collected_at": "2026-08-19T11:48:57.478920Z",
+    "company": "Lecturio GmbH",
+    "date": "2026-08-19T11:48:57.478911+00:00",
+    "is_remote": true,
+    "role_family": "Other",
+    "location": "Berlin"
+  },
+  {
+    "id": "f14f4aea-0b92-5be9-93ea-21a52c262b98",
+    "entity_type": "JOB",
+    "name": "Praktikum/Trainee im Financial Consulting (m/w/d)",
+    "description": "Horbach Wirtschaftsberatung Dresden · Artificial Intelligence",
+    "url": "https://www.arbeitnow.com/jobs/companies/horbach-wirtschaftsberatung-dresden/praktikum-trainee-im-financial-consulting-dresden-334936",
+    "categories": [
+      "Artificial Intelligence"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/horbach-wirtschaftsberatung-dresden/praktikum-trainee-im-financial-consulting-dresden-334936"
+    },
+    "collected_at": "2026-08-19T11:48:57.478888Z",
+    "company": "Horbach Wirtschaftsberatung Dresden",
+    "date": "2026-08-19T11:48:57.478878+00:00",
+    "is_remote": false,
+    "role_family": "Artificial Intelligence",
+    "location": "Dresden"
+  },
+  {
+    "id": "724c606e-327b-5ade-be78-30a410fa507c",
+    "entity_type": "JOB",
+    "name": "Praktikum/Trainee als Financial Analyst (m/w/d)",
+    "description": "Horbach Wirtschaftsberatung Dresden · Artificial Intelligence",
+    "url": "https://www.arbeitnow.com/jobs/companies/horbach-wirtschaftsberatung-dresden/praktikum-trainee-als-financial-analyst-dresden-4278",
+    "categories": [
+      "Artificial Intelligence"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/horbach-wirtschaftsberatung-dresden/praktikum-trainee-als-financial-analyst-dresden-4278"
+    },
+    "collected_at": "2026-08-19T11:48:57.478810Z",
+    "company": "Horbach Wirtschaftsberatung Dresden",
+    "date": "2026-08-19T11:48:57.478799+00:00",
+    "is_remote": false,
+    "role_family": "Artificial Intelligence",
+    "location": "Dresden"
+  },
+  {
+    "id": "a681629b-fa86-50c4-bc40-7d195958ecfb",
+    "entity_type": "JOB",
+    "name": "Senior Product Manager - Savings & Investments",
+    "description": "Finom · Product",
+    "url": "https://www.arbeitnow.com/jobs/companies/finom/senior-product-manager-savings-investments-berlin-90770",
+    "categories": [
+      "Product"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/finom/senior-product-manager-savings-investments-berlin-90770"
+    },
+    "collected_at": "2026-08-19T11:48:57.478719Z",
+    "company": "Finom",
+    "date": "2026-08-19T11:48:57.478704+00:00",
+    "is_remote": false,
+    "role_family": "Product",
+    "location": "Berlin"
+  },
+  {
+    "id": "47b79ca4-fafe-56ac-bc48-c51a258ec056",
+    "entity_type": "JOB",
+    "name": "Principal AI/ML Scientist & Engineer",
+    "description": "Pipedrive · Research",
+    "url": "https://www.arbeitnow.com/jobs/companies/pipedrive/principal-ai-ml-scientist-engineer-germany-berlin-295398",
+    "categories": [
+      "Research"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/pipedrive/principal-ai-ml-scientist-engineer-germany-berlin-295398"
+    },
+    "collected_at": "2026-08-19T11:48:57.478638Z",
+    "company": "Pipedrive",
+    "date": "2026-08-19T11:48:57.478601+00:00",
+    "is_remote": false,
+    "role_family": "Research",
+    "location": "Germany, Berlin"
+  },
+  {
+    "id": "839735d8-9975-550d-9b5d-b3034639b349",
+    "entity_type": "JOB",
+    "name": "Alteryx Developer",
+    "description": "CapcoAlteryx Developer38 Minutes AgoSavedRemote or HybridInd · Engineering",
+    "url": "https://builtin.com/job/alteryx-developer/10745378",
+    "categories": [
+      "Engineering"
+    ],
+    "source": {
+      "name": "Built In",
+      "url": "https://builtin.com/job/alteryx-developer/10745378"
+    },
+    "collected_at": "2026-08-19T09:13:15.943887Z",
+    "company": "CapcoAlteryx Developer38 Minutes AgoSavedRemote or HybridInd",
+    "date": "2026-08-19T09:13:15.943870+00:00",
+    "is_remote": true,
+    "role_family": "Engineering",
+    "location": null
+  },
+  {
+    "id": "84112f2f-ffc6-5eef-b675-51417301df48",
+    "entity_type": "JOB",
+    "name": "Customer Success Engineer",
+    "description": "LogicMonitorCustomer Success Engineer18 Minutes AgoSavedEasy · Engineering",
+    "url": "https://builtin.com/job/customer-success-engineer/10747139",
+    "categories": [
+      "Engineering"
+    ],
+    "source": {
+      "name": "Built In",
+      "url": "https://builtin.com/job/customer-success-engineer/10747139"
+    },
+    "collected_at": "2026-08-19T09:13:15.895890Z",
+    "company": "LogicMonitorCustomer Success Engineer18 Minutes AgoSavedEasy",
+    "date": "2026-08-19T09:13:15.895862+00:00",
+    "is_remote": false,
+    "role_family": "Engineering",
+    "location": null
+  },
+  {
+    "id": "f23ecc34-6b27-56cb-8c6d-c906be3628da",
+    "entity_type": "JOB",
+    "name": "Senior Account Manager",
+    "description": "Convene Hospitality Group · Management",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/convene-hospitality-group/senior-account-manager-london-18645",
+    "categories": [
+      "Management"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/convene-hospitality-group/senior-account-manager-london-18645"
+    },
+    "collected_at": "2026-08-19T09:13:15.348650Z",
+    "company": "Convene Hospitality Group",
+    "date": "2026-08-19T09:13:15.348640+00:00",
+    "is_remote": false,
+    "role_family": "Management",
+    "location": "London, London, United Kingdom"
+  },
+  {
+    "id": "f31a4d8d-b43a-57ea-a955-1c5bc6b0edf7",
+    "entity_type": "JOB",
+    "name": "Senior Sales Executive- Live Events",
+    "description": "Convene Hospitality Group · Other",
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/convene-hospitality-group/senior-sales-executive-live-events-london-457432",
+    "categories": [
+      "Other"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/convene-hospitality-group/senior-sales-executive-live-events-london-457432"
+    },
+    "collected_at": "2026-08-19T09:13:15.348625Z",
+    "company": "Convene Hospitality Group",
+    "date": "2026-08-19T09:13:15.348614+00:00",
+    "is_remote": false,
+    "role_family": "Other",
+    "location": "London, London, United Kingdom"
+  },
+  {
+    "id": "11ab7cbf-dae9-5124-b3ee-73d4a46b08a2",
+    "entity_type": "JOB",
+    "name": "Werkstudent (m/w/d) – Finance & Beratung (unternehmerisch, leistungsbasiert)",
+    "description": "Kevin Kehr · Other",
+    "url": "https://www.arbeitnow.com/jobs/companies/kevin-kehr/werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-6381",
+    "categories": [
+      "Other"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/kevin-kehr/werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-6381"
+    },
+    "collected_at": "2026-08-19T09:13:15.340975Z",
+    "company": "Kevin Kehr",
+    "date": "2026-08-19T09:13:15.340951+00:00",
+    "is_remote": false,
+    "role_family": "Other",
+    "location": "Hamburg"
+  },
+  {
+    "id": "7bcdad6a-a27a-508f-ae7e-1c6a00936cd9",
+    "entity_type": "JOB",
+    "name": "Software Developer Cloud Services (m/w/d)",
+    "description": "alphacoders GmbH · Engineering",
+    "url": "https://www.arbeitnow.com/jobs/companies/alphacoders-gmbh/software-developer-cloud-services-bonn-103572",
+    "categories": [
+      "Engineering"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/alphacoders-gmbh/software-developer-cloud-services-bonn-103572"
+    },
+    "collected_at": "2026-08-19T09:13:15.340900Z",
+    "company": "alphacoders GmbH",
+    "date": "2026-08-19T09:13:15.340884+00:00",
+    "is_remote": false,
+    "role_family": "Engineering",
+    "location": "Bonn"
+  },
+  {
+    "id": "7f26730a-b8e6-5b6e-8d2f-32c14d4b6820",
+    "entity_type": "JOB",
+    "name": "Application Development (Qt/C++) (m/w/x)",
+    "description": "K-tronik GmbH · Other",
+    "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/application-development-qt-c-munich-356221",
+    "categories": [
+      "Other"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/application-development-qt-c-munich-356221"
+    },
+    "collected_at": "2026-08-19T09:13:15.340806Z",
+    "company": "K-tronik GmbH",
+    "date": "2026-08-19T09:13:15.340786+00:00",
+    "is_remote": false,
+    "role_family": "Other",
+    "location": "Munich"
+  },
+  {
+    "id": "bb3d794a-c796-51c8-a94e-a394678642e9",
+    "entity_type": "JOB",
+    "name": "Performance Marketing Manager (m/f/x) - Mid Level",
+    "description": "altitude · Management",
+    "url": "https://www.arbeitnow.com/jobs/companies/altitude/performance-marketing-manager-mid-level-berlin-410868",
+    "categories": [
+      "Management"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/altitude/performance-marketing-manager-mid-level-berlin-410868"
+    },
+    "collected_at": "2026-08-19T09:13:15.340743Z",
+    "company": "altitude",
+    "date": "2026-08-19T09:13:15.340721+00:00",
+    "is_remote": false,
+    "role_family": "Management",
+    "location": "Berlin"
+  },
+  {
+    "id": "174cc245-8893-522c-9f59-726b45797594",
+    "entity_type": "JOB",
+    "name": "Robotics Engineer Humanoids (Software & AI) - Werkstudent (m/w/d)",
+    "description": "World of VR · Engineering",
+    "url": "https://www.arbeitnow.com/jobs/companies/world-of-vr/robotics-engineer-humanoids-software-ai-werkstudent-cologne-17415",
+    "categories": [
+      "Engineering"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/world-of-vr/robotics-engineer-humanoids-software-ai-werkstudent-cologne-17415"
+    },
+    "collected_at": "2026-08-19T09:13:15.340652Z",
+    "company": "World of VR",
+    "date": "2026-08-19T09:13:15.340624+00:00",
+    "is_remote": false,
+    "role_family": "Engineering",
+    "location": "Cologne"
+  },
+  {
+    "id": "1c328bd4-25f5-5af1-9371-723d36543410",
+    "entity_type": "JOB",
+    "name": "Werkstudent (m/w/d) Projektmanagment",
+    "description": "neaSOL GmbH · Other",
+    "url": "https://www.arbeitnow.com/jobs/companies/neasol-gmbh/werkstudent-projektmanagment-dormagen-427564",
+    "categories": [
+      "Other"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/neasol-gmbh/werkstudent-projektmanagment-dormagen-427564"
+    },
+    "collected_at": "2026-08-19T09:13:15.340349Z",
+    "company": "neaSOL GmbH",
+    "date": "2026-08-19T09:13:15.340296+00:00",
+    "is_remote": false,
+    "role_family": "Other",
+    "location": "Dormagen"
+  },
+  {
+    "id": "6f8aaeaa-742c-5c70-abc7-e6efb2ebf643",
+    "entity_type": "JOB",
+    "name": "Trainee Controlling (m/w/d)",
+    "description": "Stadt-Parfümerie Pieper GmbH Parfümerie International · Artificial Intelligence",
+    "url": "https://www.arbeitnow.com/jobs/companies/stadt-parfumerie-pieper-gmbh-parfumerie-international/trainee-controlling-herne-111270",
+    "categories": [
+      "Artificial Intelligence"
+    ],
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/stadt-parfumerie-pieper-gmbh-parfumerie-international/trainee-controlling-herne-111270"
+    },
+    "collected_at": "2026-08-19T09:13:15.340165Z",
+    "company": "Stadt-Parfümerie Pieper GmbH Parfümerie International",
+    "date": "2026-08-19T09:13:15.340094+00:00",
+    "is_remote": false,
+    "role_family": "Artificial Intelligence",
+    "location": "Herne"
+  },
+  {
     "id": "0209d8c0-e474-564a-bf7c-5e4a58dd347b",
     "entity_type": "JOB",
     "name": "Manager Direct taxation",

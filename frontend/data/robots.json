@@ -1,0 +1,70 @@
+[
+  {
+    "id": "b74a4ac4-e28c-59a6-ab03-70cfd635ceaf",
+    "entity_type": "ROBOT",
+    "name": "Atlas",
+    "description": "Electric humanoid robot for industrial applications, including material handling and flexible enterprise automation.",
+    "url": "https://bostondynamics.com/products/atlas/",
+    "categories": [
+      "humanoid",
+      "industrial",
+      "physical-ai"
+    ],
+    "source": {
+      "name": "Boston Dynamics",
+      "url": "https://bostondynamics.com/products/atlas/"
+    },
+    "company": "Boston Dynamics"
+  },
+  {
+    "id": "a8725b61-5db8-5543-ae2f-e3b52d99e9dc",
+    "entity_type": "ROBOT",
+    "name": "Figure 03",
+    "description": "Figure's third-generation humanoid robot, presented for home use and general-purpose embodied AI development.",
+    "url": "https://www.figure.ai/company",
+    "categories": [
+      "humanoid",
+      "home-robotics",
+      "physical-ai"
+    ],
+    "source": {
+      "name": "Figure",
+      "url": "https://www.figure.ai/company"
+    },
+    "company": "Figure"
+  },
+  {
+    "id": "42f9a86b-ecfb-5c3d-9fc7-999925f1f343",
+    "entity_type": "ROBOT",
+    "name": "Unitree G1",
+    "description": "Humanoid robot platform with 23–43 joint motors and AI-driven imitation and reinforcement learning capabilities.",
+    "url": "https://www.unitree.com/mobile/g1/",
+    "categories": [
+      "humanoid",
+      "research",
+      "reinforcement-learning"
+    ],
+    "source": {
+      "name": "Unitree Robotics",
+      "url": "https://www.unitree.com/mobile/g1/"
+    },
+    "company": "Unitree Robotics"
+  },
+  {
+    "id": "52d2f893-62e9-5e52-8b78-d147cb7ef87d",
+    "entity_type": "ROBOT",
+    "name": "Digit",
+    "description": "General-purpose humanoid robot designed for material handling and other work in human-centric facilities.",
+    "url": "https://www.agilityrobotics.com/solutions",
+    "categories": [
+      "humanoid",
+      "logistics",
+      "industrial"
+    ],
+    "source": {
+      "name": "Agility Robotics",
+      "url": "https://www.agilityrobotics.com/solutions"
+    },
+    "company": "Agility Robotics"
+  }
+]

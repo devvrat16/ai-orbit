@@ -1,0 +1,18 @@
+[
+  {
+    "id": "92cbf441-fb74-54df-a11f-bdf8fa992ed0",
+    "entity_type": "COLLECTION",
+    "name": "Awesome MCP Servers",
+    "description": "Community-maintained collection of MCP servers.",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers",
+    "categories": [
+      "MCP",
+      "collection",
+      "open-source"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers"
+    }
+  }
+]

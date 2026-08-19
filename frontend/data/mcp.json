@@ -1,0 +1,422 @@
+[
+  {
+    "id": "25b0cc8b-c575-54fc-a67c-5af5f240cbdb",
+    "entity_type": "MCP",
+    "name": "danny-avila/LibreChat",
+    "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+    "url": "https://github.com/danny-avila/LibreChat",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/danny-avila/LibreChat"
+    },
+    "collected_at": "2026-08-18T20:36:41.242061",
+    "installation_methods": [
+      "GitHub repository"
+    ],
+    "runtime_requirements": [
+      "TypeScript"
+    ]
+  },
+  {
+    "id": "9831a402-f8cd-5e2b-a3a0-d136f8b54fa0",
+    "entity_type": "MCP",
+    "name": "casdoor/casdoor",
+    "description": "An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD",
+    "url": "https://github.com/casdoor/casdoor",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/casdoor/casdoor"
+    },
+    "collected_at": "2026-08-18T20:36:41.241757",
+    "installation_methods": [
+      "GitHub repository"
+    ],
+    "runtime_requirements": [
+      "Go"
+    ]
+  },
+  {
+    "id": "545580c4-5bc6-5125-b060-f4f69ea94043",
+    "entity_type": "MCP",
+    "name": "openclaw/Peekaboo",
+    "description": "Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models.",
+    "url": "https://github.com/openclaw/Peekaboo",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/openclaw/Peekaboo"
+    },
+    "collected_at": "2026-08-18T20:36:41.241999",
+    "installation_methods": [
+      "GitHub repository"
+    ],
+    "runtime_requirements": [
+      "Swift"
+    ]
+  },
+  {
+    "id": "dbcf7a8d-df52-5c32-8000-d4566cece7b9",
+    "entity_type": "MCP",
+    "name": "mcp-use/mcp-use",
+    "description": "The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.",
+    "url": "https://github.com/mcp-use/mcp-use",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/mcp-use/mcp-use"
+    },
+    "collected_at": "2026-08-18T20:36:41.241795",
+    "installation_methods": [
+      "GitHub repository"
+    ],
+    "runtime_requirements": [
+      "TypeScript"
+    ]
+  },
+  {
+    "id": "0a1a8cab-2109-53ef-b701-f35b754ca0b1",
+    "entity_type": "MCP",
+    "name": "xberg-io/xberg",
+    "description": "A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured data from 101 formats (115 file extensions) plus code intelligence for 371 code languages. 15 language bindings — Rust, Python, Ruby, Java, Go, PHP, Elixir, C#, TypeScript — plus CLI, REST API, and MCP server.",
+    "url": "https://github.com/xberg-io/xberg",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/xberg-io/xberg"
+    },
+    "collected_at": "2026-08-18T20:36:41.241826",
+    "installation_methods": [
+      "GitHub repository"
+    ],
+    "runtime_requirements": [
+      "Rust"
+    ]
+  },
+  {
+    "id": "4b84876b-7ed8-54a7-b981-3cd89bf7896f",
+    "entity_type": "MCP",
+    "name": "Q00/ouroboros",
+    "description": "Agent OS: the agent gets smarter on its own. We just hold the line: the grading command and expected result never make it into the success contract we hand it. Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 13 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.",
+    "url": "https://github.com/Q00/ouroboros",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/Q00/ouroboros"
+    },
+    "collected_at": "2026-08-18T20:36:41.241979",
+    "installation_methods": [
+      "GitHub repository"
+    ],
+    "runtime_requirements": [
+      "Python"
+    ]
+  },
+  {
+    "id": "6ae18cd5-68b7-5c37-9463-de2d05878845",
+    "entity_type": "MCP",
+    "name": "t8y2/dbx",
+    "description": "20 MB lightweight cross-platform database client for 80+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 80+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
+    "url": "https://github.com/t8y2/dbx",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/t8y2/dbx"
+    },
+    "collected_at": "2026-08-18T20:36:41.241750",
+    "installation_methods": [
+      "GitHub repository"
+    ],
+    "runtime_requirements": [
+      "Rust"
+    ]
+  },
+  {
+    "id": "39889e6d-fd06-538e-b7ed-393f0b8e3276",
+    "entity_type": "MCP",
+    "name": "0x4m4/hexstrike-ai",
+    "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.",
+    "url": "https://github.com/0x4m4/hexstrike-ai",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/0x4m4/hexstrike-ai"
+    },
+    "collected_at": "2026-08-18T20:36:41.241780",
+    "installation_methods": [
+      "GitHub repository"
+    ],
+    "runtime_requirements": [
+      "Python"
+    ]
+  },
+  {
+    "id": "1d36b604-bac7-5137-93da-7462414fbae2",
+    "entity_type": "MCP",
+    "name": "webiny/webiny-js",
+    "description": "Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, lifecycle hooks, GraphQL API, and AI-assisted development via MCP server. Built for developers at large organizations.",
+    "url": "https://github.com/webiny/webiny-js",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/webiny/webiny-js"
+    },
+    "collected_at": "2026-08-18T20:36:41.241848",
+    "installation_methods": [
+      "GitHub repository"
+    ],
+    "runtime_requirements": [
+      "TypeScript"
+    ]
+  },
+  {
+    "id": "54f8cba1-9479-5aff-88b0-24c7df5a9a9f",
+    "entity_type": "MCP",
+    "name": "hangwin/mcp-chrome",
+    "description": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.",
+    "url": "https://github.com/hangwin/mcp-chrome",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/hangwin/mcp-chrome"
+    },
+    "collected_at": "2026-08-18T20:36:41.241766",
+    "installation_methods": [
+      "GitHub repository"
+    ],
+    "runtime_requirements": [
+      "TypeScript"
+    ]
+  },
+  {
+    "id": "610a433b-9d88-5726-984c-8092f847be44",
+    "entity_type": "MCP",
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "url": "https://github.com/DeusData/codebase-memory-mcp",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/DeusData/codebase-memory-mcp"
+    },
+    "collected_at": "2026-08-18T20:36:41.241691",
+    "installation_methods": [
+      "GitHub repository"
+    ],
+    "runtime_requirements": [
+      "C"
+    ]
+  },
+  {
+    "id": "c89096a1-545f-52eb-aa97-a69b25208587",
+    "entity_type": "MCP",
+    "name": "MODSetter/SurfSense",
+    "description": "Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9",
+    "url": "https://github.com/MODSetter/SurfSense",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/MODSetter/SurfSense"
+    },
+    "collected_at": "2026-08-18T20:36:41.241736",
+    "installation_methods": [
+      "GitHub repository"
+    ],
+    "runtime_requirements": [
+      "Python"
+    ]
+  },
+  {
+    "id": "3a116c7a-923e-5336-99d5-c60fe783adb1",
+    "entity_type": "MCP",
+    "name": "google-labs-code/stitch-skills",
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "url": "https://github.com/google-labs-code/stitch-skills",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/google-labs-code/stitch-skills"
+    },
+    "collected_at": "2026-08-18T20:36:41.241841",
+    "installation_methods": [
+      "GitHub repository"
+    ],
+    "runtime_requirements": [
+      "TypeScript"
+    ]
+  },
+  {
+    "id": "d0b23ae5-d3dc-5bd0-bfa3-095a3b51c5c7",
+    "entity_type": "MCP",
+    "name": "jeecgboot/JeecgBoot",
+    "description": "【低代码迈入v2.0时代，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
+    "url": "https://github.com/jeecgboot/JeecgBoot",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/jeecgboot/JeecgBoot"
+    },
+    "collected_at": "2026-08-18T20:36:41.242044",
+    "installation_methods": [
+      "GitHub repository"
+    ],
+    "runtime_requirements": [
+      "Java"
+    ]
+  },
+  {
+    "id": "cf51e6e4-b119-5754-aebd-d40cf486ab17",
+    "entity_type": "MCP",
+    "name": "headroomlabs-ai/headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+    "url": "https://github.com/headroomlabs-ai/headroom",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/headroomlabs-ai/headroom"
+    },
+    "collected_at": "2026-08-18T20:36:41.241673",
+    "installation_methods": [
+      "GitHub repository"
+    ],
+    "runtime_requirements": [
+      "Python"
+    ]
+  },
+  {
+    "id": "052aeea1-5b50-5c2a-8287-3b837f269f1a",
+    "entity_type": "MCP",
+    "name": "nanbingxyz/5ire",
+    "description": "5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers .",
+    "url": "https://github.com/nanbingxyz/5ire",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/nanbingxyz/5ire"
+    },
+    "collected_at": "2026-08-18T20:36:41.241986",
+    "installation_methods": [
+      "GitHub repository"
+    ],
+    "runtime_requirements": [
+      "TypeScript"
+    ]
+  },
+  {
+    "id": "1116bb75-0c89-5450-9d2f-0aac8d0466df",
+    "entity_type": "MCP",
+    "name": "zylon-ai/private-gpt",
+    "description": "Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.",
+    "url": "https://github.com/zylon-ai/private-gpt",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/zylon-ai/private-gpt"
+    },
+    "collected_at": "2026-08-18T20:36:41.241682",
+    "installation_methods": [
+      "GitHub repository"
+    ],
+    "runtime_requirements": [
+      "Python"
+    ]
+  },
+  {
+    "id": "c8ba8105-f2c4-58bc-b68b-a834bc2f87f8",
+    "entity_type": "MCP",
+    "name": "HKUDS/nanobot",
+    "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps",
+    "url": "https://github.com/HKUDS/nanobot",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/HKUDS/nanobot"
+    },
+    "collected_at": "2026-08-18T20:36:41.242051",
+    "installation_methods": [
+      "GitHub repository"
+    ],
+    "runtime_requirements": [
+      "Python"
+    ]
+  },
+  {
+    "id": "d918a44e-f462-59c0-8cba-f3e62bfef42f",
+    "entity_type": "MCP",
+    "name": "activepieces/activepieces",
+    "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+    "url": "https://github.com/activepieces/activepieces",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/activepieces/activepieces"
+    },
+    "collected_at": "2026-08-18T20:36:41.241722",
+    "installation_methods": [
+      "GitHub repository"
+    ],
+    "runtime_requirements": [
+      "TypeScript"
+    ]
+  },
+  {
+    "id": "c9feb627-98f6-5e50-86a3-30cebfab1fc9",
+    "entity_type": "MCP",
+    "name": "BeehiveInnovations/pal-mcp-server",
+    "description": "The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.",
+    "url": "https://github.com/BeehiveInnovations/pal-mcp-server",
+    "categories": [
+      "MCP"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/BeehiveInnovations/pal-mcp-server"
+    },
+    "collected_at": "2026-08-18T20:36:41.241773",
+    "installation_methods": [
+      "GitHub repository"
+    ],
+    "runtime_requirements": [
+      "Python"
+    ]
+  }
+]

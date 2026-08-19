@@ -1,0 +1,3038 @@
+[
+  {
+    "source_id": "73de9af3-a493-5ef7-b54f-685a91bcd16e",
+    "source_name": "Prism",
+    "relation": "DEVELOPS",
+    "target_id": "43ac667b-61f8-55ca-9723-82a4156dff94",
+    "target_name": "prism-drift/qwen35-9b-m0-v4-tuned-noeval-model-only-checkpoints",
+    "evidence_url": "https://huggingface.co/prism-drift/qwen35-9b-m0-v4-tuned-noeval-model-only-checkpoints",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-19T02:24:00.577980Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "138a1562-108d-5050-ad28-43b25bfcb3ed",
+    "source_name": "Blue",
+    "relation": "DEVELOPS",
+    "target_id": "a27287d1-8068-5a8d-8e97-bcabd388f4c4",
+    "target_name": "BlueShark1214/koth-miner-ev4",
+    "evidence_url": "https://huggingface.co/BlueShark1214/koth-miner-ev4",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-19T02:24:00.932110Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "138a1562-108d-5050-ad28-43b25bfcb3ed",
+    "source_name": "Blue",
+    "relation": "DEVELOPS",
+    "target_id": "3bcf0e2b-ee76-53fc-a27f-51d60ab5784d",
+    "target_name": "blueeagle998/koth-miner-202",
+    "evidence_url": "https://huggingface.co/blueeagle998/koth-miner-202",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-19T02:24:01.041427Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "138a1562-108d-5050-ad28-43b25bfcb3ed",
+    "source_name": "Blue",
+    "relation": "DEVELOPS",
+    "target_id": "b5d5dbdb-6cd5-5b57-8ed2-3adbe00dd501",
+    "target_name": "blueeagle998/koth-miner-197",
+    "evidence_url": "https://huggingface.co/blueeagle998/koth-miner-197",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-19T02:24:01.072904Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "138a1562-108d-5050-ad28-43b25bfcb3ed",
+    "source_name": "Blue",
+    "relation": "DEVELOPS",
+    "target_id": "0b93ab6c-19c4-56f1-a11c-637aceb8c810",
+    "target_name": "blueeagle998/koth-miner-199",
+    "evidence_url": "https://huggingface.co/blueeagle998/koth-miner-199",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-19T02:24:01.118939Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "138a1562-108d-5050-ad28-43b25bfcb3ed",
+    "source_name": "Blue",
+    "relation": "DEVELOPS",
+    "target_id": "5427ec28-2139-5e9e-8e87-4c3c281be738",
+    "target_name": "blueeagle998/koth-miner-200",
+    "evidence_url": "https://huggingface.co/blueeagle998/koth-miner-200",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-19T02:24:01.129961Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "138a1562-108d-5050-ad28-43b25bfcb3ed",
+    "source_name": "Blue",
+    "relation": "DEVELOPS",
+    "target_id": "4d3a3282-f0e0-5ffe-b6ca-296babe997f9",
+    "target_name": "blueeagle998/koth-miner-201",
+    "evidence_url": "https://huggingface.co/blueeagle998/koth-miner-201",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-19T02:24:01.185151Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "138a1562-108d-5050-ad28-43b25bfcb3ed",
+    "source_name": "Blue",
+    "relation": "DEVELOPS",
+    "target_id": "836a2796-57bd-5b9d-bded-5d0c81dd71df",
+    "target_name": "blueeagle998/koth-miner-173",
+    "evidence_url": "https://huggingface.co/blueeagle998/koth-miner-173",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-19T02:24:01.191302Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "138a1562-108d-5050-ad28-43b25bfcb3ed",
+    "source_name": "Blue",
+    "relation": "DEVELOPS",
+    "target_id": "ced2e62d-983a-5b7b-9218-499067558319",
+    "target_name": "blueeagle998/koth-miner-198",
+    "evidence_url": "https://huggingface.co/blueeagle998/koth-miner-198",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-19T02:24:01.192585Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "1a0f8d99-ddcd-5ee9-af11-b6899b6260ef",
+    "source_name": "F2",
+    "relation": "DEVELOPS",
+    "target_id": "1869be96-da5b-5ba3-86d4-c333028ddcfa",
+    "target_name": "safafaf22/MyAwesomeModel-TestRepo",
+    "evidence_url": "https://huggingface.co/safafaf22/MyAwesomeModel-TestRepo",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-19T02:24:01.216895Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "b1e37238-d435-5956-9494-7baa54af998b",
+    "source_name": "Shor",
+    "relation": "DEVELOPS",
+    "target_id": "653055ad-bff1-5987-89ef-c8c34dca804d",
+    "target_name": "MORES-horizon/MORESPulse",
+    "evidence_url": "https://huggingface.co/MORES-horizon/MORESPulse",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-19T02:24:01.421283Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "c70ac619-189a-52e0-9f9e-807fc1b64f58",
+    "source_name": "Pops",
+    "relation": "DEVELOPS",
+    "target_id": "1a430413-1f11-5e1b-93dc-778d17d5518b",
+    "target_name": "unsup-opsd/ckpts",
+    "evidence_url": "https://huggingface.co/unsup-opsd/ckpts",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-19T02:24:01.425271Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "dce80aae-f197-501e-9287-f14d8510ba35",
+    "source_name": "Ara",
+    "relation": "DEVELOPS",
+    "target_id": "8f426f35-60f5-5ea8-ae69-178b051f3836",
+    "target_name": "aravdhoot/scaling-em-adapters",
+    "evidence_url": "https://huggingface.co/aravdhoot/scaling-em-adapters",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-19T02:24:01.433554Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "b1e37238-d435-5956-9494-7baa54af998b",
+    "source_name": "Shor",
+    "relation": "DEVELOPS",
+    "target_id": "c64cb27b-7d12-5db4-b54a-a91bfdb18e29",
+    "target_name": "MORES-horizon/MORES_emotions9",
+    "evidence_url": "https://huggingface.co/MORES-horizon/MORES_emotions9",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-19T02:24:01.473596Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "4a68da7f-dd92-5618-9226-a16786a4a64a",
+    "source_name": "Cascade",
+    "relation": "DEVELOPS",
+    "target_id": "5699a87d-d50a-5031-9b4a-91d4ff95f1a6",
+    "target_name": "cascade-expert/cascade-gen000000",
+    "evidence_url": "https://huggingface.co/cascade-expert/cascade-gen000000",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-18T21:24:51.984944Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "dfe7829a-8294-5755-89a9-b1fec4b418af",
+    "source_name": "Char",
+    "relation": "DEVELOPS",
+    "target_id": "288b2b58-d0f5-5212-96eb-d181b712ebba",
+    "target_name": "richard-king/windsword8989-albedo-qwen3.6-35b-9999-ab54d5ee",
+    "evidence_url": "https://huggingface.co/richard-king/windsword8989-albedo-qwen3.6-35b-9999-ab54d5ee",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-19T02:24:01.758221Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "e3f53f57-f66a-586f-9ad2-0905815e8935",
+    "source_name": "Lab0",
+    "relation": "DEVELOPS",
+    "target_id": "baf69d44-1346-56a6-8aa2-8f137634557b",
+    "target_name": "Research-Inst-RosettaFlareLab-005/Models_2026.08_August",
+    "evidence_url": "https://huggingface.co/Research-Inst-RosettaFlareLab-005/Models_2026.08_August",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-19T02:24:02.290436Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "dce80aae-f197-501e-9287-f14d8510ba35",
+    "source_name": "Ara",
+    "relation": "DEVELOPS",
+    "target_id": "ae7d8fda-bca0-5ad9-b65c-ec388f90cf0d",
+    "target_name": "zoarag/Telekinetic_tomato",
+    "evidence_url": "https://huggingface.co/zoarag/Telekinetic_tomato",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-19T02:24:02.333571Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "dce80aae-f197-501e-9287-f14d8510ba35",
+    "source_name": "Ara",
+    "relation": "MAINTAINS",
+    "target_id": "052e01e3-1cf1-5992-bc5a-525e8f968763",
+    "target_name": "taranis-ai/taranis-ai",
+    "evidence_url": "https://github.com/taranis-ai/taranis-ai",
+    "confidence": 0.95,
+    "extracted_at": "2026-08-19T02:24:03.469480Z",
+    "metadata": {
+      "reason": "github.repository_owner"
+    }
+  },
+  {
+    "source_id": "6560b6a2-182b-5043-aeca-e20717f926fc",
+    "source_name": "Nex",
+    "relation": "MAINTAINS",
+    "target_id": "16437ef5-e2c1-56dc-b442-7663678f4a3c",
+    "target_name": "mobile-next/mobile-mcp",
+    "evidence_url": "https://github.com/mobile-next/mobile-mcp",
+    "confidence": 0.95,
+    "extracted_at": "2026-08-19T08:10:50.164599Z",
+    "metadata": {
+      "reason": "github.repository_owner"
+    }
+  },
+  {
+    "source_id": "7111552c-3f30-57f5-8445-fcd13a1113f5",
+    "source_name": "Sol",
+    "relation": "MAINTAINS",
+    "target_id": "69746025-0198-55d5-b36c-19300dddddbf",
+    "target_name": "Coding-Solo/godot-mcp",
+    "evidence_url": "https://github.com/Coding-Solo/godot-mcp",
+    "confidence": 0.95,
+    "extracted_at": "2026-08-19T02:24:03.987982Z",
+    "metadata": {
+      "reason": "github.repository_owner"
+    }
+  },
+  {
+    "source_id": "2a897881-0d13-5899-8706-7e83b2deb41b",
+    "source_name": "Hub",
+    "relation": "MAINTAINS",
+    "target_id": "4e1f1939-15d4-5527-9581-4195f6e9c006",
+    "target_name": "Shubhamsaboo/awesome-llm-apps",
+    "evidence_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "confidence": 0.95,
+    "extracted_at": "2026-08-19T02:24:04.041596Z",
+    "metadata": {
+      "reason": "github.repository_owner"
+    }
+  },
+  {
+    "source_id": "2a897881-0d13-5899-8706-7e83b2deb41b",
+    "source_name": "Hub",
+    "relation": "MAINTAINS",
+    "target_id": "efd6e91e-165b-50d9-ae6d-d40bc48f405d",
+    "target_name": "lobehub/lobehub",
+    "evidence_url": "https://github.com/lobehub/lobehub",
+    "confidence": 0.95,
+    "extracted_at": "2026-08-19T02:24:04.096841Z",
+    "metadata": {
+      "reason": "github.repository_owner"
+    }
+  },
+  {
+    "source_id": "9831a402-f8cd-5e2b-a3a0-d136f8b54fa0",
+    "source_name": "casdoor/casdoor",
+    "relation": "INTEGRATES_WITH",
+    "target_id": "c5a019bc-304b-5a8b-804e-48c3e6343c91",
+    "target_name": "OpenClaw",
+    "evidence_url": "https://github.com/casdoor/casdoor",
+    "confidence": 0.9,
+    "extracted_at": "2026-08-19T02:24:05.752547Z",
+    "metadata": {
+      "reason": "tool.name explicitly present in MCP metadata"
+    }
+  },
+  {
+    "source_id": "dbcf7a8d-df52-5c32-8000-d4566cece7b9",
+    "source_name": "mcp-use/mcp-use",
+    "relation": "INTEGRATES_WITH",
+    "target_id": "c7f4ce5c-ee9b-537d-aaa1-bd5f032d8439",
+    "target_name": "ChatGPT",
+    "evidence_url": "https://github.com/mcp-use/mcp-use",
+    "confidence": 0.9,
+    "extracted_at": "2026-08-19T02:24:05.917780Z",
+    "metadata": {
+      "reason": "tool.name explicitly present in MCP metadata"
+    }
+  },
+  {
+    "source_id": "545580c4-5bc6-5125-b060-f4f69ea94043",
+    "source_name": "openclaw/Peekaboo",
+    "relation": "INTEGRATES_WITH",
+    "target_id": "c5a019bc-304b-5a8b-804e-48c3e6343c91",
+    "target_name": "OpenClaw",
+    "evidence_url": "https://github.com/openclaw/Peekaboo",
+    "confidence": 0.9,
+    "extracted_at": "2026-08-19T02:24:06.813661Z",
+    "metadata": {
+      "reason": "tool.name explicitly present in MCP metadata"
+    }
+  },
+  {
+    "source_id": "25b0cc8b-c575-54fc-a67c-5af5f240cbdb",
+    "source_name": "danny-avila/LibreChat",
+    "relation": "INTEGRATES_WITH",
+    "target_id": "30ca75ac-7c7c-5385-8b72-a2a6a5919e97",
+    "target_name": "Vertex AI",
+    "evidence_url": "https://github.com/danny-avila/LibreChat",
+    "confidence": 0.9,
+    "extracted_at": "2026-08-19T02:24:06.906692Z",
+    "metadata": {
+      "reason": "tool.name explicitly present in MCP metadata"
+    }
+  },
+  {
+    "source_id": "25b0cc8b-c575-54fc-a67c-5af5f240cbdb",
+    "source_name": "danny-avila/LibreChat",
+    "relation": "INTEGRATES_WITH",
+    "target_id": "af00156d-e65f-5b17-81d1-3609292a8b2f",
+    "target_name": "DALL·E 3",
+    "evidence_url": "https://github.com/danny-avila/LibreChat",
+    "confidence": 0.9,
+    "extracted_at": "2026-08-19T02:24:06.908040Z",
+    "metadata": {
+      "reason": "tool.name explicitly present in MCP metadata"
+    }
+  },
+  {
+    "source_id": "25b0cc8b-c575-54fc-a67c-5af5f240cbdb",
+    "source_name": "danny-avila/LibreChat",
+    "relation": "INTEGRATES_WITH",
+    "target_id": "c7f4ce5c-ee9b-537d-aaa1-bd5f032d8439",
+    "target_name": "ChatGPT",
+    "evidence_url": "https://github.com/danny-avila/LibreChat",
+    "confidence": 0.9,
+    "extracted_at": "2026-08-19T02:24:06.912916Z",
+    "metadata": {
+      "reason": "tool.name explicitly present in MCP metadata"
+    }
+  },
+  {
+    "source_id": "3855df73-d3f3-5b36-a016-95361488b0ab",
+    "source_name": "vidflux.ai",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/vidflux-ai",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.938405Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "text"
+      ]
+    }
+  },
+  {
+    "source_id": "3855df73-d3f3-5b36-a016-95361488b0ab",
+    "source_name": "vidflux.ai",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/vidflux-ai",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.938411Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image"
+      ]
+    }
+  },
+  {
+    "source_id": "827c6175-d457-5d9f-a2fb-043f8fd5933e",
+    "source_name": "Vidu AI",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/vidu-ai",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.938502Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "text"
+      ]
+    }
+  },
+  {
+    "source_id": "827c6175-d457-5d9f-a2fb-043f8fd5933e",
+    "source_name": "Vidu AI",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/vidu-ai",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.938506Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image"
+      ]
+    }
+  },
+  {
+    "source_id": "efc5c381-f57f-583f-8861-0e03431cedb5",
+    "source_name": "Dreamlux",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/dreamlux",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.938579Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "text"
+      ]
+    }
+  },
+  {
+    "source_id": "efc5c381-f57f-583f-8861-0e03431cedb5",
+    "source_name": "Dreamlux",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/dreamlux",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.938583Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image"
+      ]
+    }
+  },
+  {
+    "source_id": "50757ed0-5667-5201-a24c-8705cf47f26b",
+    "source_name": "Magnific AI Video Generator",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/magnific-ai-video-generator",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.938672Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "text"
+      ]
+    }
+  },
+  {
+    "source_id": "50757ed0-5667-5201-a24c-8705cf47f26b",
+    "source_name": "Magnific AI Video Generator",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/magnific-ai-video-generator",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.938675Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image"
+      ]
+    }
+  },
+  {
+    "source_id": "c52ab392-6415-5e92-bb5c-f806ce5196e9",
+    "source_name": "Viggle AI",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/viggle",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.939115Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "text"
+      ]
+    }
+  },
+  {
+    "source_id": "c52ab392-6415-5e92-bb5c-f806ce5196e9",
+    "source_name": "Viggle AI",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/viggle",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.939119Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image"
+      ]
+    }
+  },
+  {
+    "source_id": "2a8ae78a-8ffb-55b7-88a2-0f0d39fd4085",
+    "source_name": "Elai.io",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/elai-io",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.939523Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "text"
+      ]
+    }
+  },
+  {
+    "source_id": "2a8ae78a-8ffb-55b7-88a2-0f0d39fd4085",
+    "source_name": "Elai.io",
+    "relation": "SOLVES",
+    "target_id": "762e76cb-d5e8-5014-b8df-36247e5c69ec",
+    "target_name": "Speech Recognition",
+    "evidence_url": "https://www.futurepedia.io/tool/elai-io",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.939529Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "speech"
+      ]
+    }
+  },
+  {
+    "source_id": "72bb3689-ece0-58e9-83c5-7a7e0a9b97db",
+    "source_name": "Leonardo AI",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/leonardoai",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.939691Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "art"
+      ]
+    }
+  },
+  {
+    "source_id": "de72e737-b417-5e08-886f-53fa3a0a545f",
+    "source_name": "Transkriptor",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/transkriptor",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.939943Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "text"
+      ]
+    }
+  },
+  {
+    "source_id": "de72e737-b417-5e08-886f-53fa3a0a545f",
+    "source_name": "Transkriptor",
+    "relation": "SOLVES",
+    "target_id": "762e76cb-d5e8-5014-b8df-36247e5c69ec",
+    "target_name": "Speech Recognition",
+    "evidence_url": "https://www.futurepedia.io/tool/transkriptor",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.939949Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "transcrib"
+      ]
+    }
+  },
+  {
+    "source_id": "9bfa43e7-cf0c-5be1-92b2-3b623424a89b",
+    "source_name": "Aithor",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/aithor",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.940116Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "writing"
+      ]
+    }
+  },
+  {
+    "source_id": "9bfa43e7-cf0c-5be1-92b2-3b623424a89b",
+    "source_name": "Aithor",
+    "relation": "SOLVES",
+    "target_id": "e00c30f3-fd83-5431-9a71-884ebdc53fca",
+    "target_name": "Object Detection",
+    "evidence_url": "https://www.futurepedia.io/tool/aithor",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.940124Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "detect"
+      ]
+    }
+  },
+  {
+    "source_id": "57587bfd-1dca-52f0-9322-4265db9663ed",
+    "source_name": "Overchat AI",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/overchat-ai",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.940303Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "chat"
+      ]
+    }
+  },
+  {
+    "source_id": "57587bfd-1dca-52f0-9322-4265db9663ed",
+    "source_name": "Overchat AI",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/overchat-ai",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.940306Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image",
+        "design"
+      ]
+    }
+  },
+  {
+    "source_id": "b53909fe-9bdd-5b86-bb93-c81c7a7ec90c",
+    "source_name": "Straico",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/straico",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.940524Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "chat"
+      ]
+    }
+  },
+  {
+    "source_id": "b53909fe-9bdd-5b86-bb93-c81c7a7ec90c",
+    "source_name": "Straico",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/straico",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.940528Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image",
+        "design"
+      ]
+    }
+  },
+  {
+    "source_id": "30ca75ac-7c7c-5385-8b72-a2a6a5919e97",
+    "source_name": "Vertex AI",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/vertex-ai",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.940547Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "chat"
+      ]
+    }
+  },
+  {
+    "source_id": "08ce274f-1442-5f2e-83d3-022974c51e68",
+    "source_name": "TheB.AI",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/theb-ai",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.940723Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "chat"
+      ]
+    }
+  },
+  {
+    "source_id": "08ce274f-1442-5f2e-83d3-022974c51e68",
+    "source_name": "TheB.AI",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/theb-ai",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.940727Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image"
+      ]
+    }
+  },
+  {
+    "source_id": "f34ca542-af2e-59c1-8e31-15825f65abd8",
+    "source_name": "Wepik",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/wepik",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.940785Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image",
+        "design"
+      ]
+    }
+  },
+  {
+    "source_id": "dd33f76d-d0a0-56d7-b94f-cb622cffe989",
+    "source_name": "StarryAI",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/starryai",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.940882Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "text"
+      ]
+    }
+  },
+  {
+    "source_id": "dd33f76d-d0a0-56d7-b94f-cb622cffe989",
+    "source_name": "StarryAI",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/starryai",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.940886Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image",
+        "art"
+      ]
+    }
+  },
+  {
+    "source_id": "a63bbd88-f1b4-5084-8011-0aafb8dbe8e9",
+    "source_name": "Kira",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/kira",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.941120Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image",
+        "design"
+      ]
+    }
+  },
+  {
+    "source_id": "d57613db-64a1-5733-a6a5-8b05049a7143",
+    "source_name": "ZMO",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/zmo",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.941138Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "text"
+      ]
+    }
+  },
+  {
+    "source_id": "d57613db-64a1-5733-a6a5-8b05049a7143",
+    "source_name": "ZMO",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/zmo",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.941142Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image",
+        "visual"
+      ]
+    }
+  },
+  {
+    "source_id": "f28199aa-3143-5f5e-979d-b7f4a216a41c",
+    "source_name": "Pixlr: AI-Powered Editor",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/pixlr",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.941182Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image",
+        "photo",
+        "design"
+      ]
+    }
+  },
+  {
+    "source_id": "01d1f649-2f76-5343-890d-284917344313",
+    "source_name": "CM3leon by Meta",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/cm3leon-by-meta",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.941202Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "text"
+      ]
+    }
+  },
+  {
+    "source_id": "01d1f649-2f76-5343-890d-284917344313",
+    "source_name": "CM3leon by Meta",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/cm3leon-by-meta",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.941206Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image"
+      ]
+    }
+  },
+  {
+    "source_id": "8a5b9798-e2b3-5642-bc9c-5e2e124d0e1f",
+    "source_name": "Dreamina",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/dreamina",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.941358Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "text"
+      ]
+    }
+  },
+  {
+    "source_id": "8a5b9798-e2b3-5642-bc9c-5e2e124d0e1f",
+    "source_name": "Dreamina",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/dreamina",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.941362Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image",
+        "art",
+        "visual"
+      ]
+    }
+  },
+  {
+    "source_id": "5b4f2983-c89b-5db0-9cee-c744c6049666",
+    "source_name": "SoulCanvas",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/soulcanvas",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.941397Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image",
+        "design",
+        "art"
+      ]
+    }
+  },
+  {
+    "source_id": "36e5bd62-cf4d-5dd6-9ddd-716ada416faf",
+    "source_name": "Adobe Photoshop",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/adobe-photoshop",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.941432Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image",
+        "photo",
+        "design"
+      ]
+    }
+  },
+  {
+    "source_id": "7f4910f7-0f5a-5dba-afcf-863008b08660",
+    "source_name": "Jasper Art",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/jasper-art",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.941521Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "text"
+      ]
+    }
+  },
+  {
+    "source_id": "7f4910f7-0f5a-5dba-afcf-863008b08660",
+    "source_name": "Jasper Art",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/jasper-art",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.941524Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image",
+        "art"
+      ]
+    }
+  },
+  {
+    "source_id": "b22f2dc3-5e13-5747-9dee-063d5efce167",
+    "source_name": "Meta AI",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/meta-ai",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.941542Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "chat"
+      ]
+    }
+  },
+  {
+    "source_id": "b22f2dc3-5e13-5747-9dee-063d5efce167",
+    "source_name": "Meta AI",
+    "relation": "SOLVES",
+    "target_id": "e00c30f3-fd83-5431-9a71-884ebdc53fca",
+    "target_name": "Object Detection",
+    "evidence_url": "https://www.futurepedia.io/tool/meta-ai",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.941550Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "computer vision"
+      ]
+    }
+  },
+  {
+    "source_id": "cd5de335-5056-5ef9-8f12-3657e265cecf",
+    "source_name": "Magnific AI Image Generator",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/magnific-ai-image-generator",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.941564Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "text"
+      ]
+    }
+  },
+  {
+    "source_id": "cd5de335-5056-5ef9-8f12-3657e265cecf",
+    "source_name": "Magnific AI Image Generator",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/magnific-ai-image-generator",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.941568Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image",
+        "photo"
+      ]
+    }
+  },
+  {
+    "source_id": "d21516a2-3cf1-5e57-8f1f-3fa4d8bd54cb",
+    "source_name": "CogiX",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/cogix",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.941603Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "chat",
+        "writing",
+        "text"
+      ]
+    }
+  },
+  {
+    "source_id": "d21516a2-3cf1-5e57-8f1f-3fa4d8bd54cb",
+    "source_name": "CogiX",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/cogix",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.941606Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image"
+      ]
+    }
+  },
+  {
+    "source_id": "a9c0d227-baca-5b8c-ba4b-2187808cd5d8",
+    "source_name": "Idesigns",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/idesigns",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.941627Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "design"
+      ]
+    }
+  },
+  {
+    "source_id": "6287d4f8-4df8-5db3-99ce-db7da601fbd5",
+    "source_name": "IntellibizzAI",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/intellibizzai",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.941667Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image"
+      ]
+    }
+  },
+  {
+    "source_id": "1149c85b-c351-5c9b-b5e3-d4ada8f2ebf8",
+    "source_name": "Imagine",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/imagine",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.941685Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "text"
+      ]
+    }
+  },
+  {
+    "source_id": "1149c85b-c351-5c9b-b5e3-d4ada8f2ebf8",
+    "source_name": "Imagine",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/imagine",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.941688Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image",
+        "art"
+      ]
+    }
+  },
+  {
+    "source_id": "11bec1e3-189b-5d59-a096-b9cc9b114c74",
+    "source_name": "Artigen Pro AI",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/artigen-pro-ai",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.941746Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "text"
+      ]
+    }
+  },
+  {
+    "source_id": "11bec1e3-189b-5d59-a096-b9cc9b114c74",
+    "source_name": "Artigen Pro AI",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/artigen-pro-ai",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.941750Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image",
+        "art"
+      ]
+    }
+  },
+  {
+    "source_id": "af00156d-e65f-5b17-81d1-3609292a8b2f",
+    "source_name": "DALL·E 3",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/dall-e-3",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.941788Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "text"
+      ]
+    }
+  },
+  {
+    "source_id": "af00156d-e65f-5b17-81d1-3609292a8b2f",
+    "source_name": "DALL·E 3",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/dall-e-3",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.941792Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image"
+      ]
+    }
+  },
+  {
+    "source_id": "171a6356-e5de-52ae-ae30-9943a76ec238",
+    "source_name": "Google Imagen 3",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/google-imagen-3",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.941810Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "text"
+      ]
+    }
+  },
+  {
+    "source_id": "171a6356-e5de-52ae-ae30-9943a76ec238",
+    "source_name": "Google Imagen 3",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/google-imagen-3",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.941814Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image",
+        "photo"
+      ]
+    }
+  },
+  {
+    "source_id": "6e6587f0-d7dd-5edc-90c6-f15cbc962485",
+    "source_name": "CoverDesignAI",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/coverdesignai",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.941833Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "design"
+      ]
+    }
+  },
+  {
+    "source_id": "7a2bbeb7-a92a-54ad-b51e-06cf1bdad9cc",
+    "source_name": "PicSo",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/picso",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.941851Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "text"
+      ]
+    }
+  },
+  {
+    "source_id": "7a2bbeb7-a92a-54ad-b51e-06cf1bdad9cc",
+    "source_name": "PicSo",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/picso",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.941855Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image",
+        "art"
+      ]
+    }
+  },
+  {
+    "source_id": "617af657-1eb1-5d19-8883-c2c2cf9bd8f5",
+    "source_name": "Cabina AI",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/cabinaai",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.941931Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "writing"
+      ]
+    }
+  },
+  {
+    "source_id": "617af657-1eb1-5d19-8883-c2c2cf9bd8f5",
+    "source_name": "Cabina AI",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/cabinaai",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.941935Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image"
+      ]
+    }
+  },
+  {
+    "source_id": "d5637495-b60c-5535-914a-3f74871a841e",
+    "source_name": "GoZen Content AI",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/gozen-content-ai",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.942010Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "writing",
+        "copywriting"
+      ]
+    }
+  },
+  {
+    "source_id": "d5637495-b60c-5535-914a-3f74871a841e",
+    "source_name": "GoZen Content AI",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/gozen-content-ai",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.942014Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image"
+      ]
+    }
+  },
+  {
+    "source_id": "c159c995-c7c1-514c-9df0-c65285a6ba86",
+    "source_name": "Typho",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/typho",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.942032Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "text"
+      ]
+    }
+  },
+  {
+    "source_id": "c159c995-c7c1-514c-9df0-c65285a6ba86",
+    "source_name": "Typho",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/typho",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.942035Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image",
+        "art"
+      ]
+    }
+  },
+  {
+    "source_id": "88126714-a792-5a19-8091-6cbf9b4985ac",
+    "source_name": "ArchitectGPT",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/architectgpt",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.942055Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "photo",
+        "design",
+        "visual"
+      ]
+    }
+  },
+  {
+    "source_id": "2efd2ebf-2459-5210-b753-8e947ac7120c",
+    "source_name": "Stylar",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/stylar",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.942095Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "design"
+      ]
+    }
+  },
+  {
+    "source_id": "da288100-2f78-5746-bba6-8d3916d09788",
+    "source_name": "Ideogram",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/ideogram",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.942152Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "text"
+      ]
+    }
+  },
+  {
+    "source_id": "da288100-2f78-5746-bba6-8d3916d09788",
+    "source_name": "Ideogram",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/ideogram",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.942156Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image",
+        "visual"
+      ]
+    }
+  },
+  {
+    "source_id": "b0999725-14ae-518f-aa77-fe77f28e5abe",
+    "source_name": "Wondershare VirtuLook",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/wondershare-virtulook",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.942217Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image",
+        "design",
+        "visual"
+      ]
+    }
+  },
+  {
+    "source_id": "0d2aa736-d5d5-587b-a9a0-37df0b8156eb",
+    "source_name": "DiffusionBee",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/diffusionbee",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.942273Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "text"
+      ]
+    }
+  },
+  {
+    "source_id": "0d2aa736-d5d5-587b-a9a0-37df0b8156eb",
+    "source_name": "DiffusionBee",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/diffusionbee",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.942276Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image",
+        "art",
+        "diffusion"
+      ]
+    }
+  },
+  {
+    "source_id": "9c0d483e-56fc-5787-b01a-557d85ecbe73",
+    "source_name": "Adobe Firefly",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/adobe-firefly",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.942355Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "text"
+      ]
+    }
+  },
+  {
+    "source_id": "9c0d483e-56fc-5787-b01a-557d85ecbe73",
+    "source_name": "Adobe Firefly",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/adobe-firefly",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.942359Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image",
+        "design"
+      ]
+    }
+  },
+  {
+    "source_id": "29e01fb0-1d8b-53fd-8033-9e118073b873",
+    "source_name": "Dezgo",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/dezgo",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.942553Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "text"
+      ]
+    }
+  },
+  {
+    "source_id": "29e01fb0-1d8b-53fd-8033-9e118073b873",
+    "source_name": "Dezgo",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/dezgo",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.942557Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image"
+      ]
+    }
+  },
+  {
+    "source_id": "eacb013a-2fa3-59b6-b699-9f26ff4eda28",
+    "source_name": "Stable Horde",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/stable-horde",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.942590Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "text"
+      ]
+    }
+  },
+  {
+    "source_id": "eacb013a-2fa3-59b6-b699-9f26ff4eda28",
+    "source_name": "Stable Horde",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/stable-horde",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.942593Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image"
+      ]
+    }
+  },
+  {
+    "source_id": "b653560e-4b4c-5d36-9d9a-823d452bf3b1",
+    "source_name": "Gen-2 by Runway",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/gen-2-by-runway",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.942730Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "text"
+      ]
+    }
+  },
+  {
+    "source_id": "b653560e-4b4c-5d36-9d9a-823d452bf3b1",
+    "source_name": "Gen-2 by Runway",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/gen-2-by-runway",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.942734Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image"
+      ]
+    }
+  },
+  {
+    "source_id": "c5a019bc-304b-5a8b-804e-48c3e6343c91",
+    "source_name": "OpenClaw",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/openclaw",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.944049Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "chat"
+      ]
+    }
+  },
+  {
+    "source_id": "ef896a3a-70ac-5276-864a-8cc1fdb4806c",
+    "source_name": "Comet",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/comet",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.944410Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "text"
+      ]
+    }
+  },
+  {
+    "source_id": "e90f166c-0b53-502f-b5c3-0dc34bc1bc73",
+    "source_name": "Kintext",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/kintext",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.944725Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "text"
+      ]
+    }
+  },
+  {
+    "source_id": "c7f4ce5c-ee9b-537d-aaa1-bd5f032d8439",
+    "source_name": "ChatGPT",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/chatgpt",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.945460Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "chat"
+      ]
+    }
+  },
+  {
+    "source_id": "ba3ccb12-d4cf-505a-9a4f-5bd9094c6167",
+    "source_name": "ChatAnything.AI - AI Text To Image And Speech Generator",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.toolpilot.ai/collections/images-photos/products/chatanything-ai",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.945863Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "chat",
+        "text"
+      ]
+    }
+  },
+  {
+    "source_id": "ba3ccb12-d4cf-505a-9a4f-5bd9094c6167",
+    "source_name": "ChatAnything.AI - AI Text To Image And Speech Generator",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.toolpilot.ai/collections/images-photos/products/chatanything-ai",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.945867Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image",
+        "photo"
+      ]
+    }
+  },
+  {
+    "source_id": "ba3ccb12-d4cf-505a-9a4f-5bd9094c6167",
+    "source_name": "ChatAnything.AI - AI Text To Image And Speech Generator",
+    "relation": "SOLVES",
+    "target_id": "762e76cb-d5e8-5014-b8df-36247e5c69ec",
+    "target_name": "Speech Recognition",
+    "evidence_url": "https://www.toolpilot.ai/collections/images-photos/products/chatanything-ai",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.945870Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "speech"
+      ]
+    }
+  },
+  {
+    "source_id": "a66f113e-e3d5-5461-8aee-b4b6d6a88e9a",
+    "source_name": "Palabra.ai - Palabra.ai is a real-time AI speech translation platform.",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.toolpilot.ai/collections/text-content/products/palabra-ai",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.953662Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "text"
+      ]
+    }
+  },
+  {
+    "source_id": "a66f113e-e3d5-5461-8aee-b4b6d6a88e9a",
+    "source_name": "Palabra.ai - Palabra.ai is a real-time AI speech translation platform.",
+    "relation": "SOLVES",
+    "target_id": "762e76cb-d5e8-5014-b8df-36247e5c69ec",
+    "target_name": "Speech Recognition",
+    "evidence_url": "https://www.toolpilot.ai/collections/text-content/products/palabra-ai",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.953668Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "speech"
+      ]
+    }
+  },
+  {
+    "source_id": "a66f113e-e3d5-5461-8aee-b4b6d6a88e9a",
+    "source_name": "Palabra.ai - Palabra.ai is a real-time AI speech translation platform.",
+    "relation": "SOLVES",
+    "target_id": "6ed9263a-e207-5344-bc02-684f9dd2cdbf",
+    "target_name": "Translation",
+    "evidence_url": "https://www.toolpilot.ai/collections/text-content/products/palabra-ai",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T02:24:06.953677Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "translation"
+      ]
+    }
+  },
+  {
+    "source_id": "9d05c1b6-0197-5fea-9e32-c36ee5d1afdb",
+    "source_name": "Merlin",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/merlin",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T08:10:50.202689Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "chat",
+        "summar"
+      ]
+    }
+  },
+  {
+    "source_id": "9d05c1b6-0197-5fea-9e32-c36ee5d1afdb",
+    "source_name": "Merlin",
+    "relation": "SOLVES",
+    "target_id": "6ed9263a-e207-5344-bc02-684f9dd2cdbf",
+    "target_name": "Translation",
+    "evidence_url": "https://www.futurepedia.io/tool/merlin",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T08:10:50.202703Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "translate"
+      ]
+    }
+  },
+  {
+    "source_id": "125ea3c1-6066-5ce0-b3bf-b07b476fe2b9",
+    "source_name": "Microsoft Translator",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/microsoft-translator",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T08:10:50.202885Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "text"
+      ]
+    }
+  },
+  {
+    "source_id": "125ea3c1-6066-5ce0-b3bf-b07b476fe2b9",
+    "source_name": "Microsoft Translator",
+    "relation": "SOLVES",
+    "target_id": "762e76cb-d5e8-5014-b8df-36247e5c69ec",
+    "target_name": "Speech Recognition",
+    "evidence_url": "https://www.futurepedia.io/tool/microsoft-translator",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T08:10:50.202892Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "speech"
+      ]
+    }
+  },
+  {
+    "source_id": "125ea3c1-6066-5ce0-b3bf-b07b476fe2b9",
+    "source_name": "Microsoft Translator",
+    "relation": "SOLVES",
+    "target_id": "6ed9263a-e207-5344-bc02-684f9dd2cdbf",
+    "target_name": "Translation",
+    "evidence_url": "https://www.futurepedia.io/tool/microsoft-translator",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T08:10:50.202902Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "translate"
+      ]
+    }
+  },
+  {
+    "source_id": "14bc4cd7-37b0-52e7-9c6b-b9c16a128006",
+    "source_name": "Google Translate",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/google-translate",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T08:10:50.202911Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "text"
+      ]
+    }
+  },
+  {
+    "source_id": "14bc4cd7-37b0-52e7-9c6b-b9c16a128006",
+    "source_name": "Google Translate",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/google-translate",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T08:10:50.202916Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "image"
+      ]
+    }
+  },
+  {
+    "source_id": "14bc4cd7-37b0-52e7-9c6b-b9c16a128006",
+    "source_name": "Google Translate",
+    "relation": "SOLVES",
+    "target_id": "6ed9263a-e207-5344-bc02-684f9dd2cdbf",
+    "target_name": "Translation",
+    "evidence_url": "https://www.futurepedia.io/tool/google-translate",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T08:10:50.202927Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "translation",
+        "translate"
+      ]
+    }
+  },
+  {
+    "source_id": "ce79828e-7c92-54a4-baac-4c17488390a7",
+    "source_name": "Monica",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/monica",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T08:10:50.203136Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "chat",
+        "writing"
+      ]
+    }
+  },
+  {
+    "source_id": "f3f12dcf-b319-55ae-8963-a1f3482486af",
+    "source_name": "Ashr",
+    "relation": "MAINTAINS",
+    "target_id": "3221ce61f95f520eab2777f4ffb9fea5",
+    "target_name": "AshrithaG/replay-gap",
+    "evidence_url": "https://github.com/AshrithaG/replay-gap",
+    "confidence": 0.95,
+    "extracted_at": "2026-08-19T02:24:04.643363Z",
+    "metadata": {
+      "reason": "github.repository_owner"
+    }
+  },
+  {
+    "source_id": "dce80aae-f197-501e-9287-f14d8510ba35",
+    "source_name": "Ara",
+    "relation": "MAINTAINS",
+    "target_id": "be15d5c94ab95594824d3fcc993c2b50",
+    "target_name": "SarahRastegar/FourEx",
+    "evidence_url": "https://github.com/SarahRastegar/FourEx",
+    "confidence": 0.95,
+    "extracted_at": "2026-08-19T02:24:04.667191Z",
+    "metadata": {
+      "reason": "github.repository_owner"
+    }
+  },
+  {
+    "source_id": "2a897881-0d13-5899-8706-7e83b2deb41b",
+    "source_name": "Hub",
+    "relation": "MAINTAINS",
+    "target_id": "89768bea753b5dc0a82eae85ef0cd64a",
+    "target_name": "HUBERILT/HMCL_ICML",
+    "evidence_url": "https://github.com/HUBERILT/HMCL_ICML",
+    "confidence": 0.95,
+    "extracted_at": "2026-08-19T02:24:04.706361Z",
+    "metadata": {
+      "reason": "github.repository_owner"
+    }
+  },
+  {
+    "source_id": "e5b13465-7b9b-5c34-a726-fc1afb3e29ed",
+    "source_name": "Way",
+    "relation": "MAINTAINS",
+    "target_id": "2413ecc9c38854f196f0d521119b3867",
+    "target_name": "pathwaycom/arc-task-gen",
+    "evidence_url": "https://github.com/pathwaycom/arc-task-gen",
+    "confidence": 0.95,
+    "extracted_at": "2026-08-19T02:24:04.722229Z",
+    "metadata": {
+      "reason": "github.repository_owner"
+    }
+  },
+  {
+    "source_id": "dce80aae-f197-501e-9287-f14d8510ba35",
+    "source_name": "Ara",
+    "relation": "MAINTAINS",
+    "target_id": "c2773e30ea6e5d03902f8ae1002a6c69",
+    "target_name": "AragonerUA/folkmotif",
+    "evidence_url": "https://github.com/AragonerUA/folkmotif",
+    "confidence": 0.95,
+    "extracted_at": "2026-08-19T02:24:04.884030Z",
+    "metadata": {
+      "reason": "github.repository_owner"
+    }
+  },
+  {
+    "source_id": "b9d30fca-230a-56ba-8740-5cf828314804",
+    "source_name": "NVIDIA Jetson AGX Orin",
+    "relation": "RUNS",
+    "target_id": "224b4627-d14c-5e12-a2c6-f57e5794b139",
+    "target_name": "NVIDIA Isaac GR00T N1",
+    "evidence_url": "https://www.nvidia.com/en-in/autonomous-machines/embedded-systems/jetson-orin/",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T08:10:50.203387Z",
+    "metadata": {
+      "reason": "device.model reference"
+    }
+  },
+  {
+    "source_id": "5f8851c1-a2cf-5e19-be89-5df1da10a3b7",
+    "source_name": "NVIDIA",
+    "relation": "DEVELOPS",
+    "target_id": "224b4627-d14c-5e12-a2c6-f57e5794b139",
+    "target_name": "NVIDIA Isaac GR00T N1",
+    "evidence_url": "https://research.nvidia.com/publication/2025-03_nvidia-isaac-gr00t-n1-open-foundation-model-humanoid-robots",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-19T02:24:03.254361Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "e4d4d1c3-4b1c-5a65-9934-99d7e8d0edd1",
+    "source_name": "Boston Dynamics",
+    "relation": "DEVELOPS",
+    "target_id": "b74a4ac4-e28c-59a6-ab03-70cfd635ceaf",
+    "target_name": "Atlas",
+    "evidence_url": "https://bostondynamics.com/products/atlas/",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T02:24:06.965353",
+    "metadata": {
+      "reason": "robot.company explicitly present in source-backed robot metadata"
+    }
+  },
+  {
+    "source_id": "8bcd7b9d-11f1-58ea-bcac-d2552710e814",
+    "source_name": "Figure",
+    "relation": "DEVELOPS",
+    "target_id": "a8725b61-5db8-5543-ae2f-e3b52d99e9dc",
+    "target_name": "Figure 03",
+    "evidence_url": "https://www.figure.ai/company",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T02:24:06.965360",
+    "metadata": {
+      "reason": "robot.company explicitly present in source-backed robot metadata"
+    }
+  },
+  {
+    "source_id": "332c9707-ebd2-5402-b0ad-d6f0dc941933",
+    "source_name": "Unitree Robotics",
+    "relation": "DEVELOPS",
+    "target_id": "42f9a86b-ecfb-5c3d-9fc7-999925f1f343",
+    "target_name": "Unitree G1",
+    "evidence_url": "https://www.unitree.com/mobile/g1/",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T02:24:06.965364",
+    "metadata": {
+      "reason": "robot.company explicitly present in source-backed robot metadata"
+    }
+  },
+  {
+    "source_id": "6ea680fc-6950-5f3e-98c2-2afa62392bbc",
+    "source_name": "Agility Robotics",
+    "relation": "DEVELOPS",
+    "target_id": "52d2f893-62e9-5e52-8b78-d147cb7ef87d",
+    "target_name": "Digit",
+    "evidence_url": "https://www.agilityrobotics.com/solutions",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T02:24:06.965368",
+    "metadata": {
+      "reason": "robot.company explicitly present in source-backed robot metadata"
+    }
+  },
+  {
+    "source_id": "a56d46c7-a175-5429-8c1a-0205b3d6463c",
+    "source_name": "OpenAI",
+    "relation": "DEVELOPS",
+    "target_id": "c7f4ce5c-ee9b-537d-aaa1-bd5f032d8439",
+    "target_name": "ChatGPT",
+    "evidence_url": "https://www.futurepedia.io/tool/chatgpt",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T02:23:58.216476Z",
+    "metadata": {
+      "reason": "product.startup_name"
+    }
+  },
+  {
+    "source_id": "6e6798ea-4bbb-50a4-b90b-728222bfab7f",
+    "source_name": "And",
+    "relation": "DEVELOPS",
+    "target_id": "2367bfba-b43f-523e-801b-3a059e5a054c",
+    "target_name": "Andrew93110/sn99-miner",
+    "evidence_url": "https://huggingface.co/Andrew93110/sn99-miner",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-19T02:24:01.215590Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "6e6798ea-4bbb-50a4-b90b-728222bfab7f",
+    "source_name": "And",
+    "relation": "DEVELOPS",
+    "target_id": "992a7549-e1d3-5a6b-b47b-a8de8097b73c",
+    "target_name": "standjones/albedo-arc-applet3-t6",
+    "evidence_url": "https://huggingface.co/standjones/albedo-arc-applet3-t6",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-19T02:24:01.337408Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "3af40bcc-9e82-5ddd-9aa5-268894308d17",
+    "source_name": "Cas",
+    "relation": "DEVELOPS",
+    "target_id": "5699a87d-d50a-5031-9b4a-91d4ff95f1a6",
+    "target_name": "cascade-expert/cascade-gen000000",
+    "evidence_url": "https://huggingface.co/cascade-expert/cascade-gen000000",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-19T02:24:01.650657Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "6e6798ea-4bbb-50a4-b90b-728222bfab7f",
+    "source_name": "And",
+    "relation": "DEVELOPS",
+    "target_id": "dc14826c-d261-5b48-944c-f628e0ef550e",
+    "target_name": "standjones/albedo-arc-windsword8989-9999",
+    "evidence_url": "https://huggingface.co/standjones/albedo-arc-windsword8989-9999",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-19T02:24:01.699615Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "6e6798ea-4bbb-50a4-b90b-728222bfab7f",
+    "source_name": "And",
+    "relation": "DEVELOPS",
+    "target_id": "16449e44-22a9-5c76-ac29-6794e1c83b9e",
+    "target_name": "highlands/new01",
+    "evidence_url": "https://huggingface.co/highlands/new01",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-19T02:24:02.039025Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "6e6798ea-4bbb-50a4-b90b-728222bfab7f",
+    "source_name": "And",
+    "relation": "DEVELOPS",
+    "target_id": "15bbe446-d604-5403-b154-903eb9143ba8",
+    "target_name": "quandao10/t2i_pretrain",
+    "evidence_url": "https://huggingface.co/quandao10/t2i_pretrain",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-19T02:24:02.093218Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "3af40bcc-9e82-5ddd-9aa5-268894308d17",
+    "source_name": "Cas",
+    "relation": "DEVELOPS",
+    "target_id": "30df71b7-2e7c-55b0-9363-939592d8f457",
+    "target_name": "castdies/cn-7",
+    "evidence_url": "https://huggingface.co/castdies/cn-7",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-19T02:24:02.191848Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "3af40bcc-9e82-5ddd-9aa5-268894308d17",
+    "source_name": "Cas",
+    "relation": "DEVELOPS",
+    "target_id": "833fdc4f-31ae-55fb-a624-d650cbafae3b",
+    "target_name": "castdies/cn-5",
+    "evidence_url": "https://huggingface.co/castdies/cn-5",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-19T02:24:02.225640Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "3af40bcc-9e82-5ddd-9aa5-268894308d17",
+    "source_name": "Cas",
+    "relation": "DEVELOPS",
+    "target_id": "c5d1e5eb-696e-5075-be0f-461558b83ca5",
+    "target_name": "castdies/cn-12",
+    "evidence_url": "https://huggingface.co/castdies/cn-12",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-19T02:24:02.269611Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "3af40bcc-9e82-5ddd-9aa5-268894308d17",
+    "source_name": "Cas",
+    "relation": "DEVELOPS",
+    "target_id": "35d4608a-3817-5b2a-875d-3d868566ce4d",
+    "target_name": "castdies/cn-11",
+    "evidence_url": "https://huggingface.co/castdies/cn-11",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-19T02:24:02.269732Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "3af40bcc-9e82-5ddd-9aa5-268894308d17",
+    "source_name": "Cas",
+    "relation": "DEVELOPS",
+    "target_id": "ad2675a4-6f16-5968-8a57-8e0a17a6d795",
+    "target_name": "castdies/cn-9",
+    "evidence_url": "https://huggingface.co/castdies/cn-9",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-19T02:24:02.269869Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "3af40bcc-9e82-5ddd-9aa5-268894308d17",
+    "source_name": "Cas",
+    "relation": "DEVELOPS",
+    "target_id": "5aac84e2-e2ef-5a03-9a88-83896bece909",
+    "target_name": "castdies/cn-10",
+    "evidence_url": "https://huggingface.co/castdies/cn-10",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-19T02:24:02.270001Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "3af40bcc-9e82-5ddd-9aa5-268894308d17",
+    "source_name": "Cas",
+    "relation": "DEVELOPS",
+    "target_id": "7a2c197f-8c9f-5568-a9a2-fd128f3a3660",
+    "target_name": "castdies/cn-2",
+    "evidence_url": "https://huggingface.co/castdies/cn-2",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-19T02:24:02.270125Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "3af40bcc-9e82-5ddd-9aa5-268894308d17",
+    "source_name": "Cas",
+    "relation": "DEVELOPS",
+    "target_id": "525602cb-2da5-59cb-8a99-766925762ad4",
+    "target_name": "castdies/cn-3",
+    "evidence_url": "https://huggingface.co/castdies/cn-3",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-19T02:24:02.270257Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "3af40bcc-9e82-5ddd-9aa5-268894308d17",
+    "source_name": "Cas",
+    "relation": "DEVELOPS",
+    "target_id": "c0339920-ec12-5d37-8024-f8bd1ddcbab4",
+    "target_name": "castdies/cn-4",
+    "evidence_url": "https://huggingface.co/castdies/cn-4",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-19T02:24:02.270382Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "3af40bcc-9e82-5ddd-9aa5-268894308d17",
+    "source_name": "Cas",
+    "relation": "DEVELOPS",
+    "target_id": "33489e29-bd13-58b4-95e0-4fe919629bc4",
+    "target_name": "castdies/cn-6",
+    "evidence_url": "https://huggingface.co/castdies/cn-6",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-19T02:24:02.270508Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "6e6798ea-4bbb-50a4-b90b-728222bfab7f",
+    "source_name": "And",
+    "relation": "DEVELOPS",
+    "target_id": "73be9586-ea29-5c90-bf1a-cb22de99c1c0",
+    "target_name": "Impliedhomeland/cosine-1B-60B-datamatched-resume",
+    "evidence_url": "https://huggingface.co/Impliedhomeland/cosine-1B-60B-datamatched-resume",
+    "confidence": 0.96,
+    "extracted_at": "2026-08-19T02:24:02.337017Z",
+    "metadata": {
+      "reason": "model.provider"
+    }
+  },
+  {
+    "source_id": "6e6798ea-4bbb-50a4-b90b-728222bfab7f",
+    "source_name": "And",
+    "relation": "MAINTAINS",
+    "target_id": "b553612b-259b-5aab-9c84-1ea36feb55e2",
+    "target_name": "andrewkirillov/AForge.NET",
+    "evidence_url": "https://github.com/andrewkirillov/AForge.NET",
+    "confidence": 0.95,
+    "extracted_at": "2026-08-19T02:24:03.477818Z",
+    "metadata": {
+      "reason": "github.repository_owner"
+    }
+  },
+  {
+    "source_id": "3af40bcc-9e82-5ddd-9aa5-268894308d17",
+    "source_name": "Cas",
+    "relation": "MAINTAINS",
+    "target_id": "38503cb2-c712-5ccd-95e0-7f3c21f31bba",
+    "target_name": "casdoor/casdoor",
+    "evidence_url": "https://github.com/casdoor/casdoor",
+    "confidence": 0.95,
+    "extracted_at": "2026-08-19T02:24:03.817817Z",
+    "metadata": {
+      "reason": "github.repository_owner"
+    }
+  },
+  {
+    "source_id": "6e6798ea-4bbb-50a4-b90b-728222bfab7f",
+    "source_name": "And",
+    "relation": "MAINTAINS",
+    "target_id": "d55e6b3439385ff08ce063330f5e5e5f",
+    "target_name": "kandinskylab/kvae",
+    "evidence_url": "https://github.com/kandinskylab/kvae",
+    "confidence": 0.95,
+    "extracted_at": "2026-08-19T02:24:04.454002Z",
+    "metadata": {
+      "reason": "github.repository_owner"
+    }
+  },
+  {
+    "source_id": "e5b13465-7b9b-5c34-a726-fc1afb3e29ed",
+    "source_name": "Way",
+    "relation": "MAINTAINS",
+    "target_id": "8ea4edce6b5a5c51944d3b0486170596",
+    "target_name": "nowayfootball/junk-possession",
+    "evidence_url": "https://github.com/nowayfootball/junk-possession",
+    "confidence": 0.95,
+    "extracted_at": "2026-08-19T02:24:04.719276Z",
+    "metadata": {
+      "reason": "github.repository_owner"
+    }
+  },
+  {
+    "source_id": "3af40bcc-9e82-5ddd-9aa5-268894308d17",
+    "source_name": "Cas",
+    "relation": "MAINTAINS",
+    "target_id": "173770ad18d9569c8a2ece61838223c9",
+    "target_name": "CassiniHuy/gecko-infer",
+    "evidence_url": "https://github.com/CassiniHuy/gecko-infer",
+    "confidence": 0.95,
+    "extracted_at": "2026-08-19T02:24:04.870457Z",
+    "metadata": {
+      "reason": "github.repository_owner"
+    }
+  },
+  {
+    "source_id": "6e6798ea-4bbb-50a4-b90b-728222bfab7f",
+    "source_name": "And",
+    "relation": "MAINTAINS",
+    "target_id": "33d22764b563545d8db3605f3fb291e2",
+    "target_name": "FenosoaRandrianjatovo/CosMAP-dr",
+    "evidence_url": "https://github.com/FenosoaRandrianjatovo/CosMAP-dr",
+    "confidence": 0.95,
+    "extracted_at": "2026-08-19T02:24:04.925038Z",
+    "metadata": {
+      "reason": "github.repository_owner"
+    }
+  },
+  {
+    "source_id": "8ecd1b25-5339-5e78-9d1c-cdd789e4fae9",
+    "source_name": "Doe",
+    "relation": "MAINTAINS",
+    "target_id": "b5e337f27779550f83e11a6242fc238e",
+    "target_name": "sdoerrich97/true-colon",
+    "evidence_url": "https://github.com/sdoerrich97/true-colon",
+    "confidence": 0.95,
+    "extracted_at": "2026-08-19T02:24:05.110359Z",
+    "metadata": {
+      "reason": "github.repository_owner"
+    }
+  },
+  {
+    "source_id": "2450c4ad-c750-5714-881c-c441952f297b",
+    "source_name": "Lexi",
+    "relation": "MAINTAINS",
+    "target_id": "b6892878538254ac85f07c26f9f7f7b8",
+    "target_name": "perplexityai/wandr",
+    "evidence_url": "https://github.com/perplexityai/wandr",
+    "confidence": 0.95,
+    "extracted_at": "2026-08-19T02:24:05.123352Z",
+    "metadata": {
+      "reason": "github.repository_owner"
+    }
+  },
+  {
+    "source_id": "c853998f-4d58-58df-8560-7a978e1e5a1b",
+    "source_name": "Nixo",
+    "relation": "MAINTAINS",
+    "target_id": "3601e6eb916151bb95027619321ba56d",
+    "target_name": "Nixon-H/not-all-attention-is-equal",
+    "evidence_url": "https://github.com/Nixon-H/not-all-attention-is-equal",
+    "confidence": 0.95,
+    "extracted_at": "2026-08-19T02:24:05.194458Z",
+    "metadata": {
+      "reason": "github.repository_owner"
+    }
+  },
+  {
+    "source_id": "6e6798ea-4bbb-50a4-b90b-728222bfab7f",
+    "source_name": "And",
+    "relation": "MAINTAINS",
+    "target_id": "7aa2534d51785148bb921b9daf64239e",
+    "target_name": "DrStranded/Co-RL",
+    "evidence_url": "https://github.com/DrStranded/Co-RL",
+    "confidence": 0.95,
+    "extracted_at": "2026-08-19T02:24:05.309766Z",
+    "metadata": {
+      "reason": "github.repository_owner"
+    }
+  },
+  {
+    "source_id": "dce80aae-f197-501e-9287-f14d8510ba35",
+    "source_name": "Ara",
+    "relation": "MAINTAINS",
+    "target_id": "d64b4173c9aa5db0994fa72a4be14e68",
+    "target_name": "SarveshVGharat/structural-gap-hypothesis-agent",
+    "evidence_url": "https://github.com/SarveshVGharat/structural-gap-hypothesis-agent",
+    "confidence": 0.95,
+    "extracted_at": "2026-08-19T02:24:05.334975Z",
+    "metadata": {
+      "reason": "github.repository_owner"
+    }
+  },
+  {
+    "source_id": "00a4af99-bc55-5074-8e56-26ea4b1e3310",
+    "source_name": "Co-RL: Unsupervised Reasoning Emerges from Diverse Cohort in Multi-agent RL",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "7aa2534d51785148bb921b9daf64239e",
+    "target_name": "DrStranded/Co-RL",
+    "evidence_url": "https://arxiv.org/abs/2608.17253v1",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T08:10:50.203246Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "88d43296-dcef-5b29-a044-cd9da0ee8415",
+    "source_name": "SGHA: Evidence-Grounded Research Problem Discovery with Local Language Models",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "d64b4173c9aa5db0994fa72a4be14e68",
+    "target_name": "SarveshVGharat/structural-gap-hypothesis-agent",
+    "evidence_url": "https://arxiv.org/abs/2608.17501v1",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T08:10:50.203237Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "fd89dda7-1c86-5c8f-876b-7c1d73c22cec",
+    "source_name": "n8n",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/n8n",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T08:10:50.202582Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "visual"
+      ]
+    }
+  },
+  {
+    "source_id": "378e1c54-de4f-5c69-ab3b-bc0c530bf240",
+    "source_name": "Microsoft Bing",
+    "relation": "SOLVES",
+    "target_id": "f8d0f7c2-2e35-51a2-9ecd-56edffa371f8",
+    "target_name": "Question Answering",
+    "evidence_url": "https://www.futurepedia.io/tool/microsoft-bing",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T08:10:50.202635Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "search engine"
+      ]
+    }
+  },
+  {
+    "source_id": "36c8d1d9-4c0b-56d2-8db4-9b6c2179affc",
+    "source_name": "Komo Search",
+    "relation": "SOLVES",
+    "target_id": "f8d0f7c2-2e35-51a2-9ecd-56edffa371f8",
+    "target_name": "Question Answering",
+    "evidence_url": "https://www.futurepedia.io/tool/komo-search",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T08:10:50.202657Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "search engine"
+      ]
+    }
+  },
+  {
+    "source_id": "6a59018d-cced-5863-a77e-17988d898fdc",
+    "source_name": "QuickSearchPlus",
+    "relation": "SOLVES",
+    "target_id": "f8d0f7c2-2e35-51a2-9ecd-56edffa371f8",
+    "target_name": "Question Answering",
+    "evidence_url": "https://www.futurepedia.io/tool/quicksearchplus",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T08:10:50.202677Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "search engine"
+      ]
+    }
+  },
+  {
+    "source_id": "90d8448e-a4e6-573c-a158-39898f889bca",
+    "source_name": "Simplified",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/simplified",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T08:10:50.202828Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "design"
+      ]
+    }
+  },
+  {
+    "source_id": "1b1cbbc3-d724-5752-8b17-8c49dab368b2",
+    "source_name": "DeepL Translator",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/deepl-translator",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T08:10:50.202935Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "text"
+      ]
+    }
+  },
+  {
+    "source_id": "f43ee7db-4a8d-5cec-9e79-a3537fa3af6b",
+    "source_name": "Scite",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/scite",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T08:10:50.203026Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "art"
+      ]
+    }
+  },
+  {
+    "source_id": "074bda6c-548b-5417-8561-b89a2878cf1c",
+    "source_name": "SoBrief",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/sobrief",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T08:10:50.203079Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "summar"
+      ]
+    }
+  },
+  {
+    "source_id": "f3527ba2-2aec-5306-927d-b60bb065caba",
+    "source_name": "You",
+    "relation": "SOLVES",
+    "target_id": "f8d0f7c2-2e35-51a2-9ecd-56edffa371f8",
+    "target_name": "Question Answering",
+    "evidence_url": "https://www.futurepedia.io/tool/you",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T08:10:50.203125Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "search engine"
+      ]
+    }
+  },
+  {
+    "source_id": "b49d5e35-4e34-51a9-85c9-4d832a29516a",
+    "source_name": "On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "a426f586ada4584686564a3b3e27c511",
+    "target_name": "SalesforceAIResearch/self-improve-fragility",
+    "evidence_url": "https://arxiv.org/abs/2608.18066v1",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T08:10:50.203223Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "1a47f60b-db53-5633-920c-fe3841965117",
+    "source_name": "TokEval: A Tokenizer Evaluation Suite",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "fc1be9ef1cb75c188ea9d6fb167499aa",
+    "target_name": "cimeister/tokenizer-intrinsic-evals",
+    "evidence_url": "https://arxiv.org/abs/2608.18062v1",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T08:10:50.203227Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "9a71568a-0641-5caa-9fca-4e39a388a9c7",
+    "source_name": "Primitive Representation Learning for Unsupervised Dynamic Contrast Enhanced MRI Reconstruction",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "1064c1be6a005a5294e3ac4e60b9132f",
+    "target_name": "compai-lab",
+    "evidence_url": "https://arxiv.org/abs/2608.18055v1",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T08:10:50.203229Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "93b78d15-0d86-57db-8509-c6e511d97f69",
+    "source_name": "An Omitted Mode Is a Rare Rule: The Sampling-Verification Danger Law in Continuous Code World Models",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "4a42a653cb825c4d8284169a11328ddf",
+    "target_name": "JaviMaligno/code-world-models",
+    "evidence_url": "https://arxiv.org/abs/2608.17956v1",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T08:10:50.203231Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "2789d036-a7aa-5302-a3a3-66d31e19a68c",
+    "source_name": "rl-triton: High-Performance Triton GPU Kernels for Reinforcement Learning Credit Assignment",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "a10aa7eaf987512d98dbaed8e8d2e631",
+    "target_name": "simonsays1980/rl-triton",
+    "evidence_url": "https://arxiv.org/abs/2608.17641v1",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T08:10:50.203233Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "92055dfe-6941-5edd-b449-93c4f5cd2cbb",
+    "source_name": "No Gaussian Required: Contrastive Inverse Dynamics for JEPA World Models",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "d1857f06a2be58eca6fd8e264dc4af2a",
+    "target_name": "jackboyla/action-contrastive-jepa",
+    "evidence_url": "https://arxiv.org/abs/2608.17542v1",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T08:10:50.203235Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "a4e94f92-0789-5448-ae22-1ec882a4e918",
+    "source_name": "Integrating Novelty and Surprise for Experience Prioritization and Exploration in Image-Based Reinforcement Learning",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "da763d37dc385ecab29198475ccabfb4",
+    "target_name": "UoA-CARES/NSPER",
+    "evidence_url": "https://arxiv.org/abs/2608.17373v1",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T08:10:50.203239Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "8621257a-82ac-55d7-bcdb-510084a9e5f9",
+    "source_name": "Repetition as Reinforcement: Enhancing Sample Efficiency via Instant Episode Repetition in Reinforcement Learning",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "6461a57fcfd75a5e9294a50c32617b19",
+    "target_name": "UoA-CARES/instant-episode-repetition",
+    "evidence_url": "https://arxiv.org/abs/2608.17347v1",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T08:10:50.203241Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "72d38e34-e02a-58f7-91fe-a6a46faeaeef",
+    "source_name": "Beyond MSE: Rethinking the Evaluation Metric and Benchmarking for Irregular Time Series Forecasting",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "3355299985935237b2872506167942de",
+    "target_name": "hnu-vis/ITS-Bench",
+    "evidence_url": "https://arxiv.org/abs/2608.17293v1",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T08:10:50.203243Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "edb5be56-2f89-58d6-8c10-693b7a31f607",
+    "source_name": "Rethinking Irregular Time Series Forecasting from the Perspective of Basis Functions",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "9cfc9249c33b58199120bd663509d902",
+    "target_name": "hnu-vis/DNBNet",
+    "evidence_url": "https://arxiv.org/abs/2608.17284v1",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T08:10:50.203245Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "0ec63cbe-d6eb-5a97-a89b-b2e11b6f5957",
+    "source_name": "Lymphocyte Mimicry Correction via Region-Level Tissue Reasoning and Unbalanced Optimal Transport",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "dc066a8917d45eeb9a45e162660c7a5e",
+    "target_name": "xiangli980/Lymphocyte_Mimicry_Correction_via_Loki_OT",
+    "evidence_url": "https://arxiv.org/abs/2608.17151v1",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T08:10:50.203248Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "088282bc-1f04-5a70-8509-b1f9a731c1fc",
+    "source_name": "Backward through Time, Algebraically",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "191917103881593aafc2bddaf9080cff",
+    "target_name": "konstantinosKokos/telos",
+    "evidence_url": "https://arxiv.org/abs/2608.17087v1",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T08:10:50.203250Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "00fbc612-08fa-57d3-9012-7fcc8b4a561b",
+    "source_name": "Certified but Private: Scalable Zero-Knowledge Proofs for Neural Network Guarantees",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "ad68c1e536385bfd91fba33aefd80ca6",
+    "target_name": "youweizhong/PANDA",
+    "evidence_url": "https://arxiv.org/abs/2608.17070v1",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T08:10:50.203252Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "d06eef5e-cc90-518c-a931-04a76871d568",
+    "source_name": "Dynamic Entanglement-Weighted Pruning for Quantum Federated Unlearning in Supply-Chain Risk Prediction",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "829d78986b9a5a6ea02c056ef49d38d0",
+    "target_name": "Sumitchongder/dew-p-qfl-unlearning",
+    "evidence_url": "https://arxiv.org/abs/2608.17069v1",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T08:10:50.203254Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "59d32060-3704-523a-a13e-aeb33c61f274",
+    "source_name": "Non-Crossing Deep Quantile Regression for Distributional Survival Prediction",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "60f12d2fa18e5040a463792b480a3378",
+    "target_name": "BIG-S2/deepcnq",
+    "evidence_url": "https://arxiv.org/abs/2608.16864v1",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T08:10:50.203256Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "758fcf73-9d8b-5908-9cf4-2e10bbd5b1a5",
+    "source_name": "Unsupervised Learning of Cell Instances with Generative Routing Pyramids",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "77f5b5b33e3150bfb535a36d98ccdf53",
+    "target_name": "weigertlab/routing-pyramids",
+    "evidence_url": "https://arxiv.org/abs/2608.16810v1",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T08:10:50.203258Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "669b06bb-8308-580d-bbf6-0392ab18a208",
+    "source_name": "Hide&Seek: Learning to Explain in an End-to-End Differentiable Network",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "47775cb0b3595dd2909d4fb432c1c5cf",
+    "target_name": "talellinson/hide-and-seek-icml2026",
+    "evidence_url": "https://arxiv.org/abs/2608.16689v1",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T08:10:50.203260Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "516119d2-84d6-580e-b217-4a56e3e61bef",
+    "source_name": "Toward Better Assessment of LLMs' Performance in Clinical Error Detection",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "78892dce4c085ef3a21f4482514037bb",
+    "target_name": "healthylaife/paired-clinical-eval",
+    "evidence_url": "https://arxiv.org/abs/2608.16643v1",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T08:10:50.203261Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "a92128d1-fb20-5669-a8cd-67d932787209",
+    "source_name": "PertMind: Eliciting Emergent Biological Reasoning in LLM via Reinforcement Learning on Cellular Perturbation Data",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "4c0e80700c0a54cfa18a48e0a9f82fed",
+    "target_name": "shapsider/PertMind",
+    "evidence_url": "https://arxiv.org/abs/2608.16419v1",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T08:10:50.203263Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "7daedce1-a2b4-58d9-b8bb-82ee69fce65b",
+    "source_name": "Self-Routed Tensor Adapters for Parameter-Efficient Universal Visual Adaptation",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "d9f1a5a74b4b586191e41dbe05f77de3",
+    "target_name": "surajyadav-research/SRTA",
+    "evidence_url": "https://arxiv.org/abs/2608.16384v1",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T08:10:50.203265Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "d9c2f6bf-2d78-578d-9d3f-14407784c432",
+    "source_name": "A Privacy Study of Sparse Collaborative Inference",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "0f0e90a3452f5cc286c478e19513e06b",
+    "target_name": "an7123/Privacy-Study-Sparse-CI",
+    "evidence_url": "https://arxiv.org/abs/2608.16236v1",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T08:10:50.203267Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "26c020ed-fea2-5e11-a50a-f2bf999a8417",
+    "source_name": "RetroMPA: A Molecular Property-Aware Auxiliary Framework for Enhancing Retrosynthesis Prediction",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "2fd34cd8efd05b31b5eab6a3e9a9d58f",
+    "target_name": "MengzhouLu/RetroMPA",
+    "evidence_url": "https://arxiv.org/abs/2608.16111v1",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T08:10:50.203269Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "2a992e15-17ce-5803-a36f-436fe04967c9",
+    "source_name": "Breaking the Compression Barrier: Cross-Architecture Compression Boundary Learning via Reverse Regrowth",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "748820cc6c415617a7b541ad2e018566",
+    "target_name": "EnumaCaliber/BRIDGE",
+    "evidence_url": "https://arxiv.org/abs/2608.16010v1",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T08:10:50.203271Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "03377de9-3159-5298-83a2-e1989c25ca31",
+    "source_name": "A Scalable Pipeline for LLM-Teacher Distillation Labeling: Work-Stealing Job Scheduling and Memory-Aware GPU Concurrency",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "c20b510c103a51d4804e1c6c3939cbc2",
+    "target_name": "rsdpyenugula/hybrid-labeling-training",
+    "evidence_url": "https://arxiv.org/abs/2608.15975v1",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T08:10:50.203273Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "f946baa1-7654-56dd-84f3-1b77525885ed",
+    "source_name": "Temporal Graph Prototype-conditioned Conformal Prediction for Fraud Detection",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "e12b99f5a1c05aec90d3bc07685dfd86",
+    "target_name": "Picard1701ent/ProtoCP.git",
+    "evidence_url": "https://arxiv.org/abs/2608.15768v1",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T08:10:50.203275Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "da8a95ef-b4d4-5407-a5f1-5299d79ca1cf",
+    "source_name": "TinyCast: Probabilistic Zero-Shot Forecasting with Computed Periodicity",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "03fcd90034845a7ca7f15f2f00e34942",
+    "target_name": "raws-labs/tinycast",
+    "evidence_url": "https://arxiv.org/abs/2608.15767v1",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T08:10:50.203277Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "22cde741-e70d-5e7c-bea5-3a4e3d3ecbf3",
+    "source_name": "Learning Auditable Classifier Models: Source-Disjoint Tree Ensembles",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "46b1d1aae780550d9261c00c3513f660",
+    "target_name": "srikumar2050/hugiml-core",
+    "evidence_url": "https://arxiv.org/abs/2608.15725v1",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T08:10:50.203278Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "764dbf47-19fc-5c39-8490-343a219c2937",
+    "source_name": "Large Models for Small Devices: Recent Advances and Empirical Analysis of Edge AI Deployment",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "af8c654b82365b30a2ff461a3f9498ac",
+    "target_name": "Arnavvvkumar/deployment",
+    "evidence_url": "https://arxiv.org/abs/2608.15693v1",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T08:10:50.203280Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  }
+]

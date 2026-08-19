@@ -1,0 +1,70 @@
+{
+  "unique_entities": 265,
+  "json_records_excluding_recent_view": 265,
+  "recent_view_records": 10,
+  "relationships": 169,
+  "relationship_types": {
+    "DEVELOPS": 41,
+    "MAINTAINS": 21,
+    "INTEGRATES_WITH": 6,
+    "SOLVES": 98,
+    "RUNS": 1,
+    "HAS_REPOSITORY": 2
+  },
+  "categories": {
+    "companies": 30,
+    "tools": 30,
+    "tasks": 8,
+    "news": 20,
+    "videos": 15,
+    "robots": 4,
+    "devices": 2,
+    "models": 35,
+    "repositories": 30,
+    "mcp": 20,
+    "collections": 1,
+    "personal": 15,
+    "creative": 20,
+    "research_papers": 30,
+    "datasets": 5
+  },
+  "schema_errors": [],
+  "source_coverage": {
+    "GitHub": {
+      "public_records": 51,
+      "adapter": "src/sources/github_source.py"
+    },
+    "Hugging Face": {
+      "public_records": 39,
+      "adapter": "src/sources/huggingface_source.py"
+    },
+    "YouTube": {
+      "public_records": 15,
+      "adapter": "src/sources/youtube_source.py"
+    },
+    "News/RSS": {
+      "public_records": 20,
+      "adapter": "src/scrapers/news_scraper.py"
+    },
+    "Official product/company sites": {
+      "public_records": 0,
+      "adapter": "src/sources/official_site.py",
+      "note": "Enrichment adapter; it does not create duplicate entities."
+    },
+    "AI directories": {
+      "public_records": 95,
+      "adapter": "src/scrapers/ai_tool_scraper.py + src/scrapers/yc_scraper.py"
+    },
+    "ArXiv": {
+      "public_records": 30,
+      "adapter": "src/scrapers/paper_scraper.py"
+    }
+  },
+  "required_relationships": {
+    "DEVELOPS": 41,
+    "SOLVES": 98,
+    "INTEGRATES_WITH": 6,
+    "RUNS": 1
+  },
+  "valid": true
+}

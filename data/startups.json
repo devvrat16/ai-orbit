@@ -630,5 +630,1266 @@
     "industry_sector": "Hardware, AI",
     "headquarters": "San Francisco",
     "employee_count": 2
+  },
+  {
+    "id": "133199ac-c5ff-568d-9a85-574102e22f20",
+    "entity_type": "COMPANY",
+    "name": "Derya",
+    "description": "Agentic Supply Chain Automations",
+    "url": "http://usederya.com",
+    "categories": [
+      "AIOps",
+      "Logistics",
+      "Supply Chain",
+      "Procurement",
+      "Automation"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/derya"
+    },
+    "collected_at": "2026-08-19T09:05:22.634291Z",
+    "founding_year": null,
+    "industry_sector": "AIOps, Logistics, Supply Chain, Procurement, Automation",
+    "headquarters": "San Francisco",
+    "employee_count": 2
+  },
+  {
+    "id": "413cfaa3-561d-5d91-9c5f-83a5f48230fe",
+    "entity_type": "COMPANY",
+    "name": "Touchy",
+    "description": "AI voice assistant that understands the world around you",
+    "url": "https://touchyapp.com",
+    "categories": [
+      "Artificial Intelligence",
+      "Productivity",
+      "AI Assistant"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/touchy"
+    },
+    "collected_at": "2026-08-19T09:05:22.634284Z",
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence, Productivity, AI Assistant",
+    "headquarters": "San Francisco",
+    "employee_count": 3
+  },
+  {
+    "id": "4a1959f9-1480-5f65-860d-137983893877",
+    "entity_type": "COMPANY",
+    "name": "Mireye",
+    "description": "Infrastructure for Physical World AI Agents",
+    "url": "https://www.mireye.com/",
+    "categories": [
+      "Geographic Information System",
+      "AI",
+      "Location-based"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/mireye"
+    },
+    "collected_at": "2026-08-19T09:05:22.634278Z",
+    "founding_year": null,
+    "industry_sector": "Geographic Information System, AI, Location-based",
+    "headquarters": "San Francisco",
+    "employee_count": 2
+  },
+  {
+    "id": "a36545f3-9ac1-5492-9b03-955a58126376",
+    "entity_type": "COMPANY",
+    "name": "Shiraz AI",
+    "description": "Robots that learn on the job",
+    "url": "https://shiraz.ai",
+    "categories": [
+      "Generative AI",
+      "Robotics",
+      "Manufacturing"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/shiraz-ai"
+    },
+    "collected_at": "2026-08-19T09:05:22.634271Z",
+    "founding_year": null,
+    "industry_sector": "Generative AI, Robotics, Manufacturing",
+    "headquarters": "San Francisco",
+    "employee_count": 2
+  },
+  {
+    "id": "cb393630-4e6b-5e7b-bc50-a346b0808f04",
+    "entity_type": "COMPANY",
+    "name": "Lamb Labs",
+    "description": "World's fastest AI models",
+    "url": "http://lamb-labs.com",
+    "categories": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Semiconductors",
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/lamb-labs"
+    },
+    "collected_at": "2026-08-19T09:05:22.634264Z",
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence, Hardware, Semiconductors, AI",
+    "headquarters": "London",
+    "employee_count": 0
+  },
+  {
+    "id": "5559c751-575e-5ce6-9d3a-53832959003f",
+    "entity_type": "COMPANY",
+    "name": "Chromie",
+    "description": "find, qualify, & win contracts with AI",
+    "url": "https://chromie.dev",
+    "categories": [
+      "GovTech",
+      "Workflow Automation"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/chromie"
+    },
+    "collected_at": "2026-08-19T09:05:22.634258Z",
+    "founding_year": null,
+    "industry_sector": "GovTech, Workflow Automation",
+    "headquarters": "San Francisco",
+    "employee_count": 2
+  },
+  {
+    "id": "c10b1c82-79a5-5175-a7b6-a6719c7a1c96",
+    "entity_type": "COMPANY",
+    "name": "83 Sciences",
+    "description": "AI-native materials discovery powered by unpublished experimental data",
+    "url": "https://83sciences.ai",
+    "categories": [
+      "Hard Tech",
+      "Advanced Materials",
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/83-sciences"
+    },
+    "collected_at": "2026-08-19T09:05:22.634252Z",
+    "founding_year": null,
+    "industry_sector": "Hard Tech, Advanced Materials, AI",
+    "headquarters": "San Francisco",
+    "employee_count": 3
+  },
+  {
+    "id": "ae88ce46-bbb8-5686-9e4c-3ee545513626",
+    "entity_type": "COMPANY",
+    "name": "Palisade",
+    "description": "AI that finds and fixes OS-level vulnerabilities across device fleets",
+    "url": "https://palisade-ai.com/",
+    "categories": [
+      "SaaS",
+      "Cybersecurity",
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/palisade-2"
+    },
+    "collected_at": "2026-08-19T09:05:22.634231Z",
+    "founding_year": null,
+    "industry_sector": "SaaS, Cybersecurity, AI",
+    "headquarters": "San Francisco",
+    "employee_count": 1
+  },
+  {
+    "id": "7c182c14-e754-51d3-b3f5-85b788eb9a36",
+    "entity_type": "COMPANY",
+    "name": "Hubble",
+    "description": "The intelligence layer for patient information",
+    "url": "https://hubble.ai/",
+    "categories": [
+      "Healthcare"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/hubble-ai"
+    },
+    "collected_at": "2026-08-19T09:05:22.634223Z",
+    "founding_year": null,
+    "industry_sector": "Healthcare",
+    "headquarters": "Seattle",
+    "employee_count": 2
+  },
+  {
+    "id": "0e873772-5966-5030-9a3b-141cb47b5408",
+    "entity_type": "COMPANY",
+    "name": "Skymerse",
+    "description": "Autopilot for Flight Operations",
+    "url": "https://skymerse.com",
+    "categories": [
+      "Airlines",
+      "Aerospace",
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/skymerse"
+    },
+    "collected_at": "2026-08-19T09:05:22.634196Z",
+    "founding_year": null,
+    "industry_sector": "Airlines, Aerospace, AI",
+    "headquarters": "Warsaw, Poland",
+    "employee_count": null
+  },
+  {
+    "id": "b32a4357-3584-5709-a0bf-6b74c730e7d9",
+    "entity_type": "COMPANY",
+    "name": "Grip",
+    "description": "Robotics for waste management",
+    "url": "https://www.griprobotics.ai",
+    "categories": [
+      "Robotic Process Automation",
+      "Sustainability"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/grip"
+    },
+    "collected_at": "2026-08-19T09:05:21.881957Z",
+    "founding_year": null,
+    "industry_sector": "Robotic Process Automation, Sustainability",
+    "headquarters": "Zürich, Switzerland",
+    "employee_count": 4
+  },
+  {
+    "id": "a824839a-cffe-5935-99ce-4aec1632c17e",
+    "entity_type": "COMPANY",
+    "name": "HyperProbe",
+    "description": "Your coding agent writes code. Now let it fix prod too.",
+    "url": "http://hyperprobe.co",
+    "categories": [
+      "Developer Tools",
+      "DevSecOps",
+      "SaaS"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/hyperprobe"
+    },
+    "collected_at": "2026-08-19T09:05:21.881951Z",
+    "founding_year": null,
+    "industry_sector": "Developer Tools, DevSecOps, SaaS",
+    "headquarters": "San Francisco",
+    "employee_count": 8
+  },
+  {
+    "id": "8d113e89-ea86-5a29-8e87-6c5423812dbc",
+    "entity_type": "COMPANY",
+    "name": "TovenAI",
+    "description": "AI agents for compliance at institutional trading firms",
+    "url": "https://toven.ai",
+    "categories": [
+      "Fintech",
+      "Regtech",
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/tovenai"
+    },
+    "collected_at": "2026-08-19T09:05:21.881945Z",
+    "founding_year": null,
+    "industry_sector": "Fintech, Regtech, AI",
+    "headquarters": "New York City",
+    "employee_count": 2
+  },
+  {
+    "id": "9d7ea0a6-dddc-5342-a6eb-5c7c756f651c",
+    "entity_type": "COMPANY",
+    "name": "Verdict Machine",
+    "description": "AI cybersecurity for financial institutions' digital assets",
+    "url": "https://verdictmachine.com",
+    "categories": [
+      "Crypto / Web3",
+      "Security",
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/verdict-machine"
+    },
+    "collected_at": "2026-08-19T09:05:21.881939Z",
+    "founding_year": null,
+    "industry_sector": "Crypto / Web3, Security, AI",
+    "headquarters": "Tel Aviv-Yafo, Israel",
+    "employee_count": 4
+  },
+  {
+    "id": "90c8a433-42fd-537d-9c83-5e38668774d7",
+    "entity_type": "COMPANY",
+    "name": "Dock",
+    "description": "Multiplayer agent workspace to run your company",
+    "url": "https://trydock.ai",
+    "categories": [
+      "Artificial Intelligence"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/dock"
+    },
+    "collected_at": "2026-08-19T09:05:21.881933Z",
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence",
+    "headquarters": "San Francisco",
+    "employee_count": 2
+  },
+  {
+    "id": "08e67c0e-c8cc-5beb-b703-7418b172ae22",
+    "entity_type": "COMPANY",
+    "name": "OpenRelay",
+    "description": "Distributed, hardware-agnostic AI inference",
+    "url": "https://www.openrelay.inc",
+    "categories": [
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/openrelay"
+    },
+    "collected_at": "2026-08-19T09:05:21.881927Z",
+    "founding_year": null,
+    "industry_sector": "AI",
+    "headquarters": "Seattle",
+    "employee_count": 2
+  },
+  {
+    "id": "3ebf6cee-9029-5faa-853f-7fe0bcf63374",
+    "entity_type": "COMPANY",
+    "name": "Agent FM",
+    "description": "One group chat to hear and steer your coding agents.",
+    "url": "https://www.agentfm.ai/",
+    "categories": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Productivity"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/agent-fm"
+    },
+    "collected_at": "2026-08-19T09:05:21.881921Z",
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence, Developer Tools, Productivity",
+    "headquarters": "San Francisco",
+    "employee_count": 2
+  },
+  {
+    "id": "2c279dc2-960a-58a9-9736-b43ff529a04b",
+    "entity_type": "COMPANY",
+    "name": "Hop Aero",
+    "description": "Rocket cargo delivery to contested environments",
+    "url": "https://hopaero.com",
+    "categories": [
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/hop-aero"
+    },
+    "collected_at": "2026-08-19T09:05:21.881915Z",
+    "founding_year": null,
+    "industry_sector": "",
+    "headquarters": "Los Angeles",
+    "employee_count": 6
+  },
+  {
+    "id": "c75276bc-1fe4-555c-a2d9-6dce5401a1d1",
+    "entity_type": "COMPANY",
+    "name": "PRINCEPS",
+    "description": "AI-native insurance company for the compute economy",
+    "url": "https://princeps.dev",
+    "categories": [
+      "Machine Learning",
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/princeps"
+    },
+    "collected_at": "2026-08-19T09:05:21.881908Z",
+    "founding_year": null,
+    "industry_sector": "Machine Learning, AI",
+    "headquarters": "London",
+    "employee_count": 3
+  },
+  {
+    "id": "ac48b38e-0607-5507-9905-903a5d7884c5",
+    "entity_type": "COMPANY",
+    "name": "Hebbian Robotics",
+    "description": "APIs for searching and analyzing Physical AI data at scale",
+    "url": "https://hebbianrobotics.com/",
+    "categories": [
+      "Artificial Intelligence",
+      "Robotics",
+      "Data Science",
+      "Data Engineering",
+      "Databases"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/hebbian-robotics"
+    },
+    "collected_at": "2026-08-19T09:05:21.881901Z",
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence, Robotics, Data Science, Data Engineering, Databases",
+    "headquarters": "San Francisco",
+    "employee_count": 2
+  },
+  {
+    "id": "aef0a929-5792-56da-8f34-896e7232745c",
+    "entity_type": "COMPANY",
+    "name": "Earendil Robotics",
+    "description": "Drone swarm defence at a small-unit level",
+    "url": "https://earendil.io",
+    "categories": [
+      "Drones",
+      "Swarm Robotics",
+      "AR"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/earendil-robotics"
+    },
+    "collected_at": "2026-08-19T09:05:21.881888Z",
+    "founding_year": null,
+    "industry_sector": "Drones, Swarm Robotics, AR",
+    "headquarters": "San Francisco",
+    "employee_count": 7
+  },
+  {
+    "id": "0635df7e-e042-573c-a09a-437ec02c6e4e",
+    "entity_type": "COMPANY",
+    "name": "Florin",
+    "description": "Florin is the insurance carrier with zero underwriters",
+    "url": "https://florin.inc",
+    "categories": [
+      "Fintech",
+      "Insurance",
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/florin"
+    },
+    "collected_at": "2026-08-19T09:05:21.881882Z",
+    "founding_year": null,
+    "industry_sector": "Fintech, Insurance, AI",
+    "headquarters": "San Francisco",
+    "employee_count": 3
+  },
+  {
+    "id": "3ec2e976-c676-54bd-b682-7e15600e02d8",
+    "entity_type": "COMPANY",
+    "name": "Locke",
+    "description": "Locke is changing the way companies and governments work together.",
+    "url": "https://locke.inc",
+    "categories": [
+      "GovTech",
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/locke"
+    },
+    "collected_at": "2026-08-19T09:05:21.881875Z",
+    "founding_year": null,
+    "industry_sector": "GovTech, AI",
+    "headquarters": "San Francisco",
+    "employee_count": 2
+  },
+  {
+    "id": "cce157e6-f0e4-53d2-8acb-09754be8397c",
+    "entity_type": "COMPANY",
+    "name": "Petrarch",
+    "description": "Unlocking enterprise data for tomorrow's economy",
+    "url": "https://petrarch.co/",
+    "categories": [
+      "Marketplace",
+      "Data Engineering"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/petrarch"
+    },
+    "collected_at": "2026-08-19T09:05:21.881868Z",
+    "founding_year": null,
+    "industry_sector": "Marketplace, Data Engineering",
+    "headquarters": "San Francisco",
+    "employee_count": 3
+  },
+  {
+    "id": "27c96d54-906e-518d-b2ca-5d53f6b73aae",
+    "entity_type": "COMPANY",
+    "name": "SpaceFlow",
+    "description": "The managed runtime for enterprise AI agents",
+    "url": "https://spaceflow.tech",
+    "categories": [
+      "Workflow Automation",
+      "Logistics",
+      "Manufacturing",
+      "Supply Chain"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/spaceflow-technologies-inc"
+    },
+    "collected_at": "2026-08-19T09:05:21.881862Z",
+    "founding_year": null,
+    "industry_sector": "Workflow Automation, Logistics, Manufacturing, Supply Chain",
+    "headquarters": "San Francisco",
+    "employee_count": 4
+  },
+  {
+    "id": "8ef47f9a-9f71-5ca1-87f9-7bddf5309460",
+    "entity_type": "COMPANY",
+    "name": "SubVysion",
+    "description": "Autonomous rovers to make the ‘Google Maps’ of underground utilities",
+    "url": "https://subvysion.com",
+    "categories": [
+      "Hard Tech",
+      "Computer Vision",
+      "Real Estate",
+      "Construction",
+      "Infrastructure"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/subvysion"
+    },
+    "collected_at": "2026-08-19T09:05:21.881855Z",
+    "founding_year": null,
+    "industry_sector": "Hard Tech, Computer Vision, Real Estate, Construction, Infrastructure",
+    "headquarters": "San Francisco",
+    "employee_count": 2
+  },
+  {
+    "id": "c1949b20-5685-53c9-8ec0-daaf8e2115f5",
+    "entity_type": "COMPANY",
+    "name": "Avoca",
+    "description": "The AI-powered operating system for radiology networks",
+    "url": "https://avocasystems.com",
+    "categories": [
+      "Healthcare",
+      "Enterprise Software",
+      "Healthcare IT"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/avoca-systems"
+    },
+    "collected_at": "2026-08-19T09:05:21.881848Z",
+    "founding_year": null,
+    "industry_sector": "Healthcare, Enterprise Software, Healthcare IT",
+    "headquarters": "San Francisco",
+    "employee_count": 8
+  },
+  {
+    "id": "7447b86f-02ba-5d66-b52e-322dc57a4efa",
+    "entity_type": "COMPANY",
+    "name": "Amulet",
+    "description": "High performance file system for agents",
+    "url": "https://amulet.so/",
+    "categories": [
+      "Developer Tools",
+      "Machine Learning",
+      "Big Data",
+      "Infrastructure",
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/amulet"
+    },
+    "collected_at": "2026-08-19T09:05:21.881841Z",
+    "founding_year": null,
+    "industry_sector": "Developer Tools, Machine Learning, Big Data, Infrastructure, AI",
+    "headquarters": "San Francisco",
+    "employee_count": 2
+  },
+  {
+    "id": "8357776f-d0f1-5568-a541-16910e0a145c",
+    "entity_type": "COMPANY",
+    "name": "Tracer",
+    "description": "Combining open-source AI models for better answers at lower cost",
+    "url": "https://tracerml.ai",
+    "categories": [
+      "Machine Learning",
+      "Open Source",
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/tracer"
+    },
+    "collected_at": "2026-08-19T09:05:21.881834Z",
+    "founding_year": null,
+    "industry_sector": "Machine Learning, Open Source, AI",
+    "headquarters": "San Francisco",
+    "employee_count": 1
+  },
+  {
+    "id": "2bb56c28-7ae6-5386-adbc-1042b75fcb17",
+    "entity_type": "COMPANY",
+    "name": "Wondering",
+    "description": "Duolingo for learning anything, but 10x better",
+    "url": "https://wondering.app",
+    "categories": [
+      "AI-Enhanced Learning",
+      "Education",
+      "AI",
+      "AI Assistant"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/wondering"
+    },
+    "collected_at": "2026-08-19T09:05:21.881828Z",
+    "founding_year": null,
+    "industry_sector": "AI-Enhanced Learning, Education, AI, AI Assistant",
+    "headquarters": "San Francisco",
+    "employee_count": 2
+  },
+  {
+    "id": "7e5bd7ae-f9a5-53ed-abe2-0a9345732764",
+    "entity_type": "COMPANY",
+    "name": "Isengard Industries",
+    "description": "Mass-produced AI strike systems and Counter-UAS",
+    "url": "http://isengardindustries.com/",
+    "categories": [
+      "Artificial Intelligence",
+      "Swarm Robotics",
+      "Unmanned Vehicle"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/isengard-industries-inc"
+    },
+    "collected_at": "2026-08-19T09:10:54.582081Z",
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence, Swarm Robotics, Unmanned Vehicle",
+    "headquarters": "San Francisco",
+    "employee_count": 30
+  },
+  {
+    "id": "6fccfbd7-7030-5679-838f-99ba72504c64",
+    "entity_type": "COMPANY",
+    "name": "Denta",
+    "description": "Full Stack Dental Insurance",
+    "url": "https://denta.insure",
+    "categories": [
+      "Health Insurance"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/denta"
+    },
+    "collected_at": "2026-08-19T09:10:54.582073Z",
+    "founding_year": null,
+    "industry_sector": "Health Insurance",
+    "headquarters": "San Francisco",
+    "employee_count": 1
+  },
+  {
+    "id": "e0ebb3aa-31f2-516f-a712-95303e0c2059",
+    "entity_type": "COMPANY",
+    "name": "Computable",
+    "description": "Buy, sell, and redeem GPU hours for any week with instant liquidity",
+    "url": "https://getcomputable.com",
+    "categories": [
+      "Marketplace",
+      "Finance",
+      "Cloud Computing",
+      "Trading",
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/computable"
+    },
+    "collected_at": "2026-08-19T09:10:54.582065Z",
+    "founding_year": null,
+    "industry_sector": "Marketplace, Finance, Cloud Computing, Trading, AI",
+    "headquarters": "New York City",
+    "employee_count": 2
+  },
+  {
+    "id": "a5250d42-06b0-5e5f-b4c6-8647e7415f57",
+    "entity_type": "COMPANY",
+    "name": "TryNearby",
+    "description": "Local creators for local businesses",
+    "url": "https://trynearby.com",
+    "categories": [
+      "Restaurant Tech",
+      "Marketing",
+      "Creator Economy",
+      "SMB"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/trynearby"
+    },
+    "collected_at": "2026-08-19T09:10:54.582054Z",
+    "founding_year": null,
+    "industry_sector": "Restaurant Tech, Marketing, Creator Economy, SMB",
+    "headquarters": "Los Angeles",
+    "employee_count": 5
+  },
+  {
+    "id": "741e9d60-cf1e-59aa-a09f-9c7d05cd9a1b",
+    "entity_type": "COMPANY",
+    "name": "Financial Datasets",
+    "description": "Connect your agent to the stock market",
+    "url": "https://financialdatasets.ai/",
+    "categories": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Stocks"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/financial-datasets"
+    },
+    "collected_at": "2026-08-19T09:10:54.582046Z",
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence, Fintech, Stocks",
+    "headquarters": "New York City",
+    "employee_count": 1
+  },
+  {
+    "id": "bf89aa46-5644-526b-9f3d-89eae68fc6cd",
+    "entity_type": "COMPANY",
+    "name": "Luca IQ",
+    "description": "API First Tax Engine for CPAs",
+    "url": "https://lucaiq.com/",
+    "categories": [
+      "API",
+      "Infrastructure",
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/luca-iq"
+    },
+    "collected_at": "2026-08-19T09:10:54.582038Z",
+    "founding_year": null,
+    "industry_sector": "API, Infrastructure, AI",
+    "headquarters": "Boston",
+    "employee_count": 5
+  },
+  {
+    "id": "9feb8581-a1cb-53fe-81f9-be2f1a425d0b",
+    "entity_type": "COMPANY",
+    "name": "Pacific",
+    "description": "Mass-producing and deploying micro data centers for Earth and Space",
+    "url": "https://gopacific.ai/",
+    "categories": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Robotics",
+      "Space Exploration",
+      "Manufacturing"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/pacific"
+    },
+    "collected_at": "2026-08-19T09:10:54.582024Z",
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence, Fintech, Robotics, Space Exploration, Manufacturing",
+    "headquarters": "London",
+    "employee_count": 2
+  },
+  {
+    "id": "d0a71a14-bfd1-577e-abb1-f884077d2272",
+    "entity_type": "COMPANY",
+    "name": "Last Accounting",
+    "description": "Agent-native accounting firm.",
+    "url": "https://lastaccountingcompany.com/",
+    "categories": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Finance"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/last-accounting-company"
+    },
+    "collected_at": "2026-08-19T09:10:54.582016Z",
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence, Fintech, Finance",
+    "headquarters": "Helsinki, Finland",
+    "employee_count": 4
+  },
+  {
+    "id": "7cad7fb2-bcea-52ce-ace9-561ad31449a3",
+    "entity_type": "COMPANY",
+    "name": "Executor",
+    "description": "The open source integration management layer for AI.",
+    "url": "https://executor.sh",
+    "categories": [
+      "AIOps",
+      "Artificial Intelligence",
+      "SaaS"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/executor"
+    },
+    "collected_at": "2026-08-19T09:10:54.582009Z",
+    "founding_year": null,
+    "industry_sector": "AIOps, Artificial Intelligence, SaaS",
+    "headquarters": "San Francisco",
+    "employee_count": 1
+  },
+  {
+    "id": "f438c8e0-3431-55bf-a9b2-94b1e05adf97",
+    "entity_type": "COMPANY",
+    "name": "Waybill",
+    "description": "Managed procurement & inventory for hardware teams.",
+    "url": "https://www.waybill.to/",
+    "categories": [
+      "Artificial Intelligence",
+      "Logistics",
+      "Procurement"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/waybill"
+    },
+    "collected_at": "2026-08-19T09:10:54.582001Z",
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence, Logistics, Procurement",
+    "headquarters": "Gurugram, Haryana, India",
+    "employee_count": 5
+  },
+  {
+    "id": "95c449cf-cb3b-51e1-a248-f47bae2a9571",
+    "entity_type": "COMPANY",
+    "name": "RonanRx",
+    "description": "We use AI to personalize peptides to your biology",
+    "url": "https://ronanrx.com/",
+    "categories": [
+      "Health Tech",
+      "Telehealth",
+      "Therapeutics"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/ronanrx-inc"
+    },
+    "collected_at": "2026-08-19T09:10:54.581993Z",
+    "founding_year": null,
+    "industry_sector": "Health Tech, Telehealth, Therapeutics",
+    "headquarters": "San Francisco",
+    "employee_count": 5
+  },
+  {
+    "id": "57f6d1f7-49ea-5cfc-9aa9-a3b8911a54b0",
+    "entity_type": "COMPANY",
+    "name": "Marengo",
+    "description": "Automating engineering design, starting with data centers.",
+    "url": "https://marengox.com",
+    "categories": [
+      "Artificial Intelligence",
+      "Design",
+      "Energy",
+      "Architecture"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/marengo"
+    },
+    "collected_at": "2026-08-19T09:10:54.581985Z",
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence, Design, Energy, Architecture",
+    "headquarters": "San Francisco",
+    "employee_count": 10
+  },
+  {
+    "id": "f3551097-613a-5221-a847-4c73a6306c83",
+    "entity_type": "COMPANY",
+    "name": "Lumeria",
+    "description": "Oura Ring for Skin",
+    "url": "https://lumeria.skin",
+    "categories": [
+      "Consumer Health Services",
+      "Health Tech",
+      "Health & Wellness",
+      "Skincare",
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/lumeria"
+    },
+    "collected_at": "2026-08-19T09:10:54.581976Z",
+    "founding_year": null,
+    "industry_sector": "Consumer Health Services, Health Tech, Health & Wellness, Skincare, AI",
+    "headquarters": "San Francisco",
+    "employee_count": 3
+  },
+  {
+    "id": "2e8f2514-c966-5667-ac44-dab6433d7bb9",
+    "entity_type": "COMPANY",
+    "name": "Familiar",
+    "description": "World Models for Accurate Humans.",
+    "url": "https://thefamiliarlab.com",
+    "categories": [
+      "Education",
+      "Entertainment",
+      "Marketing",
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/familiar"
+    },
+    "collected_at": "2026-08-19T09:10:54.581965Z",
+    "founding_year": null,
+    "industry_sector": "Education, Entertainment, Marketing, AI",
+    "headquarters": "San Francisco",
+    "employee_count": 7
+  },
+  {
+    "id": "9e9327df-7f50-5746-90a0-69ba00d9017d",
+    "entity_type": "COMPANY",
+    "name": "Markov",
+    "description": "Data for computer-use ai",
+    "url": "https://www.markovstudios.com/",
+    "categories": [
+      "Reinforcement Learning",
+      "Data Labeling",
+      "Data Engineering"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/markov"
+    },
+    "collected_at": "2026-08-19T09:10:54.581937Z",
+    "founding_year": null,
+    "industry_sector": "Reinforcement Learning, Data Labeling, Data Engineering",
+    "headquarters": "San Francisco",
+    "employee_count": 2
+  },
+  {
+    "id": "31d10917-8d0f-5e5c-8794-9652dcb4a6df",
+    "entity_type": "COMPANY",
+    "name": "Cosmic Robotics",
+    "description": "Autonomous construction on Earth and beyond",
+    "url": "https://www.cosmicrobotics.com/",
+    "categories": [
+      "Hard Tech",
+      "Robotics",
+      "Construction",
+      "Aerospace"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/cosmic-robotics"
+    },
+    "collected_at": "2026-08-19T09:10:53.837431Z",
+    "founding_year": null,
+    "industry_sector": "Hard Tech, Robotics, Construction, Aerospace",
+    "headquarters": "San Francisco",
+    "employee_count": 8
+  },
+  {
+    "id": "f1fcedce-3f77-5269-874b-3ea6124256ed",
+    "entity_type": "COMPANY",
+    "name": "Operon",
+    "description": "Agentic data layer for manufacturing & process industries.",
+    "url": "https://operonsolutions.com/en",
+    "categories": [
+      "Computer Vision",
+      "Manufacturing",
+      "Infrastructure"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/operon"
+    },
+    "collected_at": "2026-08-19T09:10:53.837417Z",
+    "founding_year": null,
+    "industry_sector": "Computer Vision, Manufacturing, Infrastructure",
+    "headquarters": "San Francisco",
+    "employee_count": 0
+  },
+  {
+    "id": "0255c14f-8c8e-5f92-92b7-48203e2511b4",
+    "entity_type": "COMPANY",
+    "name": "Inkbox",
+    "description": "Let your agents communicate via email, phone, iMessage, & Agent2Agent",
+    "url": "https://inkbox.ai",
+    "categories": [
+      "Developer Tools",
+      "Infrastructure",
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/inkbox"
+    },
+    "collected_at": "2026-08-19T09:10:53.837403Z",
+    "founding_year": null,
+    "industry_sector": "Developer Tools, Infrastructure, AI",
+    "headquarters": "San Francisco",
+    "employee_count": 3
+  },
+  {
+    "id": "06496d32-85f5-5541-b1b9-cfccbf4a63a1",
+    "entity_type": "COMPANY",
+    "name": "Gamgee",
+    "description": "Scalable Personalised Cancer Treatment",
+    "url": "https://gamgee.io/",
+    "categories": [
+      "Biotech",
+      "Genomics",
+      "Oncology",
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/gamgee"
+    },
+    "collected_at": "2026-08-19T09:10:53.837390Z",
+    "founding_year": null,
+    "industry_sector": "Biotech, Genomics, Oncology, AI",
+    "headquarters": "San Francisco",
+    "employee_count": 2
+  },
+  {
+    "id": "b2d17606-d266-5b85-a23e-bd1c6cccbaac",
+    "entity_type": "COMPANY",
+    "name": "ProvenMetal",
+    "description": "Fast-turn, American made PCBs",
+    "url": "https://provenmetal.com",
+    "categories": [
+      "Hardware",
+      "Manufacturing",
+      "Electronics"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/provenmetal"
+    },
+    "collected_at": "2026-08-19T09:10:53.837376Z",
+    "founding_year": null,
+    "industry_sector": "Hardware, Manufacturing, Electronics",
+    "headquarters": "San Francisco",
+    "employee_count": 4
+  },
+  {
+    "id": "8a16b799-c88a-5abf-b9cc-c5a0f927fca7",
+    "entity_type": "COMPANY",
+    "name": "Agentcard",
+    "description": "debit cards for AI agents.",
+    "url": "https://agentcard.sh",
+    "categories": [
+      "Fintech"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/agentcard"
+    },
+    "collected_at": "2026-08-19T09:10:53.837362Z",
+    "founding_year": null,
+    "industry_sector": "Fintech",
+    "headquarters": "San Francisco",
+    "employee_count": 0
+  },
+  {
+    "id": "c777a0f6-d45c-56f8-88d4-415b63434641",
+    "entity_type": "COMPANY",
+    "name": "Agnost AI",
+    "description": "Product analytics for AI Agents",
+    "url": "https://agnost.ai",
+    "categories": [
+      "Developer Tools",
+      "Analytics",
+      "Monitoring",
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/agnost-ai"
+    },
+    "collected_at": "2026-08-19T09:10:53.837350Z",
+    "founding_year": null,
+    "industry_sector": "Developer Tools, Analytics, Monitoring, AI",
+    "headquarters": "San Francisco",
+    "employee_count": 2
+  },
+  {
+    "id": "1d72229f-9a63-5391-8b15-4483a8906025",
+    "entity_type": "COMPANY",
+    "name": "Radley",
+    "description": "AI-native, full-stack radiology practice",
+    "url": "https://radley.health/",
+    "categories": [
+      "Healthcare"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/radley"
+    },
+    "collected_at": "2026-08-19T09:10:53.837336Z",
+    "founding_year": null,
+    "industry_sector": "Healthcare",
+    "headquarters": "San Francisco",
+    "employee_count": 2
+  },
+  {
+    "id": "42dc372d-ae12-556a-a5c3-bb347e3a66fb",
+    "entity_type": "COMPANY",
+    "name": "Care GP",
+    "description": "AI agents to run primary healthcare operations",
+    "url": "https://caregp.com.au/",
+    "categories": [
+      "SaaS",
+      "Healthcare",
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/care-gp"
+    },
+    "collected_at": "2026-08-19T09:10:53.837323Z",
+    "founding_year": null,
+    "industry_sector": "SaaS, Healthcare, AI",
+    "headquarters": "Sydney NSW, Australia",
+    "employee_count": 10
+  },
+  {
+    "id": "064cfcf7-afe5-5202-92c0-47bc4d4a5495",
+    "entity_type": "COMPANY",
+    "name": "Praxis Robotics",
+    "description": "Turns every company into a data vendor",
+    "url": "https://www.praxisrobotics.io",
+    "categories": [
+      "Hard Tech",
+      "Reinforcement Learning",
+      "Robotic Process Automation"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/praxis-robotics"
+    },
+    "collected_at": "2026-08-19T09:10:53.837309Z",
+    "founding_year": null,
+    "industry_sector": "Hard Tech, Reinforcement Learning, Robotic Process Automation",
+    "headquarters": "San Francisco",
+    "employee_count": 3
+  },
+  {
+    "id": "90390cf8-a448-5d79-ad7e-ed318cb6c107",
+    "entity_type": "COMPANY",
+    "name": "Levocred AI",
+    "description": "AI for credit funds, fintechs and banks",
+    "url": "https://levocred.com/",
+    "categories": [
+      "Lending",
+      "Investments"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/levocred-ai"
+    },
+    "collected_at": "2026-08-19T09:10:53.837295Z",
+    "founding_year": null,
+    "industry_sector": "Lending, Investments",
+    "headquarters": "San Francisco",
+    "employee_count": 2
+  },
+  {
+    "id": "45e4612c-ee1d-5856-8ee9-0145a7624154",
+    "entity_type": "COMPANY",
+    "name": "Axelrod",
+    "description": "Boutique Hotels that run themselves",
+    "url": "https://axelrod.live/",
+    "categories": [
+      "Artificial Intelligence",
+      "Travel"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/axelrod"
+    },
+    "collected_at": "2026-08-19T09:10:53.837281Z",
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence, Travel",
+    "headquarters": "San Francisco",
+    "employee_count": 2
+  },
+  {
+    "id": "b805d24a-ce00-5dfe-b966-618fccdc27eb",
+    "entity_type": "COMPANY",
+    "name": "CarSignal",
+    "description": "The Smart Operating System for Auto Shops.",
+    "url": "https://www.trycarsignal.com",
+    "categories": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Automotive"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/carsignal"
+    },
+    "collected_at": "2026-08-19T09:10:53.837268Z",
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence, SaaS, Automotive",
+    "headquarters": "Los Angeles",
+    "employee_count": 2
+  },
+  {
+    "id": "19f4481e-181f-5779-b974-253294bb3705",
+    "entity_type": "COMPANY",
+    "name": "Decawork",
+    "description": "The Agent Control Plane for IT teams",
+    "url": "https://decawork.ai/",
+    "categories": [
+      "Infrastructure",
+      "AI"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/decawork"
+    },
+    "collected_at": "2026-08-19T09:10:53.837254Z",
+    "founding_year": null,
+    "industry_sector": "Infrastructure, AI",
+    "headquarters": "San Francisco",
+    "employee_count": 2
+  },
+  {
+    "id": "33fbdc66-e971-58a3-b22e-3445c02ffcec",
+    "entity_type": "COMPANY",
+    "name": "Pennant",
+    "description": "The Corporate Governance OS for Public Markets",
+    "url": "https://www.getpennant.ai",
+    "categories": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Investing"
+    ],
+    "source": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/pennant"
+    },
+    "collected_at": "2026-08-19T09:10:53.837239Z",
+    "founding_year": null,
+    "industry_sector": "Artificial Intelligence, Fintech, Investing",
+    "headquarters": "New York City",
+    "employee_count": 2
   }
 ]

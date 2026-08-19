@@ -1,0 +1,272 @@
+[
+  {
+    "id": "e90f166c-0b53-502f-b5c3-0dc34bc1bc73",
+    "entity_type": "PERSONAL",
+    "name": "Kintext",
+    "description": "AI-driven parenting assistant offering personalized advice, milestone tracking, and community support.",
+    "url": "https://www.futurepedia.io/tool/kintext",
+    "categories": [
+      "personal assistant"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/kintext"
+    },
+    "collected_at": "2026-08-12T13:08:28.242289+00:00",
+    "startup_name": "Kintext",
+    "pricing_model": "PAID",
+    "catalog_view": "Personal"
+  },
+  {
+    "id": "f63448bb-b550-50f3-b9e3-a0cc525e6d8d",
+    "entity_type": "PERSONAL",
+    "name": "Wellpin",
+    "description": "Streamlines scheduling with AI, calendar sync, and personalized links.",
+    "url": "https://www.futurepedia.io/tool/wellpin",
+    "categories": [
+      "personal assistant"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/wellpin"
+    },
+    "collected_at": "2026-08-12T13:08:28.242437+00:00",
+    "startup_name": "Wellpin",
+    "pricing_model": "FREE",
+    "catalog_view": "Personal"
+  },
+  {
+    "id": "23c91075-7119-5d6a-b351-fe4538e743eb",
+    "entity_type": "PERSONAL",
+    "name": "Role Model AI",
+    "description": "Virtual assistant with 3D avatars, phone integration, and Fortnite connectivity.",
+    "url": "https://www.futurepedia.io/tool/rolemodel-ai",
+    "categories": [
+      "personal assistant"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/rolemodel-ai"
+    },
+    "collected_at": "2026-08-12T13:08:24.227606+00:00",
+    "startup_name": "Role Model AI",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Personal"
+  },
+  {
+    "id": "c5a019bc-304b-5a8b-804e-48c3e6343c91",
+    "entity_type": "PERSONAL",
+    "name": "OpenClaw",
+    "description": "Control your computer and apps from any chat.",
+    "url": "https://www.futurepedia.io/tool/openclaw",
+    "categories": [
+      "personal assistant"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/openclaw"
+    },
+    "collected_at": "2026-08-12T13:08:42.034076+00:00",
+    "startup_name": "OpenClaw",
+    "pricing_model": "FREE",
+    "catalog_view": "Personal"
+  },
+  {
+    "id": "6287d4f8-4df8-5db3-99ce-db7da601fbd5",
+    "entity_type": "PERSONAL",
+    "name": "IntellibizzAI",
+    "description": "Unleash creativity: AI-driven content, multilingual, image generation.",
+    "url": "https://www.futurepedia.io/tool/intellibizzai",
+    "categories": [
+      "personal assistant"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/intellibizzai"
+    },
+    "collected_at": "2026-08-12T13:09:06.396854+00:00",
+    "startup_name": "IntellibizzAI",
+    "pricing_model": "PAID",
+    "catalog_view": "Personal"
+  },
+  {
+    "id": "ef896a3a-70ac-5276-864a-8cc1fdb4806c",
+    "entity_type": "PERSONAL",
+    "name": "Comet",
+    "description": "Automates browsing tasks while remembering context across tabs.",
+    "url": "https://www.futurepedia.io/tool/comet",
+    "categories": [
+      "personal assistant"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/comet"
+    },
+    "collected_at": "2026-08-12T13:08:36.376869+00:00",
+    "startup_name": "Comet",
+    "pricing_model": "PAID",
+    "catalog_view": "Personal"
+  },
+  {
+    "id": "a2538392-f3c7-5d0c-978b-a0f5e6bd09bd",
+    "entity_type": "PERSONAL",
+    "name": "Imbue",
+    "description": "An innovative AI tool that redefines personal computing with advanced, real-world capable AI agents.",
+    "url": "https://www.futurepedia.io/tool/imbue",
+    "categories": [
+      "personal assistant"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/imbue"
+    },
+    "collected_at": "2026-08-12T13:08:32.431153+00:00",
+    "startup_name": "Imbue",
+    "pricing_model": "FREE",
+    "catalog_view": "Personal"
+  },
+  {
+    "id": "057ea80e-9719-5bf8-b5f3-cd3d6677b736",
+    "entity_type": "PERSONAL",
+    "name": "Circleback.ai",
+    "description": "Streamline meeting notes and action items with AI, ensuring efficiency and data security.",
+    "url": "https://www.futurepedia.io/tool/circlebackai",
+    "categories": [
+      "personal assistant"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/circlebackai"
+    },
+    "collected_at": "2026-08-12T13:08:24.227287+00:00",
+    "startup_name": "Circleback.ai",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Personal"
+  },
+  {
+    "id": "5569013c-2a75-5e82-b2df-ff5af7bbbf70",
+    "entity_type": "PERSONAL",
+    "name": "Fellow",
+    "description": "Automates meeting notes, insights, and follow-ups seamlessly.",
+    "url": "https://www.futurepedia.io/tool/fellow",
+    "categories": [
+      "personal assistant"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/fellow"
+    },
+    "collected_at": "2026-08-12T13:07:39.570536+00:00",
+    "startup_name": "Fellow",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Personal"
+  },
+  {
+    "id": "ca05e85e-e1b2-5b37-8d8d-7120dce3d0e2",
+    "entity_type": "PERSONAL",
+    "name": "Jigso",
+    "description": "Optimize tasks, automate alerts, and retrieve data seamlessly.",
+    "url": "https://www.futurepedia.io/tool/jigso",
+    "categories": [
+      "personal assistant"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/jigso"
+    },
+    "collected_at": "2026-08-12T13:07:39.568003+00:00",
+    "startup_name": "Jigso",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Personal"
+  },
+  {
+    "id": "b53909fe-9bdd-5b86-bb93-c81c7a7ec90c",
+    "entity_type": "PERSONAL",
+    "name": "Straico",
+    "description": "Seamlessly integrates content and image generation, designed to boost creativity and productivity for individuals and businesses alike.",
+    "url": "https://www.futurepedia.io/tool/straico",
+    "categories": [
+      "ai chatbots"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/straico"
+    },
+    "collected_at": "2026-08-12T13:09:18.661011+00:00",
+    "startup_name": "Strai",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Personal"
+  },
+  {
+    "id": "9d05c1b6-0197-5fea-9e32-c36ee5d1afdb",
+    "entity_type": "PERSONAL",
+    "name": "Merlin",
+    "description": "Enhance web productivity with AI: write, summarize, code, translate effortlessly.",
+    "url": "https://www.futurepedia.io/tool/merlin",
+    "categories": [
+      "ai chatbots"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/merlin"
+    },
+    "collected_at": "2026-08-12T13:07:39.570979+00:00",
+    "startup_name": "Merlin",
+    "pricing_model": "FREE",
+    "catalog_view": "Personal"
+  },
+  {
+    "id": "ce79828e-7c92-54a4-baac-4c17488390a7",
+    "entity_type": "PERSONAL",
+    "name": "Monica",
+    "description": "AI assistant revolutionizing chat, writing, coding, and more.",
+    "url": "https://www.futurepedia.io/tool/monica",
+    "categories": [
+      "ai chatbots"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/monica"
+    },
+    "collected_at": "2026-08-12T13:07:39.567696+00:00",
+    "startup_name": "Monica",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Personal"
+  },
+  {
+    "id": "c7f4ce5c-ee9b-537d-aaa1-bd5f032d8439",
+    "entity_type": "PERSONAL",
+    "name": "ChatGPT",
+    "description": "Research, create, and automate tasks with the leader in AI.",
+    "url": "https://www.futurepedia.io/tool/chatgpt",
+    "categories": [
+      "ai chatbots"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/chatgpt"
+    },
+    "collected_at": "2026-08-12T13:08:22.246843+00:00",
+    "startup_name": "OpenAI",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Personal"
+  },
+  {
+    "id": "57587bfd-1dca-52f0-9322-4265db9663ed",
+    "entity_type": "PERSONAL",
+    "name": "Overchat AI",
+    "description": "Chat, write, design images, craft short videos together",
+    "url": "https://www.futurepedia.io/tool/overchat-ai",
+    "categories": [
+      "ai chatbots"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/overchat-ai"
+    },
+    "collected_at": "2026-08-12T13:09:21.218934+00:00",
+    "startup_name": "Overchat AI",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Personal"
+  }
+]

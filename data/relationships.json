@@ -254,7 +254,7 @@
     "target_name": "mobile-next/mobile-mcp",
     "evidence_url": "https://github.com/mobile-next/mobile-mcp",
     "confidence": 0.95,
-    "extracted_at": "2026-08-19T08:10:50.164599Z",
+    "extracted_at": "2026-08-19T11:49:03.503912Z",
     "metadata": {
       "reason": "github.repository_owner"
     }
@@ -319,7 +319,7 @@
     "target_name": "ChatGPT",
     "evidence_url": "https://github.com/mcp-use/mcp-use",
     "confidence": 0.9,
-    "extracted_at": "2026-08-19T02:24:05.917780Z",
+    "extracted_at": "2026-08-19T11:49:03.721224Z",
     "metadata": {
       "reason": "tool.name explicitly present in MCP metadata"
     }
@@ -371,7 +371,7 @@
     "target_name": "ChatGPT",
     "evidence_url": "https://github.com/danny-avila/LibreChat",
     "confidence": 0.9,
-    "extracted_at": "2026-08-19T02:24:06.912916Z",
+    "extracted_at": "2026-08-19T11:49:03.718429Z",
     "metadata": {
       "reason": "tool.name explicitly present in MCP metadata"
     }
@@ -1712,7 +1712,7 @@
     "target_name": "Text Generation",
     "evidence_url": "https://www.futurepedia.io/tool/kintext",
     "confidence": 0.78,
-    "extracted_at": "2026-08-19T02:24:06.944725Z",
+    "extracted_at": "2026-08-19T11:49:03.733479Z",
     "metadata": {
       "reason": "deterministic task keyword evidence",
       "matched_keywords": [
@@ -1728,7 +1728,7 @@
     "target_name": "Text Generation",
     "evidence_url": "https://www.futurepedia.io/tool/chatgpt",
     "confidence": 0.78,
-    "extracted_at": "2026-08-19T02:24:06.945460Z",
+    "extracted_at": "2026-08-19T11:49:03.732902Z",
     "metadata": {
       "reason": "deterministic task keyword evidence",
       "matched_keywords": [
@@ -1842,7 +1842,7 @@
     "target_name": "Text Generation",
     "evidence_url": "https://www.futurepedia.io/tool/merlin",
     "confidence": 0.78,
-    "extracted_at": "2026-08-19T08:10:50.202689Z",
+    "extracted_at": "2026-08-19T11:49:03.731261Z",
     "metadata": {
       "reason": "deterministic task keyword evidence",
       "matched_keywords": [
@@ -1859,7 +1859,7 @@
     "target_name": "Translation",
     "evidence_url": "https://www.futurepedia.io/tool/merlin",
     "confidence": 0.78,
-    "extracted_at": "2026-08-19T08:10:50.202703Z",
+    "extracted_at": "2026-08-19T11:49:03.731284Z",
     "metadata": {
       "reason": "deterministic task keyword evidence",
       "matched_keywords": [
@@ -1875,7 +1875,7 @@
     "target_name": "Text Generation",
     "evidence_url": "https://www.futurepedia.io/tool/microsoft-translator",
     "confidence": 0.78,
-    "extracted_at": "2026-08-19T08:10:50.202885Z",
+    "extracted_at": "2026-08-19T11:49:03.731540Z",
     "metadata": {
       "reason": "deterministic task keyword evidence",
       "matched_keywords": [
@@ -1891,7 +1891,7 @@
     "target_name": "Speech Recognition",
     "evidence_url": "https://www.futurepedia.io/tool/microsoft-translator",
     "confidence": 0.78,
-    "extracted_at": "2026-08-19T08:10:50.202892Z",
+    "extracted_at": "2026-08-19T11:49:03.731551Z",
     "metadata": {
       "reason": "deterministic task keyword evidence",
       "matched_keywords": [
@@ -1907,7 +1907,7 @@
     "target_name": "Translation",
     "evidence_url": "https://www.futurepedia.io/tool/microsoft-translator",
     "confidence": 0.78,
-    "extracted_at": "2026-08-19T08:10:50.202902Z",
+    "extracted_at": "2026-08-19T11:49:03.731567Z",
     "metadata": {
       "reason": "deterministic task keyword evidence",
       "matched_keywords": [
@@ -1923,7 +1923,7 @@
     "target_name": "Text Generation",
     "evidence_url": "https://www.futurepedia.io/tool/google-translate",
     "confidence": 0.78,
-    "extracted_at": "2026-08-19T08:10:50.202911Z",
+    "extracted_at": "2026-08-19T11:49:03.731581Z",
     "metadata": {
       "reason": "deterministic task keyword evidence",
       "matched_keywords": [
@@ -1939,7 +1939,7 @@
     "target_name": "Image Generation",
     "evidence_url": "https://www.futurepedia.io/tool/google-translate",
     "confidence": 0.78,
-    "extracted_at": "2026-08-19T08:10:50.202916Z",
+    "extracted_at": "2026-08-19T11:49:03.731588Z",
     "metadata": {
       "reason": "deterministic task keyword evidence",
       "matched_keywords": [
@@ -1955,7 +1955,7 @@
     "target_name": "Translation",
     "evidence_url": "https://www.futurepedia.io/tool/google-translate",
     "confidence": 0.78,
-    "extracted_at": "2026-08-19T08:10:50.202927Z",
+    "extracted_at": "2026-08-19T11:49:03.731607Z",
     "metadata": {
       "reason": "deterministic task keyword evidence",
       "matched_keywords": [
@@ -1972,7 +1972,7 @@
     "target_name": "Text Generation",
     "evidence_url": "https://www.futurepedia.io/tool/monica",
     "confidence": 0.78,
-    "extracted_at": "2026-08-19T08:10:50.203136Z",
+    "extracted_at": "2026-08-19T11:49:03.731966Z",
     "metadata": {
       "reason": "deterministic task keyword evidence",
       "matched_keywords": [
@@ -2054,7 +2054,7 @@
     "target_name": "NVIDIA Isaac GR00T N1",
     "evidence_url": "https://www.nvidia.com/en-in/autonomous-machines/embedded-systems/jetson-orin/",
     "confidence": 0.99,
-    "extracted_at": "2026-08-19T08:10:50.203387Z",
+    "extracted_at": "2026-08-19T11:49:03.734583Z",
     "metadata": {
       "reason": "device.model reference"
     }
@@ -2509,7 +2509,7 @@
     "target_name": "DrStranded/Co-RL",
     "evidence_url": "https://arxiv.org/abs/2608.17253v1",
     "confidence": 0.99,
-    "extracted_at": "2026-08-19T08:10:50.203246Z",
+    "extracted_at": "2026-08-19T11:49:03.734031Z",
     "metadata": {
       "reason": "paper.github_url explicitly matches GitHub repository"
     }
@@ -2522,7 +2522,7 @@
     "target_name": "SarveshVGharat/structural-gap-hypothesis-agent",
     "evidence_url": "https://arxiv.org/abs/2608.17501v1",
     "confidence": 0.99,
-    "extracted_at": "2026-08-19T08:10:50.203237Z",
+    "extracted_at": "2026-08-19T11:49:03.734015Z",
     "metadata": {
       "reason": "paper.github_url explicitly matches GitHub repository"
     }
@@ -2535,7 +2535,7 @@
     "target_name": "Image Generation",
     "evidence_url": "https://www.futurepedia.io/tool/n8n",
     "confidence": 0.78,
-    "extracted_at": "2026-08-19T08:10:50.202582Z",
+    "extracted_at": "2026-08-19T11:49:03.731091Z",
     "metadata": {
       "reason": "deterministic task keyword evidence",
       "matched_keywords": [
@@ -2551,7 +2551,7 @@
     "target_name": "Question Answering",
     "evidence_url": "https://www.futurepedia.io/tool/microsoft-bing",
     "confidence": 0.78,
-    "extracted_at": "2026-08-19T08:10:50.202635Z",
+    "extracted_at": "2026-08-19T11:49:03.731172Z",
     "metadata": {
       "reason": "deterministic task keyword evidence",
       "matched_keywords": [
@@ -2567,7 +2567,7 @@
     "target_name": "Question Answering",
     "evidence_url": "https://www.futurepedia.io/tool/komo-search",
     "confidence": 0.78,
-    "extracted_at": "2026-08-19T08:10:50.202657Z",
+    "extracted_at": "2026-08-19T11:49:03.731207Z",
     "metadata": {
       "reason": "deterministic task keyword evidence",
       "matched_keywords": [
@@ -2583,7 +2583,7 @@
     "target_name": "Question Answering",
     "evidence_url": "https://www.futurepedia.io/tool/quicksearchplus",
     "confidence": 0.78,
-    "extracted_at": "2026-08-19T08:10:50.202677Z",
+    "extracted_at": "2026-08-19T11:49:03.731241Z",
     "metadata": {
       "reason": "deterministic task keyword evidence",
       "matched_keywords": [
@@ -2599,7 +2599,7 @@
     "target_name": "Image Generation",
     "evidence_url": "https://www.futurepedia.io/tool/simplified",
     "confidence": 0.78,
-    "extracted_at": "2026-08-19T08:10:50.202828Z",
+    "extracted_at": "2026-08-19T11:49:03.731451Z",
     "metadata": {
       "reason": "deterministic task keyword evidence",
       "matched_keywords": [
@@ -2615,7 +2615,7 @@
     "target_name": "Text Generation",
     "evidence_url": "https://www.futurepedia.io/tool/deepl-translator",
     "confidence": 0.78,
-    "extracted_at": "2026-08-19T08:10:50.202935Z",
+    "extracted_at": "2026-08-19T11:49:03.731621Z",
     "metadata": {
       "reason": "deterministic task keyword evidence",
       "matched_keywords": [
@@ -2631,7 +2631,7 @@
     "target_name": "Image Generation",
     "evidence_url": "https://www.futurepedia.io/tool/scite",
     "confidence": 0.78,
-    "extracted_at": "2026-08-19T08:10:50.203026Z",
+    "extracted_at": "2026-08-19T11:49:03.731778Z",
     "metadata": {
       "reason": "deterministic task keyword evidence",
       "matched_keywords": [
@@ -2647,7 +2647,7 @@
     "target_name": "Text Generation",
     "evidence_url": "https://www.futurepedia.io/tool/sobrief",
     "confidence": 0.78,
-    "extracted_at": "2026-08-19T08:10:50.203079Z",
+    "extracted_at": "2026-08-19T11:49:03.731871Z",
     "metadata": {
       "reason": "deterministic task keyword evidence",
       "matched_keywords": [
@@ -2663,7 +2663,7 @@
     "target_name": "Question Answering",
     "evidence_url": "https://www.futurepedia.io/tool/you",
     "confidence": 0.78,
-    "extracted_at": "2026-08-19T08:10:50.203125Z",
+    "extracted_at": "2026-08-19T11:49:03.731948Z",
     "metadata": {
       "reason": "deterministic task keyword evidence",
       "matched_keywords": [
@@ -2679,7 +2679,7 @@
     "target_name": "SalesforceAIResearch/self-improve-fragility",
     "evidence_url": "https://arxiv.org/abs/2608.18066v1",
     "confidence": 0.99,
-    "extracted_at": "2026-08-19T08:10:50.203223Z",
+    "extracted_at": "2026-08-19T11:49:03.733992Z",
     "metadata": {
       "reason": "paper.github_url explicitly matches GitHub repository"
     }
@@ -2692,7 +2692,7 @@
     "target_name": "cimeister/tokenizer-intrinsic-evals",
     "evidence_url": "https://arxiv.org/abs/2608.18062v1",
     "confidence": 0.99,
-    "extracted_at": "2026-08-19T08:10:50.203227Z",
+    "extracted_at": "2026-08-19T11:49:03.733998Z",
     "metadata": {
       "reason": "paper.github_url explicitly matches GitHub repository"
     }
@@ -2705,7 +2705,7 @@
     "target_name": "compai-lab",
     "evidence_url": "https://arxiv.org/abs/2608.18055v1",
     "confidence": 0.99,
-    "extracted_at": "2026-08-19T08:10:50.203229Z",
+    "extracted_at": "2026-08-19T11:49:03.734002Z",
     "metadata": {
       "reason": "paper.github_url explicitly matches GitHub repository"
     }
@@ -2718,7 +2718,7 @@
     "target_name": "JaviMaligno/code-world-models",
     "evidence_url": "https://arxiv.org/abs/2608.17956v1",
     "confidence": 0.99,
-    "extracted_at": "2026-08-19T08:10:50.203231Z",
+    "extracted_at": "2026-08-19T11:49:03.734005Z",
     "metadata": {
       "reason": "paper.github_url explicitly matches GitHub repository"
     }
@@ -2731,7 +2731,7 @@
     "target_name": "simonsays1980/rl-triton",
     "evidence_url": "https://arxiv.org/abs/2608.17641v1",
     "confidence": 0.99,
-    "extracted_at": "2026-08-19T08:10:50.203233Z",
+    "extracted_at": "2026-08-19T11:49:03.734008Z",
     "metadata": {
       "reason": "paper.github_url explicitly matches GitHub repository"
     }
@@ -2744,7 +2744,7 @@
     "target_name": "jackboyla/action-contrastive-jepa",
     "evidence_url": "https://arxiv.org/abs/2608.17542v1",
     "confidence": 0.99,
-    "extracted_at": "2026-08-19T08:10:50.203235Z",
+    "extracted_at": "2026-08-19T11:49:03.734012Z",
     "metadata": {
       "reason": "paper.github_url explicitly matches GitHub repository"
     }
@@ -2757,7 +2757,7 @@
     "target_name": "UoA-CARES/NSPER",
     "evidence_url": "https://arxiv.org/abs/2608.17373v1",
     "confidence": 0.99,
-    "extracted_at": "2026-08-19T08:10:50.203239Z",
+    "extracted_at": "2026-08-19T11:49:03.734018Z",
     "metadata": {
       "reason": "paper.github_url explicitly matches GitHub repository"
     }
@@ -2770,7 +2770,7 @@
     "target_name": "UoA-CARES/instant-episode-repetition",
     "evidence_url": "https://arxiv.org/abs/2608.17347v1",
     "confidence": 0.99,
-    "extracted_at": "2026-08-19T08:10:50.203241Z",
+    "extracted_at": "2026-08-19T11:49:03.734021Z",
     "metadata": {
       "reason": "paper.github_url explicitly matches GitHub repository"
     }
@@ -2783,7 +2783,7 @@
     "target_name": "hnu-vis/ITS-Bench",
     "evidence_url": "https://arxiv.org/abs/2608.17293v1",
     "confidence": 0.99,
-    "extracted_at": "2026-08-19T08:10:50.203243Z",
+    "extracted_at": "2026-08-19T11:49:03.734024Z",
     "metadata": {
       "reason": "paper.github_url explicitly matches GitHub repository"
     }
@@ -2796,7 +2796,7 @@
     "target_name": "hnu-vis/DNBNet",
     "evidence_url": "https://arxiv.org/abs/2608.17284v1",
     "confidence": 0.99,
-    "extracted_at": "2026-08-19T08:10:50.203245Z",
+    "extracted_at": "2026-08-19T11:49:03.734028Z",
     "metadata": {
       "reason": "paper.github_url explicitly matches GitHub repository"
     }
@@ -2809,7 +2809,7 @@
     "target_name": "xiangli980/Lymphocyte_Mimicry_Correction_via_Loki_OT",
     "evidence_url": "https://arxiv.org/abs/2608.17151v1",
     "confidence": 0.99,
-    "extracted_at": "2026-08-19T08:10:50.203248Z",
+    "extracted_at": "2026-08-19T11:49:03.734034Z",
     "metadata": {
       "reason": "paper.github_url explicitly matches GitHub repository"
     }
@@ -2822,7 +2822,7 @@
     "target_name": "konstantinosKokos/telos",
     "evidence_url": "https://arxiv.org/abs/2608.17087v1",
     "confidence": 0.99,
-    "extracted_at": "2026-08-19T08:10:50.203250Z",
+    "extracted_at": "2026-08-19T11:49:03.734037Z",
     "metadata": {
       "reason": "paper.github_url explicitly matches GitHub repository"
     }
@@ -2835,7 +2835,7 @@
     "target_name": "youweizhong/PANDA",
     "evidence_url": "https://arxiv.org/abs/2608.17070v1",
     "confidence": 0.99,
-    "extracted_at": "2026-08-19T08:10:50.203252Z",
+    "extracted_at": "2026-08-19T11:49:03.734040Z",
     "metadata": {
       "reason": "paper.github_url explicitly matches GitHub repository"
     }
@@ -2848,7 +2848,7 @@
     "target_name": "Sumitchongder/dew-p-qfl-unlearning",
     "evidence_url": "https://arxiv.org/abs/2608.17069v1",
     "confidence": 0.99,
-    "extracted_at": "2026-08-19T08:10:50.203254Z",
+    "extracted_at": "2026-08-19T11:49:03.734043Z",
     "metadata": {
       "reason": "paper.github_url explicitly matches GitHub repository"
     }
@@ -2861,7 +2861,7 @@
     "target_name": "BIG-S2/deepcnq",
     "evidence_url": "https://arxiv.org/abs/2608.16864v1",
     "confidence": 0.99,
-    "extracted_at": "2026-08-19T08:10:50.203256Z",
+    "extracted_at": "2026-08-19T11:49:03.734047Z",
     "metadata": {
       "reason": "paper.github_url explicitly matches GitHub repository"
     }
@@ -2874,7 +2874,7 @@
     "target_name": "weigertlab/routing-pyramids",
     "evidence_url": "https://arxiv.org/abs/2608.16810v1",
     "confidence": 0.99,
-    "extracted_at": "2026-08-19T08:10:50.203258Z",
+    "extracted_at": "2026-08-19T11:49:03.734050Z",
     "metadata": {
       "reason": "paper.github_url explicitly matches GitHub repository"
     }
@@ -2887,7 +2887,7 @@
     "target_name": "talellinson/hide-and-seek-icml2026",
     "evidence_url": "https://arxiv.org/abs/2608.16689v1",
     "confidence": 0.99,
-    "extracted_at": "2026-08-19T08:10:50.203260Z",
+    "extracted_at": "2026-08-19T11:49:03.734053Z",
     "metadata": {
       "reason": "paper.github_url explicitly matches GitHub repository"
     }
@@ -2900,7 +2900,7 @@
     "target_name": "healthylaife/paired-clinical-eval",
     "evidence_url": "https://arxiv.org/abs/2608.16643v1",
     "confidence": 0.99,
-    "extracted_at": "2026-08-19T08:10:50.203261Z",
+    "extracted_at": "2026-08-19T11:49:03.734056Z",
     "metadata": {
       "reason": "paper.github_url explicitly matches GitHub repository"
     }
@@ -2913,7 +2913,7 @@
     "target_name": "shapsider/PertMind",
     "evidence_url": "https://arxiv.org/abs/2608.16419v1",
     "confidence": 0.99,
-    "extracted_at": "2026-08-19T08:10:50.203263Z",
+    "extracted_at": "2026-08-19T11:49:03.734059Z",
     "metadata": {
       "reason": "paper.github_url explicitly matches GitHub repository"
     }
@@ -2926,7 +2926,7 @@
     "target_name": "surajyadav-research/SRTA",
     "evidence_url": "https://arxiv.org/abs/2608.16384v1",
     "confidence": 0.99,
-    "extracted_at": "2026-08-19T08:10:50.203265Z",
+    "extracted_at": "2026-08-19T11:49:03.734062Z",
     "metadata": {
       "reason": "paper.github_url explicitly matches GitHub repository"
     }
@@ -2939,7 +2939,7 @@
     "target_name": "an7123/Privacy-Study-Sparse-CI",
     "evidence_url": "https://arxiv.org/abs/2608.16236v1",
     "confidence": 0.99,
-    "extracted_at": "2026-08-19T08:10:50.203267Z",
+    "extracted_at": "2026-08-19T11:49:03.734065Z",
     "metadata": {
       "reason": "paper.github_url explicitly matches GitHub repository"
     }
@@ -2952,7 +2952,7 @@
     "target_name": "MengzhouLu/RetroMPA",
     "evidence_url": "https://arxiv.org/abs/2608.16111v1",
     "confidence": 0.99,
-    "extracted_at": "2026-08-19T08:10:50.203269Z",
+    "extracted_at": "2026-08-19T11:49:03.734070Z",
     "metadata": {
       "reason": "paper.github_url explicitly matches GitHub repository"
     }
@@ -2965,7 +2965,7 @@
     "target_name": "EnumaCaliber/BRIDGE",
     "evidence_url": "https://arxiv.org/abs/2608.16010v1",
     "confidence": 0.99,
-    "extracted_at": "2026-08-19T08:10:50.203271Z",
+    "extracted_at": "2026-08-19T11:49:03.734074Z",
     "metadata": {
       "reason": "paper.github_url explicitly matches GitHub repository"
     }
@@ -2978,7 +2978,7 @@
     "target_name": "rsdpyenugula/hybrid-labeling-training",
     "evidence_url": "https://arxiv.org/abs/2608.15975v1",
     "confidence": 0.99,
-    "extracted_at": "2026-08-19T08:10:50.203273Z",
+    "extracted_at": "2026-08-19T11:49:03.734078Z",
     "metadata": {
       "reason": "paper.github_url explicitly matches GitHub repository"
     }
@@ -2991,7 +2991,7 @@
     "target_name": "Picard1701ent/ProtoCP.git",
     "evidence_url": "https://arxiv.org/abs/2608.15768v1",
     "confidence": 0.99,
-    "extracted_at": "2026-08-19T08:10:50.203275Z",
+    "extracted_at": "2026-08-19T11:49:03.734081Z",
     "metadata": {
       "reason": "paper.github_url explicitly matches GitHub repository"
     }
@@ -3004,7 +3004,7 @@
     "target_name": "raws-labs/tinycast",
     "evidence_url": "https://arxiv.org/abs/2608.15767v1",
     "confidence": 0.99,
-    "extracted_at": "2026-08-19T08:10:50.203277Z",
+    "extracted_at": "2026-08-19T11:49:03.734084Z",
     "metadata": {
       "reason": "paper.github_url explicitly matches GitHub repository"
     }
@@ -3017,7 +3017,7 @@
     "target_name": "srikumar2050/hugiml-core",
     "evidence_url": "https://arxiv.org/abs/2608.15725v1",
     "confidence": 0.99,
-    "extracted_at": "2026-08-19T08:10:50.203278Z",
+    "extracted_at": "2026-08-19T11:49:03.734087Z",
     "metadata": {
       "reason": "paper.github_url explicitly matches GitHub repository"
     }
@@ -3030,7 +3030,779 @@
     "target_name": "Arnavvvkumar/deployment",
     "evidence_url": "https://arxiv.org/abs/2608.15693v1",
     "confidence": 0.99,
-    "extracted_at": "2026-08-19T08:10:50.203280Z",
+    "extracted_at": "2026-08-19T11:49:03.734091Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "d0e86e21-c968-5775-9e9f-764843800ee2",
+    "source_name": "CustomGPT.ai",
+    "relation": "SOLVES",
+    "target_id": "f8d0f7c2-2e35-51a2-9ecd-56edffa371f8",
+    "target_name": "Question Answering",
+    "evidence_url": "https://www.futurepedia.io/tool/customgpt",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T11:49:03.732669Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "question"
+      ]
+    }
+  },
+  {
+    "source_id": "7428d735-ca25-5a05-9ad3-202f2f009f91",
+    "source_name": "Stratup.ai",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/stratupai",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T11:49:03.732750Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "art"
+      ]
+    }
+  },
+  {
+    "source_id": "475a5d78-3c06-5b7b-a34f-744d6516b797",
+    "source_name": "Chatbase",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/chatbase",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T11:49:03.732811Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "chat"
+      ]
+    }
+  },
+  {
+    "source_id": "25b0cc8b-c575-54fc-a67c-5af5f240cbdb",
+    "source_name": "danny-avila/LibreChat",
+    "relation": "INTEGRATES_WITH",
+    "target_id": "7989c947-d799-5fb4-b272-f1db2fdc9334",
+    "target_name": "LangChain",
+    "evidence_url": "https://github.com/danny-avila/LibreChat",
+    "confidence": 0.9,
+    "extracted_at": "2026-08-19T11:49:03.718695Z",
+    "metadata": {
+      "reason": "tool.name explicitly present in MCP metadata"
+    }
+  },
+  {
+    "source_id": "c06fb8e4-4561-5ae8-97b1-22b85a5b38fb",
+    "source_name": "Aidelly",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/aidelly",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T11:49:03.733148Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "chat"
+      ]
+    }
+  },
+  {
+    "source_id": "4013c241-5b05-59ee-8dc6-3ff4dce0375d",
+    "source_name": "Dart",
+    "relation": "SOLVES",
+    "target_id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "target_name": "Image Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/dart",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T11:49:03.733551Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "art"
+      ]
+    }
+  },
+  {
+    "source_id": "5b8f84a6-75d9-5aa2-96fd-9a7f0e876b0f",
+    "source_name": "AgentX",
+    "relation": "SOLVES",
+    "target_id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "target_name": "Text Generation",
+    "evidence_url": "https://www.futurepedia.io/tool/agentx",
+    "confidence": 0.78,
+    "extracted_at": "2026-08-19T11:49:03.733825Z",
+    "metadata": {
+      "reason": "deterministic task keyword evidence",
+      "matched_keywords": [
+        "chat"
+      ]
+    }
+  },
+  {
+    "source_id": "c9d09475-787c-5390-a136-4e3f92ed3ed9",
+    "source_name": "HarmProfile: Characterizing Harmful Distributions in Frontier LLMs",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "f1a636e3e0b15095a80e986323df15de",
+    "target_name": "fresh-ma/HarmProfile",
+    "evidence_url": "https://paperswithcode.com/papers/2608.14577",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734403Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "6c3e2d0f-04a2-5837-8a61-3b7b238267ca",
+    "source_name": "SmolVLA: A Vision-Language-Action Model for Affordable and Efficient\n  Robotics",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "08b1b516a908520fa5659f7bf38325e8",
+    "target_name": "huggingface/lerobot",
+    "evidence_url": "https://paperswithcode.com/papers/2506.01844",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734407Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "24e0e4d6-a5ad-5bd1-b7b4-cced02de802f",
+    "source_name": "Advancing Open and Reproducible Relational Learning: RelArena-α, TabPFN-Rel and RPI",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "00b2c5b105925c31a6278c5102e6e85f",
+    "target_name": "PriorLabs/relarena",
+    "evidence_url": "https://paperswithcode.com/papers/2608.16319",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734410Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "1f9ecca3-ebfb-5312-bf67-81f27f7e60fd",
+    "source_name": "PyTorch Distributed: Experiences on Accelerating Data Parallel Training",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "c5a93da26d725023b6c86389bca069cb",
+    "target_name": "pytorch/pytorch",
+    "evidence_url": "https://paperswithcode.com/papers/2006.15704",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734413Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "2993f33b-21d1-57b4-8781-6d1a0be12534",
+    "source_name": "Soft Adaptive Policy Optimization",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "6969438880145b7883cb86705bfe5644",
+    "target_name": "modelscope/ms-swift",
+    "evidence_url": "https://paperswithcode.com/papers/2511.20347",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734417Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "08481b76-0779-5b39-ada1-af5d13f0a3cb",
+    "source_name": "LightRAG: Simple and Fast Retrieval-Augmented Generation",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "d9fb36a1bf4259ed86797813608ea9ba",
+    "target_name": "hkuds/lightrag",
+    "evidence_url": "https://paperswithcode.com/papers/2410.05779",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734420Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "5f42e3bc-9c6b-5f19-8640-45f065322b56",
+    "source_name": "Kimi K3: Open Frontier Intelligence",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "ea56dd7816b7570ebac83db32a79f09a",
+    "target_name": "MoonshotAI/Kimi-K3",
+    "evidence_url": "https://paperswithcode.com/papers/2607.24653",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734423Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "24fdf7e4-f4af-5ad4-b623-cd77b7d4dc1a",
+    "source_name": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "9a8c2613c332574bb11766cbba513a9d",
+    "target_name": "Yaxin9Luo/AutoDesign",
+    "evidence_url": "https://paperswithcode.com/papers/2608.13560",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734426Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "a8299ca1-0a64-50ff-9577-172a38aff56a",
+    "source_name": "PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "fd633139250b534bbce7931100d788b4",
+    "target_name": "kxding/PlayWorld",
+    "evidence_url": "https://paperswithcode.com/papers/2608.13552",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734430Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "54d44b29-2bb3-50af-83cd-024c3364154c",
+    "source_name": "Spark-to-Paper: End-to-End Research Paper Generation as a Composable Skill",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "bb3e828f3a485a28a5bbf8d472cde681",
+    "target_name": "Spark-To-Paper-Skills/spark-to-paper-skills",
+    "evidence_url": "https://paperswithcode.com/papers/2608.11924",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734433Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "a8f1d338-5b6f-5e81-9f6e-d01fa79a9e95",
+    "source_name": "Very Large-Scale Multi-Agent Simulation in AgentScope",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "99a7e507fa165a3b9693dc79d07ee998",
+    "target_name": "modelscope/agentscope",
+    "evidence_url": "https://paperswithcode.com/papers/2407.17789",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734436Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "8c95460b-14d2-50bb-8cf4-605253c8729e",
+    "source_name": "AgentScope 1.0: A Developer-Centric Framework for Building Agentic\n  Applications",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "f9e277c91fbc5a80b3c12dc00f03984c",
+    "target_name": "agentscope-ai/agentscope",
+    "evidence_url": "https://paperswithcode.com/papers/2508.16279",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734441Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "28a01316-f2e3-5a72-be9d-d3bc7ad126b2",
+    "source_name": "LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "b81bf9eeaa8a5237aa23202b343063f0",
+    "target_name": "hiyouga/LLaMA-Factory",
+    "evidence_url": "https://paperswithcode.com/papers/2403.13372",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734444Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "815e8ecd-478b-5c11-9381-a2c707d4da18",
+    "source_name": "DataFlow: An LLM-Driven Framework for Unified Data Preparation and Workflow Automation in the Era of Data-Centric AI",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "ac71d781734b5626909bdeaa15e67f25",
+    "target_name": "OpenDCAI/DataFlow",
+    "evidence_url": "https://paperswithcode.com/papers/2512.16676",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734447Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "9fb48192-f4cc-5ab3-8f00-822ea3fa8ab3",
+    "source_name": "ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "539e110529455d8485a4bb892ceaa605",
+    "target_name": "amap-cvlab/ABot-World",
+    "evidence_url": "https://paperswithcode.com/papers/2607.19191",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734450Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "a818f1e7-b8b4-56fa-98ce-5299ecbde8e8",
+    "source_name": "LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "8fd22f761ac553c1a3ea969472272b61",
+    "target_name": "AMAP-ML/LongHorizon-Harness",
+    "evidence_url": "https://paperswithcode.com/papers/2608.01964",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734453Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "24c9d508-f8bd-568c-a328-21d9056664ef",
+    "source_name": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "157da35e184053479c8e94ed3b5f2efd",
+    "target_name": "microsoft/SkillOpt",
+    "evidence_url": "https://paperswithcode.com/papers/2605.23904",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734458Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "e0b2b649-084e-5097-b006-34f4adafa41d",
+    "source_name": "MonkeyOCRv2: A Visual-Text Foundation Model for Document AI",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "c2256081d82156ce942be37d53d0dede",
+    "target_name": "Yuliang-Liu/MonkeyOCRv2",
+    "evidence_url": "https://paperswithcode.com/papers/2607.11562",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734462Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "892a98c5-6a57-50c1-8116-44d7dafaf4f7",
+    "source_name": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "8785e272c69951d88157e20125ff885b",
+    "target_name": "ultralytics/ultralytics",
+    "evidence_url": "https://paperswithcode.com/papers/2606.03748",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734465Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "52edf3f2-017c-58ed-a9d4-30a55c6a4b39",
+    "source_name": "SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "e53930e207ff5eba9e4e4487aa14c15e",
+    "target_name": "OpenSenseNova/SenseNova-U1",
+    "evidence_url": "https://paperswithcode.com/papers/2605.12500",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734470Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "761d2582-e392-51f5-a5a7-cdee52afb9ae",
+    "source_name": "Zep: A Temporal Knowledge Graph Architecture for Agent Memory",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "32220c45d68e515f8fe302041d101ad3",
+    "target_name": "getzep/graphiti",
+    "evidence_url": "https://paperswithcode.com/papers/2501.13956",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734473Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "668259f2-af66-56cc-b17f-4925a6cbe429",
+    "source_name": "EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "25b7ecb68aa354abb4c70330a9d7fbc1",
+    "target_name": "EverMind-AI/EverMemOS",
+    "evidence_url": "https://paperswithcode.com/papers/2601.02163",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734476Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "1d8744b2-c8e3-5cb0-908c-e2953b348403",
+    "source_name": "Continuous Audio Language Models",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "ec02ce6762ea51aaab1b7e4f20935bdc",
+    "target_name": "kyutai-labs/pocket-tts",
+    "evidence_url": "https://paperswithcode.com/papers/2509.06926",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734479Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "ada8b6fb-ce68-5136-b552-4eb1565d7767",
+    "source_name": "M^{2}SNet: Multi-scale in Multi-scale Subtraction Network for Medical Image Segmentation",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "809e56058798575f86f9291aaca37c06",
+    "target_name": "Xiaoqi-Zhao-DLUT/MSNet",
+    "evidence_url": "https://paperswithcode.com/papers/2303.10894",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734482Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "63f59efd-05dc-5103-8c64-0736800e7d62",
+    "source_name": "ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "874adcfad72a5f4bae5652c073222190",
+    "target_name": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "evidence_url": "https://paperswithcode.com/papers/2605.03042",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734485Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "4337d2c8-a936-55d2-8145-7fd2d63bb42c",
+    "source_name": "HuggingFace's Transformers: State-of-the-art Natural Language Processing",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "d058f2a4-b5d5-5f2a-b845-583cfff9a267",
+    "target_name": "huggingface/transformers",
+    "evidence_url": "https://paperswithcode.com/papers/1910.03771",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734489Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "2257aaf2-52e9-5591-93f4-233931653882",
+    "source_name": "VibeWorlding: Can Multimodal Agents Construct 3D Open Worlds End-to-End?",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "08559f391fa9535db8c45b181d2801ff",
+    "target_name": "usail-hkust/VibeWorlding-Gym",
+    "evidence_url": "https://paperswithcode.com/papers/2608.15265",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734492Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "592b10ba-f491-5369-8dc0-0a86626e35a0",
+    "source_name": "Multi-module GRPO: Composing Policy Gradients and Prompt Optimization\n  for Language Model Programs",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "76d909dc3f785bceae6fecad96ceda10",
+    "target_name": "stanfordnlp/dspy",
+    "evidence_url": "https://paperswithcode.com/papers/2508.04660",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734495Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "f787ae8c-f16f-5eed-89bc-9d29d1ab6d7b",
+    "source_name": "Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "e9ba62f790995e79b59c782c1883f7e9",
+    "target_name": "24029100313/RA-Bench",
+    "evidence_url": "https://paperswithcode.com/papers/2608.14391",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734498Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "4ee854cf-c5e7-515f-bff3-886118d25d6c",
+    "source_name": "LTX-2: Efficient Joint Audio-Visual Foundation Model",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "dbcb13fe682a5dabba6c309e9733d87f",
+    "target_name": "Lightricks/LTX-2",
+    "evidence_url": "https://paperswithcode.com/papers/2601.03233",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734501Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "907f8d7e-7527-5ad8-81c8-69fff4d66fbf",
+    "source_name": "VibeVoice Technical Report",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "819843094c205e0caf44bfb51ce6b607",
+    "target_name": "microsoft/VibeVoice",
+    "evidence_url": "https://paperswithcode.com/papers/2508.19205",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734504Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "5b59aa6c-1ec7-551d-a705-70abeaf27598",
+    "source_name": "Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "445fe71eb5ed533891a786444f3ea345",
+    "target_name": "Tencent/AI-Infra-Guard",
+    "evidence_url": "https://paperswithcode.com/papers/2606.31227",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734507Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "49469df3-7330-561c-a21b-129f59d397e6",
+    "source_name": "PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "739a5ff27fb15889bdcbe89da6b829c0",
+    "target_name": "PaddlePaddle/PaddleOCR",
+    "evidence_url": "https://paperswithcode.com/papers/2606.03264",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734510Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "0b72cbb3-d388-5fbc-bb68-672f5e3ecb50",
+    "source_name": "UI-Mate: Advancing Open-Weight Foundation GUI Agents with In-Context Demonstrations",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "812847f6b2ec5ce78c5fc24011ff9853",
+    "target_name": "Tencent/UI-Mate",
+    "evidence_url": "https://paperswithcode.com/papers/2608.15930",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734514Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "cd04cbd0-87b5-5b7a-ac67-f516cccf5060",
+    "source_name": "MatrAIx: Simulating the World with 8.3 Billion Persona Agents",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "f11c785db5b650899c88a52e3291c440",
+    "target_name": "MatrAIx-ai/MatrAIx-Persona-8B",
+    "evidence_url": "https://paperswithcode.com/papers/2608.04205",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734517Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "2c14f903-0308-58b1-948a-b4d40bba7800",
+    "source_name": "IndexTTS: An Industrial-Level Controllable and Efficient Zero-Shot\n  Text-To-Speech System",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "1733ea994134517b9c9e391ed07ad8af",
+    "target_name": "index-tts/index-tts",
+    "evidence_url": "https://paperswithcode.com/papers/2502.05512",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734520Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "28fc3f75-1331-512b-895f-6e806723c769",
+    "source_name": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "50b6f04c-54eb-59b1-942d-80ab4c8b2e6e",
+    "target_name": "mem0ai/mem0",
+    "evidence_url": "https://paperswithcode.com/papers/2504.19413",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734523Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "62c21d3e-82bd-508f-9c63-b9c6676197ce",
+    "source_name": "MinerU2.5: A Decoupled Vision-Language Model for Efficient\n  High-Resolution Document Parsing",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "800ee3660ff15ebb95965162340f0092",
+    "target_name": "opendatalab/MinerU",
+    "evidence_url": "https://paperswithcode.com/papers/2509.22186",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734526Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "b0109239-84e6-51ab-8083-5d85634508c5",
+    "source_name": "StateM: Reaching 95.3% Raw Accuracy, or a \\$15 Frontier Run, on Terminal-Bench 2.1 via Harness Scaling",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "8a827e5c96265fcd82e431651d17ec4c",
+    "target_name": "henryqin1997/statem",
+    "evidence_url": "https://paperswithcode.com/papers/2608.15089",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734529Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "033f4116-929a-51c1-9a97-833f5bc0ee3c",
+    "source_name": "JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "1198e50302b25723b5e23564dbd878c3",
+    "target_name": "jd-opensource/JoyAI-Video-Edit",
+    "evidence_url": "https://paperswithcode.com/papers/2608.03974",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734533Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "c67baa1e-da95-5ebe-8b19-0a0644f18d27",
+    "source_name": "Efficient Memory Management for Large Language Model Serving with\n  PagedAttention",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "b11eff097021517ebf98527b703b8e80",
+    "target_name": "vllm-project/vllm",
+    "evidence_url": "https://paperswithcode.com/papers/2309.06180",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734536Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "11616835-95a6-5047-8f8d-475209088df3",
+    "source_name": "SmolDocling: An ultra-compact vision-language model for end-to-end\n  multi-modal document conversion",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "76d0965571535cbf9b60989dbfb5abcd",
+    "target_name": "docling-project/docling",
+    "evidence_url": "https://paperswithcode.com/papers/2503.11576",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734539Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "376ad49d-3aa1-51d3-9fe2-6fc0316e1ae0",
+    "source_name": "Unlimited OCR Works",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "af26186c32fb5865aa8d9de167a87d9a",
+    "target_name": "baidu/Unlimited-OCR",
+    "evidence_url": "https://paperswithcode.com/papers/2606.23050",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734542Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "2a454774-96a1-5c02-badc-53d8c27d6121",
+    "source_name": "OpenDevin: An Open Platform for AI Software Developers as Generalist\n  Agents",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "200081e1dbbb5008a5ffcd99dea6d00e",
+    "target_name": "opendevin/opendevin",
+    "evidence_url": "https://paperswithcode.com/papers/2407.16741",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734545Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "89d85b6a-dd31-5a12-b201-1763e347f855",
+    "source_name": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "7baba74c44df586ebce5ea44d0471478",
+    "target_name": "shiyu-coder/Kronos",
+    "evidence_url": "https://paperswithcode.com/papers/2508.02739",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734547Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "86fe3619-2696-536b-a3e0-c4f2e24179b7",
+    "source_name": "A decoder-only foundation model for time-series forecasting",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "440227f878805072be6ee62c1a0e525a",
+    "target_name": "google-research/timesfm",
+    "evidence_url": "https://paperswithcode.com/papers/2310.10688",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734551Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "ff3170b4-9e15-511e-9ae9-b1a1d3fb1526",
+    "source_name": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "ad19aa3e2b92517987cda0048aab8e09",
+    "target_name": "tauricresearch/tradingagents",
+    "evidence_url": "https://paperswithcode.com/papers/2412.20138",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734554Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "3d87eb4f-77a4-57d7-b034-54a7314eb446",
+    "source_name": "HarnessEval-W: Agentifying the Evaluation of Visual Worlds",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "11ff25fd9c9a5c4e9474142b3ec0b925",
+    "target_name": "MirroS-Lab/HarnessEval-W",
+    "evidence_url": "https://paperswithcode.com/papers/2608.16859",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734557Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "0247d902-fcbb-5c28-86ca-d9f45f168f55",
+    "source_name": "COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "18dab6d472295a9c9bf924fd2157cc96",
+    "target_name": "titanwings/colleague-skill",
+    "evidence_url": "https://paperswithcode.com/papers/2605.31264",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734560Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "35ed235f-3e4d-5492-832c-903bb5555768",
+    "source_name": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "289449c72d135b9cab3df77543c980fb",
+    "target_name": "llm-as-a-verifier/llm-as-a-verifier",
+    "evidence_url": "https://paperswithcode.com/papers/2607.05391",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734564Z",
+    "metadata": {
+      "reason": "paper.github_url explicitly matches GitHub repository"
+    }
+  },
+  {
+    "source_id": "4a71c0d4-66b8-5fd9-9ded-66700a3e21e2",
+    "source_name": "BDH-CQ: In-Context Learning with Recurrent Latent Reasoning",
+    "relation": "HAS_REPOSITORY",
+    "target_id": "2413ecc9c38854f196f0d521119b3867",
+    "target_name": "pathwaycom/arc-task-gen",
+    "evidence_url": "https://paperswithcode.com/papers/2608.09888",
+    "confidence": 0.99,
+    "extracted_at": "2026-08-19T11:49:03.734567Z",
     "metadata": {
       "reason": "paper.github_url explicitly matches GitHub repository"
     }

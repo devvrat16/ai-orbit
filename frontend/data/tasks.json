@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1dd720fc-6b46-5649-8a46-952428f0bc38",
+    "entity_type": "TASK",
+    "name": "Text Generation",
+    "description": "Generate and transform text",
+    "url": "https://huggingface.co/tasks/text-generation",
+    "categories": [
+      "AI Task"
+    ],
+    "source": {
+      "name": "Hugging Face Tasks",
+      "url": "https://huggingface.co/tasks/text-generation"
+    },
+    "collected_at": "2026-08-18T20:36:41.240141"
+  },
+  {
+    "id": "ae10bf4b-abb7-5b34-8bab-996ac819d552",
+    "entity_type": "TASK",
+    "name": "Image Generation",
+    "description": "Generate images from prompts",
+    "url": "https://huggingface.co/tasks/text-to-image",
+    "categories": [
+      "AI Task"
+    ],
+    "source": {
+      "name": "Hugging Face Tasks",
+      "url": "https://huggingface.co/tasks/text-to-image"
+    },
+    "collected_at": "2026-08-18T20:36:41.240159"
+  },
+  {
+    "id": "762e76cb-d5e8-5014-b8df-36247e5c69ec",
+    "entity_type": "TASK",
+    "name": "Speech Recognition",
+    "description": "Convert speech to text",
+    "url": "https://huggingface.co/tasks/automatic-speech-recognition",
+    "categories": [
+      "AI Task"
+    ],
+    "source": {
+      "name": "Hugging Face Tasks",
+      "url": "https://huggingface.co/tasks/automatic-speech-recognition"
+    },
+    "collected_at": "2026-08-18T20:36:41.240169"
+  },
+  {
+    "id": "b38a0012-0181-55ae-b3f8-e630191b4693",
+    "entity_type": "TASK",
+    "name": "Text Classification",
+    "description": "Classify and label text",
+    "url": "https://huggingface.co/tasks/text-classification",
+    "categories": [
+      "AI Task"
+    ],
+    "source": {
+      "name": "Hugging Face Tasks",
+      "url": "https://huggingface.co/tasks/text-classification"
+    },
+    "collected_at": "2026-08-18T20:36:41.240176"
+  },
+  {
+    "id": "e00c30f3-fd83-5431-9a71-884ebdc53fca",
+    "entity_type": "TASK",
+    "name": "Object Detection",
+    "description": "Detect objects in images",
+    "url": "https://huggingface.co/tasks/object-detection",
+    "categories": [
+      "AI Task"
+    ],
+    "source": {
+      "name": "Hugging Face Tasks",
+      "url": "https://huggingface.co/tasks/object-detection"
+    },
+    "collected_at": "2026-08-18T20:36:41.240183"
+  },
+  {
+    "id": "f8d0f7c2-2e35-51a2-9ecd-56edffa371f8",
+    "entity_type": "TASK",
+    "name": "Question Answering",
+    "description": "Answer questions from context",
+    "url": "https://huggingface.co/tasks/question-answering",
+    "categories": [
+      "AI Task"
+    ],
+    "source": {
+      "name": "Hugging Face Tasks",
+      "url": "https://huggingface.co/tasks/question-answering"
+    },
+    "collected_at": "2026-08-18T20:36:41.240190"
+  },
+  {
+    "id": "2a1e5814-d4dd-5b0b-9ce2-099f7e8b29c1",
+    "entity_type": "TASK",
+    "name": "Embeddings",
+    "description": "Create vector representations",
+    "url": "https://huggingface.co/tasks/feature-extraction",
+    "categories": [
+      "AI Task"
+    ],
+    "source": {
+      "name": "Hugging Face Tasks",
+      "url": "https://huggingface.co/tasks/feature-extraction"
+    },
+    "collected_at": "2026-08-18T20:36:41.240196"
+  },
+  {
+    "id": "6ed9263a-e207-5344-bc02-684f9dd2cdbf",
+    "entity_type": "TASK",
+    "name": "Translation",
+    "description": "Translate between languages",
+    "url": "https://huggingface.co/tasks/translation",
+    "categories": [
+      "AI Task"
+    ],
+    "source": {
+      "name": "Hugging Face Tasks",
+      "url": "https://huggingface.co/tasks/translation"
+    },
+    "collected_at": "2026-08-18T20:36:41.240203"
+  }
+]

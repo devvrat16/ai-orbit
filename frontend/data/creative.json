@@ -1,0 +1,362 @@
+[
+  {
+    "id": "9c0d483e-56fc-5787-b01a-557d85ecbe73",
+    "entity_type": "CREATIVE",
+    "name": "Adobe Firefly",
+    "description": "Transform text into vibrant images and designs, boosting creativity effortlessly.",
+    "url": "https://www.futurepedia.io/tool/adobe-firefly",
+    "categories": [
+      "image generators"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/adobe-firefly"
+    },
+    "collected_at": "2026-08-12T13:08:58.931914+00:00",
+    "startup_name": "Adobe Firefly",
+    "pricing_model": "PAID",
+    "catalog_view": "Creative"
+  },
+  {
+    "id": "72bb3689-ece0-58e9-83c5-7a7e0a9b97db",
+    "entity_type": "CREATIVE",
+    "name": "Leonardo AI",
+    "description": "Generate stunning, customizable artwork with AI.",
+    "url": "https://www.futurepedia.io/tool/leonardoai",
+    "categories": [
+      "3D"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/leonardoai"
+    },
+    "collected_at": "2026-08-12T13:10:09.014173+00:00",
+    "startup_name": "Leonardo AI",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Creative"
+  },
+  {
+    "id": "f34ca542-af2e-59c1-8e31-15825f65abd8",
+    "entity_type": "CREATIVE",
+    "name": "Wepik",
+    "description": "Revolutionize design: AI-powered, versatile, user-friendly, for all skill levels.",
+    "url": "https://www.futurepedia.io/tool/wepik",
+    "categories": [
+      "image generators"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/wepik"
+    },
+    "collected_at": "2026-08-12T13:09:15.260205+00:00",
+    "startup_name": "Wepik",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Creative"
+  },
+  {
+    "id": "a63bbd88-f1b4-5084-8011-0aafb8dbe8e9",
+    "entity_type": "CREATIVE",
+    "name": "Kira",
+    "description": "Create stunning designs with AI-enhanced tools.",
+    "url": "https://www.futurepedia.io/tool/kira",
+    "categories": [
+      "image editing"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/kira"
+    },
+    "collected_at": "2026-08-12T13:09:12.296621+00:00",
+    "startup_name": "Kira",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Creative"
+  },
+  {
+    "id": "f28199aa-3143-5f5e-979d-b7f4a216a41c",
+    "entity_type": "CREATIVE",
+    "name": "Pixlr: AI-Powered Editor",
+    "description": "Unleash creativity with AI-enhanced photo editing and design, anywhere, free.",
+    "url": "https://www.futurepedia.io/tool/pixlr",
+    "categories": [
+      "image editing"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/pixlr"
+    },
+    "collected_at": "2026-08-12T13:09:12.295948+00:00",
+    "startup_name": "Pixlr: AI-Powered Editor",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Creative"
+  },
+  {
+    "id": "5b4f2983-c89b-5db0-9cee-c744c6049666",
+    "entity_type": "CREATIVE",
+    "name": "SoulCanvas",
+    "description": "Create unique art with AI-driven designs.",
+    "url": "https://www.futurepedia.io/tool/soulcanvas",
+    "categories": [
+      "image generators"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/soulcanvas"
+    },
+    "collected_at": "2026-08-12T13:09:10.185902+00:00",
+    "startup_name": "SoulCanvas",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Creative"
+  },
+  {
+    "id": "36e5bd62-cf4d-5dd6-9ddd-716ada416faf",
+    "entity_type": "CREATIVE",
+    "name": "Adobe Photoshop",
+    "description": "Master image editing, AI, 3D design, and more.",
+    "url": "https://www.futurepedia.io/tool/adobe-photoshop",
+    "categories": [
+      "image editing"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/adobe-photoshop"
+    },
+    "collected_at": "2026-08-12T13:09:10.185614+00:00",
+    "startup_name": "Adobe Photoshop",
+    "pricing_model": "PAID",
+    "catalog_view": "Creative"
+  },
+  {
+    "id": "a9c0d227-baca-5b8c-ba4b-2187808cd5d8",
+    "entity_type": "CREATIVE",
+    "name": "Idesigns",
+    "description": "Unleash creativity with AI-driven design automation, customization, and seamless editing.",
+    "url": "https://www.futurepedia.io/tool/idesigns",
+    "categories": [
+      "design generators"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/idesigns"
+    },
+    "collected_at": "2026-08-12T13:09:06.397375+00:00",
+    "startup_name": "Idesigns",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Creative"
+  },
+  {
+    "id": "6e6587f0-d7dd-5edc-90c6-f15cbc962485",
+    "entity_type": "CREATIVE",
+    "name": "CoverDesignAI",
+    "description": "AI-powered tool for effortless, personalized book cover design.",
+    "url": "https://www.futurepedia.io/tool/coverdesignai",
+    "categories": [
+      "design generators"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/coverdesignai"
+    },
+    "collected_at": "2026-08-12T13:09:03.914712+00:00",
+    "startup_name": "CoverDesignAI",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Creative"
+  },
+  {
+    "id": "88126714-a792-5a19-8091-6cbf9b4985ac",
+    "entity_type": "CREATIVE",
+    "name": "ArchitectGPT",
+    "description": "AI-driven tool revolutionizes home design with photorealistic visuals.",
+    "url": "https://www.futurepedia.io/tool/architectgpt",
+    "categories": [
+      "design generators"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/architectgpt"
+    },
+    "collected_at": "2026-08-12T13:09:01.806026+00:00",
+    "startup_name": "ArchitectGPT",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Creative"
+  },
+  {
+    "id": "2efd2ebf-2459-5210-b753-8e947ac7120c",
+    "entity_type": "CREATIVE",
+    "name": "Stylar",
+    "description": "Revolutionize design with AI-powered editing, intuitive controls, and high-res outputs.",
+    "url": "https://www.futurepedia.io/tool/stylar",
+    "categories": [
+      "design generators"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/stylar"
+    },
+    "collected_at": "2026-08-12T13:09:01.805739+00:00",
+    "startup_name": "Stylar",
+    "pricing_model": "FREE",
+    "catalog_view": "Creative"
+  },
+  {
+    "id": "b0999725-14ae-518f-aa77-fe77f28e5abe",
+    "entity_type": "CREATIVE",
+    "name": "Wondershare VirtuLook",
+    "description": "Designed to enhance product visuals by seamlessly fitting products into saleable backgrounds.",
+    "url": "https://www.futurepedia.io/tool/wondershare-virtulook",
+    "categories": [
+      "image generators"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/wondershare-virtulook"
+    },
+    "collected_at": "2026-08-12T13:09:01.804857+00:00",
+    "startup_name": "Wondershare VirtuLook",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Creative"
+  },
+  {
+    "id": "e40015d9-d270-5672-9428-d1ed3e89cb9d",
+    "entity_type": "CREATIVE",
+    "name": "Meshcapade",
+    "description": "Revolutionize digital human creation and animation with intuitive, lifelike results.",
+    "url": "https://www.futurepedia.io/tool/meshcapade",
+    "categories": [
+      "video generators"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/meshcapade"
+    },
+    "collected_at": "2026-08-12T13:10:27.149543+00:00",
+    "startup_name": "Meshcapade",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Creative"
+  },
+  {
+    "id": "68ad3c53-3d3b-5084-b3ef-7b8058746b3e",
+    "entity_type": "CREATIVE",
+    "name": "Rokoko Video",
+    "description": "Transform video to 3D animations easily with AI-driven mocap technology.",
+    "url": "https://www.futurepedia.io/tool/rokoko-video",
+    "categories": [
+      "video generators"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/rokoko-video"
+    },
+    "collected_at": "2026-08-12T13:10:18.545882+00:00",
+    "startup_name": "Rokoko Video",
+    "pricing_model": null,
+    "catalog_view": "Creative"
+  },
+  {
+    "id": "8169d4d1-2bd9-5e7b-9884-4b4e57c70aab",
+    "entity_type": "CREATIVE",
+    "name": "Creative Reality Studio (D-ID)",
+    "description": "Animate and personalize digital content with AI-driven avatars and multilingual capabilities.",
+    "url": "https://www.futurepedia.io/tool/creative-reality-studio-d-id",
+    "categories": [
+      "video generators"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/creative-reality-studio-d-id"
+    },
+    "collected_at": "2026-08-12T13:10:06.899896+00:00",
+    "startup_name": "Creative Reality Studio (D-ID)",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Creative"
+  },
+  {
+    "id": "af00156d-e65f-5b17-81d1-3609292a8b2f",
+    "entity_type": "CREATIVE",
+    "name": "DALL·E 3",
+    "description": "Generate stunning images from text with advanced AI technology.",
+    "url": "https://www.futurepedia.io/tool/dall-e-3",
+    "categories": [
+      "text to image"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/dall-e-3"
+    },
+    "collected_at": "2026-08-12T13:09:06.395161+00:00",
+    "startup_name": "DALL·E 3",
+    "pricing_model": null,
+    "catalog_view": "Creative"
+  },
+  {
+    "id": "3855df73-d3f3-5b36-a016-95361488b0ab",
+    "entity_type": "CREATIVE",
+    "name": "vidflux.ai",
+    "description": "Create short videos from text, images, clips.",
+    "url": "https://www.futurepedia.io/tool/vidflux-ai",
+    "categories": [
+      "text to video"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/vidflux-ai"
+    },
+    "collected_at": "2026-08-12T13:10:27.151079+00:00",
+    "startup_name": "vidflux.ai",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Creative"
+  },
+  {
+    "id": "827c6175-d457-5d9f-a2fb-043f8fd5933e",
+    "entity_type": "CREATIVE",
+    "name": "Vidu AI",
+    "description": "Transform text and images into stunning videos.",
+    "url": "https://www.futurepedia.io/tool/vidu-ai",
+    "categories": [
+      "text to video"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/vidu-ai"
+    },
+    "collected_at": "2026-08-12T13:10:27.150025+00:00",
+    "startup_name": "Vidu AI",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Creative"
+  },
+  {
+    "id": "efc5c381-f57f-583f-8861-0e03431cedb5",
+    "entity_type": "CREATIVE",
+    "name": "Dreamlux",
+    "description": "Create fast, watermark-free videos from text and images.",
+    "url": "https://www.futurepedia.io/tool/dreamlux",
+    "categories": [
+      "text to video"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/dreamlux"
+    },
+    "collected_at": "2026-08-12T13:10:24.023282+00:00",
+    "startup_name": "Dreamlux",
+    "pricing_model": "FREEMIUM",
+    "catalog_view": "Creative"
+  },
+  {
+    "id": "50757ed0-5667-5201-a24c-8705cf47f26b",
+    "entity_type": "CREATIVE",
+    "name": "Magnific AI Video Generator",
+    "description": "Create punchy 4K clips from text or images.",
+    "url": "https://www.futurepedia.io/tool/magnific-ai-video-generator",
+    "categories": [
+      "text to video"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/magnific-ai-video-generator"
+    },
+    "collected_at": "2026-08-12T13:10:24.018687+00:00",
+    "startup_name": "Magnific AI Video Generator",
+    "pricing_model": "PAID",
+    "catalog_view": "Creative"
+  }
+]

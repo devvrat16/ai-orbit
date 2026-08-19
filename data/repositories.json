@@ -7586,5 +7586,869 @@
     "stars": null,
     "primary_language": null,
     "last_updated": null
+  },
+  {
+    "id": "f1a636e3e0b15095a80e986323df15de",
+    "entity_type": "REPOSITORY",
+    "name": "fresh-ma/HarmProfile",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/fresh-ma/HarmProfile",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/fresh-ma/HarmProfile"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "08b1b516a908520fa5659f7bf38325e8",
+    "entity_type": "REPOSITORY",
+    "name": "huggingface/lerobot",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/huggingface/lerobot",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/huggingface/lerobot"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "00b2c5b105925c31a6278c5102e6e85f",
+    "entity_type": "REPOSITORY",
+    "name": "PriorLabs/relarena",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/PriorLabs/relarena",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/PriorLabs/relarena"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "c5a93da26d725023b6c86389bca069cb",
+    "entity_type": "REPOSITORY",
+    "name": "pytorch/pytorch",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/pytorch/pytorch",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/pytorch/pytorch"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "6969438880145b7883cb86705bfe5644",
+    "entity_type": "REPOSITORY",
+    "name": "modelscope/ms-swift",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/modelscope/ms-swift",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/modelscope/ms-swift"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "d9fb36a1bf4259ed86797813608ea9ba",
+    "entity_type": "REPOSITORY",
+    "name": "hkuds/lightrag",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/hkuds/lightrag",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/hkuds/lightrag"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "ea56dd7816b7570ebac83db32a79f09a",
+    "entity_type": "REPOSITORY",
+    "name": "MoonshotAI/Kimi-K3",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/MoonshotAI/Kimi-K3",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/MoonshotAI/Kimi-K3"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "9a8c2613c332574bb11766cbba513a9d",
+    "entity_type": "REPOSITORY",
+    "name": "Yaxin9Luo/AutoDesign",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/Yaxin9Luo/AutoDesign",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/Yaxin9Luo/AutoDesign"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "fd633139250b534bbce7931100d788b4",
+    "entity_type": "REPOSITORY",
+    "name": "kxding/PlayWorld",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/kxding/PlayWorld",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/kxding/PlayWorld"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "bb3e828f3a485a28a5bbf8d472cde681",
+    "entity_type": "REPOSITORY",
+    "name": "Spark-To-Paper-Skills/spark-to-paper-skills",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/Spark-To-Paper-Skills/spark-to-paper-skills",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/Spark-To-Paper-Skills/spark-to-paper-skills"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "99a7e507fa165a3b9693dc79d07ee998",
+    "entity_type": "REPOSITORY",
+    "name": "modelscope/agentscope",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/modelscope/agentscope",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/modelscope/agentscope"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "f9e277c91fbc5a80b3c12dc00f03984c",
+    "entity_type": "REPOSITORY",
+    "name": "agentscope-ai/agentscope",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/agentscope-ai/agentscope",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/agentscope-ai/agentscope"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "b81bf9eeaa8a5237aa23202b343063f0",
+    "entity_type": "REPOSITORY",
+    "name": "hiyouga/LLaMA-Factory",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/hiyouga/LLaMA-Factory",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/hiyouga/LLaMA-Factory"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "ac71d781734b5626909bdeaa15e67f25",
+    "entity_type": "REPOSITORY",
+    "name": "OpenDCAI/DataFlow",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/OpenDCAI/DataFlow",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/OpenDCAI/DataFlow"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "539e110529455d8485a4bb892ceaa605",
+    "entity_type": "REPOSITORY",
+    "name": "amap-cvlab/ABot-World",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/amap-cvlab/ABot-World",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/amap-cvlab/ABot-World"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "8fd22f761ac553c1a3ea969472272b61",
+    "entity_type": "REPOSITORY",
+    "name": "AMAP-ML/LongHorizon-Harness",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/AMAP-ML/LongHorizon-Harness"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "157da35e184053479c8e94ed3b5f2efd",
+    "entity_type": "REPOSITORY",
+    "name": "microsoft/SkillOpt",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/microsoft/SkillOpt",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/microsoft/SkillOpt"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "c2256081d82156ce942be37d53d0dede",
+    "entity_type": "REPOSITORY",
+    "name": "Yuliang-Liu/MonkeyOCRv2",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/Yuliang-Liu/MonkeyOCRv2",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/Yuliang-Liu/MonkeyOCRv2"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "8785e272c69951d88157e20125ff885b",
+    "entity_type": "REPOSITORY",
+    "name": "ultralytics/ultralytics",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/ultralytics/ultralytics",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/ultralytics/ultralytics"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "e53930e207ff5eba9e4e4487aa14c15e",
+    "entity_type": "REPOSITORY",
+    "name": "OpenSenseNova/SenseNova-U1",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/OpenSenseNova/SenseNova-U1",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/OpenSenseNova/SenseNova-U1"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "32220c45d68e515f8fe302041d101ad3",
+    "entity_type": "REPOSITORY",
+    "name": "getzep/graphiti",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/getzep/graphiti",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/getzep/graphiti"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "25b7ecb68aa354abb4c70330a9d7fbc1",
+    "entity_type": "REPOSITORY",
+    "name": "EverMind-AI/EverMemOS",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/EverMind-AI/EverMemOS",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/EverMind-AI/EverMemOS"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "ec02ce6762ea51aaab1b7e4f20935bdc",
+    "entity_type": "REPOSITORY",
+    "name": "kyutai-labs/pocket-tts",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/kyutai-labs/pocket-tts",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/kyutai-labs/pocket-tts"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "809e56058798575f86f9291aaca37c06",
+    "entity_type": "REPOSITORY",
+    "name": "Xiaoqi-Zhao-DLUT/MSNet",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/Xiaoqi-Zhao-DLUT/MSNet",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/Xiaoqi-Zhao-DLUT/MSNet"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "874adcfad72a5f4bae5652c073222190",
+    "entity_type": "REPOSITORY",
+    "name": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "08559f391fa9535db8c45b181d2801ff",
+    "entity_type": "REPOSITORY",
+    "name": "usail-hkust/VibeWorlding-Gym",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/usail-hkust/VibeWorlding-Gym",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/usail-hkust/VibeWorlding-Gym"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "76d909dc3f785bceae6fecad96ceda10",
+    "entity_type": "REPOSITORY",
+    "name": "stanfordnlp/dspy",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/stanfordnlp/dspy",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/stanfordnlp/dspy"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "e9ba62f790995e79b59c782c1883f7e9",
+    "entity_type": "REPOSITORY",
+    "name": "24029100313/RA-Bench",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/24029100313/RA-Bench",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/24029100313/RA-Bench"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "dbcb13fe682a5dabba6c309e9733d87f",
+    "entity_type": "REPOSITORY",
+    "name": "Lightricks/LTX-2",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/Lightricks/LTX-2",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/Lightricks/LTX-2"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "819843094c205e0caf44bfb51ce6b607",
+    "entity_type": "REPOSITORY",
+    "name": "microsoft/VibeVoice",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/microsoft/VibeVoice",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/microsoft/VibeVoice"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "445fe71eb5ed533891a786444f3ea345",
+    "entity_type": "REPOSITORY",
+    "name": "Tencent/AI-Infra-Guard",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/Tencent/AI-Infra-Guard",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/Tencent/AI-Infra-Guard"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "739a5ff27fb15889bdcbe89da6b829c0",
+    "entity_type": "REPOSITORY",
+    "name": "PaddlePaddle/PaddleOCR",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "812847f6b2ec5ce78c5fc24011ff9853",
+    "entity_type": "REPOSITORY",
+    "name": "Tencent/UI-Mate",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/Tencent/UI-Mate",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/Tencent/UI-Mate"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "f11c785db5b650899c88a52e3291c440",
+    "entity_type": "REPOSITORY",
+    "name": "MatrAIx-ai/MatrAIx-Persona-8B",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/MatrAIx-ai/MatrAIx-Persona-8B",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/MatrAIx-ai/MatrAIx-Persona-8B"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "1733ea994134517b9c9e391ed07ad8af",
+    "entity_type": "REPOSITORY",
+    "name": "index-tts/index-tts",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/index-tts/index-tts",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/index-tts/index-tts"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "800ee3660ff15ebb95965162340f0092",
+    "entity_type": "REPOSITORY",
+    "name": "opendatalab/MinerU",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/opendatalab/MinerU",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/opendatalab/MinerU"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "8a827e5c96265fcd82e431651d17ec4c",
+    "entity_type": "REPOSITORY",
+    "name": "henryqin1997/statem",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/henryqin1997/statem",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/henryqin1997/statem"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "1198e50302b25723b5e23564dbd878c3",
+    "entity_type": "REPOSITORY",
+    "name": "jd-opensource/JoyAI-Video-Edit",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/jd-opensource/JoyAI-Video-Edit"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "b11eff097021517ebf98527b703b8e80",
+    "entity_type": "REPOSITORY",
+    "name": "vllm-project/vllm",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/vllm-project/vllm",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/vllm-project/vllm"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "76d0965571535cbf9b60989dbfb5abcd",
+    "entity_type": "REPOSITORY",
+    "name": "docling-project/docling",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/docling-project/docling",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/docling-project/docling"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "af26186c32fb5865aa8d9de167a87d9a",
+    "entity_type": "REPOSITORY",
+    "name": "baidu/Unlimited-OCR",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/baidu/Unlimited-OCR",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/baidu/Unlimited-OCR"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "200081e1dbbb5008a5ffcd99dea6d00e",
+    "entity_type": "REPOSITORY",
+    "name": "opendevin/opendevin",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/opendevin/opendevin",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/opendevin/opendevin"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "7baba74c44df586ebce5ea44d0471478",
+    "entity_type": "REPOSITORY",
+    "name": "shiyu-coder/Kronos",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/shiyu-coder/Kronos",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/shiyu-coder/Kronos"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "440227f878805072be6ee62c1a0e525a",
+    "entity_type": "REPOSITORY",
+    "name": "google-research/timesfm",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/google-research/timesfm",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/google-research/timesfm"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "ad19aa3e2b92517987cda0048aab8e09",
+    "entity_type": "REPOSITORY",
+    "name": "tauricresearch/tradingagents",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/tauricresearch/tradingagents",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/tauricresearch/tradingagents"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "11ff25fd9c9a5c4e9474142b3ec0b925",
+    "entity_type": "REPOSITORY",
+    "name": "MirroS-Lab/HarnessEval-W",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/MirroS-Lab/HarnessEval-W",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/MirroS-Lab/HarnessEval-W"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "18dab6d472295a9c9bf924fd2157cc96",
+    "entity_type": "REPOSITORY",
+    "name": "titanwings/colleague-skill",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/titanwings/colleague-skill",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/titanwings/colleague-skill"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
+  },
+  {
+    "id": "289449c72d135b9cab3df77543c980fb",
+    "entity_type": "REPOSITORY",
+    "name": "llm-as-a-verifier/llm-as-a-verifier",
+    "description": "Repository explicitly referenced by the research paper.",
+    "url": "https://github.com/llm-as-a-verifier/llm-as-a-verifier",
+    "categories": [
+      "open-source",
+      "research-code"
+    ],
+    "source": {
+      "name": "GitHub (paper reference)",
+      "url": "https://github.com/llm-as-a-verifier/llm-as-a-verifier"
+    },
+    "stars": null,
+    "primary_language": null,
+    "last_updated": null
   }
 ]

@@ -16,51 +16,51 @@
       "datasets": 0
     },
     "youtube": {
-      "candidates": 73,
+      "candidates": 75,
       "api_key_configured": true
     },
     "news_rss": {
-      "fresh_candidates": 40,
+      "fresh_candidates": 49,
       "freshness_hours": 24
     }
   },
   "added": {
     "startups": 30,
     "products": 30,
-    "research_papers": 1000,
-    "repositories": 199,
+    "research_papers": 51,
+    "repositories": 0,
     "models": 0,
     "datasets": 0,
-    "videos": 73,
-    "news": 40,
-    "jobs": 175
+    "videos": 51,
+    "news": 1,
+    "jobs": 70
   },
   "resolution": {
     "STARTUP": {
-      "changed": 2
+      "changed": 3
     },
     "PRODUCT": {
       "changed": 0
     },
     "JOB": {
-      "changed": 18
+      "changed": 2
     },
     "resolver": {
-      "total_mappings": 161,
-      "resolved": 4,
-      "unresolved": 157,
-      "resolution_rate": "2.5%"
+      "total_mappings": 346,
+      "resolved": 11,
+      "unresolved": 335,
+      "resolution_rate": "3.2%"
     }
   },
   "sqlite_counts": {
-    "JOB": 175,
-    "NEWS": 40,
-    "PRODUCT": 30,
+    "JOB": 256,
+    "NEWS": 52,
+    "PRODUCT": 90,
     "REPOSITORY": 199,
-    "RESEARCH_PAPER": 1000,
-    "STARTUP": 30,
-    "VIDEO": 73
+    "RESEARCH_PAPER": 2051,
+    "STARTUP": 90,
+    "VIDEO": 156
   },
   "freshness_hours": 24,
-  "timestamp": "2026-08-19T08:09:54.033909+00:00"
+  "timestamp": "2026-08-19T11:49:03.761548+00:00"
 }

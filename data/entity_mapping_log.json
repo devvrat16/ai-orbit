@@ -1286,5 +1286,1485 @@
     "source": "Arbeitnow",
     "record_type": "JOB",
     "created_at": "2026-08-19 08:09:53"
+  },
+  {
+    "raw_name": "Derya",
+    "canonical_name": "Derya",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Touchy",
+    "canonical_name": "Touchy",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Mireye",
+    "canonical_name": "Mireye",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Shiraz AI",
+    "canonical_name": "Shiraz AI",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Lamb Labs",
+    "canonical_name": "Lamb Labs",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Chromie",
+    "canonical_name": "Chromie",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "83 Sciences",
+    "canonical_name": "83 Sciences",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Palisade",
+    "canonical_name": "Palisade",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Hubble",
+    "canonical_name": "Hubble",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Skymerse",
+    "canonical_name": "Skymerse",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Grip",
+    "canonical_name": "Grip",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "HyperProbe",
+    "canonical_name": "HyperProbe",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "TovenAI",
+    "canonical_name": "TovenAI",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Verdict Machine",
+    "canonical_name": "Verdict Machine",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Dock",
+    "canonical_name": "Dock",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "OpenRelay",
+    "canonical_name": "OpenRelay",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Agent FM",
+    "canonical_name": "Agent FM",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Hop Aero",
+    "canonical_name": "Hop Aero",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "PRINCEPS",
+    "canonical_name": "PRINCEPS",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Hebbian Robotics",
+    "canonical_name": "Hebbian Robotics",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Earendil Robotics",
+    "canonical_name": "Earendil Robotics",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Florin",
+    "canonical_name": "Florin",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Locke",
+    "canonical_name": "Locke",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Petrarch",
+    "canonical_name": "Petrarch",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "SpaceFlow Technologies, Inc.",
+    "canonical_name": "SpaceFlow",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "SubVysion",
+    "canonical_name": "SubVysion",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Avoca Systems",
+    "canonical_name": "Avoca",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Amulet",
+    "canonical_name": "Amulet",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Tracer",
+    "canonical_name": "Tracer",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Wondering",
+    "canonical_name": "Wondering",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Vernius",
+    "canonical_name": "Vernius",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Salem Robotics",
+    "canonical_name": "Salem Robotics",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Convai",
+    "canonical_name": "Convai",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Rapport",
+    "canonical_name": "Rapport",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Insight7",
+    "canonical_name": "Insight7",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "TheLoops",
+    "canonical_name": "TheLoops",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "MailMaestro",
+    "canonical_name": "MailMaestro",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Setter AI",
+    "canonical_name": "Setter AI",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Marketing Strategy Generator",
+    "canonical_name": "Marketing Strategy Generator",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Stammer",
+    "canonical_name": "Stammer",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Qodo",
+    "canonical_name": "Qodo",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "MindStudio",
+    "canonical_name": "MindStudio",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Clevis",
+    "canonical_name": "Clevis",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Cognosys",
+    "canonical_name": "Cognosys",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "GPTConsole",
+    "canonical_name": "GPTConsole",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Cheat Layer",
+    "canonical_name": "Cheat Layer",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Role Model AI",
+    "canonical_name": "Role Model AI",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Lenix",
+    "canonical_name": "Lenix",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Circleback.ai",
+    "canonical_name": "Circleback.ai",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Coinfeeds",
+    "canonical_name": "Coinfeeds",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Inworld",
+    "canonical_name": "Inworld",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "SuperAGI",
+    "canonical_name": "SuperAGI",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "CustomGPT.ai",
+    "canonical_name": "CustomGPT.ai",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Meshy",
+    "canonical_name": "Meshy",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Baby AGI",
+    "canonical_name": "Baby AGI",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Stratup.ai",
+    "canonical_name": "Stratup.ai",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "AgentGPT",
+    "canonical_name": "AgentGPT",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Chatbase",
+    "canonical_name": "Chatbase",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Softr",
+    "canonical_name": "Softr",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Windsurf",
+    "canonical_name": "Windsurf",
+    "confidence": 1.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "ChatGPT",
+    "canonical_name": "OpenAI",
+    "confidence": 1.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "AgentVerse",
+    "canonical_name": "AgentVerse",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "CapcoAlteryx Developer38 Minutes AgoSavedRemote or HybridInd",
+    "canonical_name": "CapcoAlteryx Developer38 Minutes AgoSavedRemote or HybridInd",
+    "confidence": 0.0,
+    "source": "Built In",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "LogicMonitorCustomer Success Engineer18 Minutes AgoSavedEasy",
+    "canonical_name": "LogicMonitorCustomer Success Engineer18 Minutes AgoSavedEasy",
+    "confidence": 0.0,
+    "source": "Built In",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Convene Hospitality Group",
+    "canonical_name": "Convene Hospitality Group",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Kevin Kehr",
+    "canonical_name": "Kevin Kehr",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "alphacoders GmbH",
+    "canonical_name": "alphacoders GmbH",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "K-tronik GmbH",
+    "canonical_name": "K-tronik GmbH",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "altitude",
+    "canonical_name": "altitude",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "World of VR",
+    "canonical_name": "World of VR",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "neaSOL GmbH",
+    "canonical_name": "neaSOL GmbH",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Stadt-Parfümerie Pieper GmbH Parfümerie International",
+    "canonical_name": "Stadt-Parfümerie Pieper GmbH Parfümerie International",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Let#x27;s Support the Country: Who’s Hiring In The Coronavi",
+    "canonical_name": "Let#x27;s Support the Country: Who’s Hiring In The Coronavi",
+    "confidence": 0.0,
+    "source": "HackerNews Who's Hiring",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Sanya Pharma Pvt",
+    "canonical_name": "Sanya Pharma Pvt",
+    "confidence": 0.0,
+    "source": "RemoteOK",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Hovis",
+    "canonical_name": "Hovis",
+    "confidence": 0.0,
+    "source": "RemoteOK",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Adani Airport Holdings",
+    "canonical_name": "Adani Airport Holdings",
+    "confidence": 0.0,
+    "source": "RemoteOK",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "CrowdStrikeSpecialist, US Payroll (5:00 PM to 2:00 AM IST)4",
+    "canonical_name": "CrowdStrikeSpecialist, US Payroll (5:00 PM to 2:00 AM IST)4",
+    "confidence": 0.0,
+    "source": "Built In",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "ElevenLabs",
+    "canonical_name": "ElevenLabs",
+    "confidence": 1.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Sohohouse",
+    "canonical_name": "Sohohouse",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Cito Transport",
+    "canonical_name": "Cito Transport",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 09:13:19"
+  },
+  {
+    "raw_name": "Isengard Industries Inc",
+    "canonical_name": "Isengard Industries",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Denta",
+    "canonical_name": "Denta",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Computable",
+    "canonical_name": "Computable",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "TryNearby",
+    "canonical_name": "TryNearby",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Financial Datasets",
+    "canonical_name": "Financial Datasets",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Luca IQ",
+    "canonical_name": "Luca IQ",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Pacific",
+    "canonical_name": "Pacific",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Last Accounting Company",
+    "canonical_name": "Last Accounting",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Executor",
+    "canonical_name": "Executor",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Waybill",
+    "canonical_name": "Waybill",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "RonanRx Inc.",
+    "canonical_name": "RonanRx",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Marengo",
+    "canonical_name": "Marengo",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Lumeria",
+    "canonical_name": "Lumeria",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Familiar",
+    "canonical_name": "Familiar",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Markov",
+    "canonical_name": "Markov",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Cosmic Robotics",
+    "canonical_name": "Cosmic Robotics",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Operon",
+    "canonical_name": "Operon",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Inkbox",
+    "canonical_name": "Inkbox",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Gamgee",
+    "canonical_name": "Gamgee",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "ProvenMetal",
+    "canonical_name": "ProvenMetal",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Agentcard",
+    "canonical_name": "Agentcard",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Agnost AI",
+    "canonical_name": "Agnost AI",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Radley",
+    "canonical_name": "Radley",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Care GP",
+    "canonical_name": "Care GP",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Praxis Robotics",
+    "canonical_name": "Praxis Robotics",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Levocred AI",
+    "canonical_name": "Levocred AI",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Axelrod",
+    "canonical_name": "Axelrod",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "CarSignal",
+    "canonical_name": "CarSignal",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Decawork",
+    "canonical_name": "Decawork",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Pennant",
+    "canonical_name": "Pennant",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "SpaceFlow",
+    "canonical_name": "SpaceFlow",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Avoca",
+    "canonical_name": "Avoca",
+    "confidence": 0.0,
+    "source": "Y Combinator",
+    "record_type": "STARTUP",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Mixus",
+    "canonical_name": "Mixus",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Replicate",
+    "canonical_name": "Replicate",
+    "confidence": 1.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "LlamaIndex",
+    "canonical_name": "LlamaIndex",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Manus",
+    "canonical_name": "Manus",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "LangChain",
+    "canonical_name": "LangChain",
+    "confidence": 1.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Imbue",
+    "canonical_name": "Imbue",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Aidelly",
+    "canonical_name": "Aidelly",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Adrenaline",
+    "canonical_name": "Adrenaline",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Lutra AI",
+    "canonical_name": "Lutra AI",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "enso",
+    "canonical_name": "enso",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Momentum",
+    "canonical_name": "Momentum",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "B2B Rocket",
+    "canonical_name": "B2B Rocket",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Cassidy",
+    "canonical_name": "Cassidy",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Mindsera",
+    "canonical_name": "Mindsera",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Beloga",
+    "canonical_name": "Beloga",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Ask Layla",
+    "canonical_name": "Ask Layla",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Wellpin",
+    "canonical_name": "Wellpin",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Kintext",
+    "canonical_name": "Kintext",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Nabla",
+    "canonical_name": "Nabla",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Dart",
+    "canonical_name": "Dart",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Simple Phones",
+    "canonical_name": "Simple Phones",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Relevance AI",
+    "canonical_name": "Relevance AI",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Sonara",
+    "canonical_name": "Sonara",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "HeyMilo AI",
+    "canonical_name": "HeyMilo AI",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Momen",
+    "canonical_name": "Momen",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Tulsk.io",
+    "canonical_name": "Tulsk.io",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "iPlan.ai",
+    "canonical_name": "iPlan.ai",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Adept",
+    "canonical_name": "Adept",
+    "confidence": 1.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "AgentX",
+    "canonical_name": "AgentX",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Lindy AI",
+    "canonical_name": "Lindy AI",
+    "confidence": 0.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "OpenAI",
+    "canonical_name": "OpenAI",
+    "confidence": 1.0,
+    "source": "Futurepedia",
+    "record_type": "PRODUCT",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Seed Heritage",
+    "canonical_name": "Seed Heritage",
+    "confidence": 0.0,
+    "source": "RemoteOK",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Antojitos Mexicanos La Jefa",
+    "canonical_name": "Antojitos Mexicanos La Jefa",
+    "confidence": 0.0,
+    "source": "RemoteOK",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Rebel Sport",
+    "canonical_name": "Rebel Sport",
+    "confidence": 0.0,
+    "source": "RemoteOK",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Cotton On Group",
+    "canonical_name": "Cotton On Group",
+    "confidence": 0.0,
+    "source": "RemoteOK",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Power FM Bega Bay",
+    "canonical_name": "Power FM Bega Bay",
+    "confidence": 0.0,
+    "source": "RemoteOK",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "OTR",
+    "canonical_name": "OTR",
+    "confidence": 0.0,
+    "source": "RemoteOK",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Reliance Industries Limited",
+    "canonical_name": "Reliance Industries Limited",
+    "confidence": 0.0,
+    "source": "RemoteOK",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "ZyngaProduct Manager IIReposted 59 Minutes AgoSavedHybridBen",
+    "canonical_name": "ZyngaProduct Manager IIReposted 59 Minutes AgoSavedHybridBen",
+    "confidence": 0.0,
+    "source": "Built In",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "OptumSenior Software Engineer II (Java and Python)24 Minutes",
+    "canonical_name": "OptumSenior Software Engineer II (Java and Python)24 Minutes",
+    "confidence": 0.0,
+    "source": "Built In",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Leovegasgroup",
+    "canonical_name": "Leovegasgroup",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Lightspeedhq",
+    "canonical_name": "Lightspeedhq",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Sharkninjaoperatingllc",
+    "canonical_name": "Sharkninjaoperating",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Sonymusicentertainment",
+    "canonical_name": "Sonymusicentertainment",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Seokratie Gmbh",
+    "canonical_name": "Seokratie Gmbh",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "GRAYOAK",
+    "canonical_name": "GRAYOAK",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Bex Technologies Gmbh",
+    "canonical_name": "Bex Technologies Gmbh",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Haebmau",
+    "canonical_name": "Haebmau",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Quantum-Systems GmbH",
+    "canonical_name": "Quantum-Systems GmbH",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "VEAXO Unternehmensgruppe",
+    "canonical_name": "VEAXO Unternehmensgruppe",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Hypertrics GmbH",
+    "canonical_name": "Hypertrics GmbH",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Stark",
+    "canonical_name": "Stark",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "KNSK",
+    "canonical_name": "KNSK",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Alexander Thamm GmbH",
+    "canonical_name": "Alexander Thamm GmbH",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Accenture",
+    "canonical_name": "Accenture",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Pflegia",
+    "canonical_name": "Pflegia",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Amber",
+    "canonical_name": "Amber",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Proxima Fusion GmbH",
+    "canonical_name": "Proxima Fusion GmbH",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "YAZIO",
+    "canonical_name": "YAZIO",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Flatironhealth",
+    "canonical_name": "Flatironhealth",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Superchat",
+    "canonical_name": "Superchat",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "CHEEX",
+    "canonical_name": "CHEEX",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Landsiedel NLP Training",
+    "canonical_name": "Landsiedel NLP Training",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Memodo",
+    "canonical_name": "Memodo",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Zahln",
+    "canonical_name": "Zahln",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Strategy Core Ventures GmbH",
+    "canonical_name": "Strategy Core Ventures GmbH",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "RoboService GmbH",
+    "canonical_name": "RoboService GmbH",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "bedrop",
+    "canonical_name": "bedrop",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "SUCHMEISTEREI GmbH",
+    "canonical_name": "SUCHMEISTEREI GmbH",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Lecturio GmbH",
+    "canonical_name": "Lecturio GmbH",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Horbach Wirtschaftsberatung Dresden",
+    "canonical_name": "Horbach Wirtschaftsberatung Dresden",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Finom",
+    "canonical_name": "Finom",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
+  },
+  {
+    "raw_name": "Pipedrive",
+    "canonical_name": "Pipedrive",
+    "confidence": 0.0,
+    "source": "Arbeitnow",
+    "record_type": "JOB",
+    "created_at": "2026-08-19 11:49:02"
   }
 ]

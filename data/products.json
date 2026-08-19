@@ -508,5 +508,1025 @@
     "collected_at": "2026-08-19T08:03:52.978625+00:00",
     "startup_name": "MagicTrips",
     "pricing_model": "FREE"
+  },
+  {
+    "id": "9129a5ba-f9bc-5d6f-a7d4-318b07e7eef7",
+    "entity_type": "PRODUCT",
+    "name": "Convai",
+    "description": "Elevate virtual worlds with AI-driven, interactive, and knowledgeable characters.",
+    "url": "https://www.futurepedia.io/tool/convai",
+    "categories": [
+      "gaming"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/convai"
+    },
+    "collected_at": "2026-08-19T09:06:49.536112+00:00",
+    "startup_name": "Convai",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "8b4198e7-6ac5-5f57-aa2e-085781380d08",
+    "entity_type": "PRODUCT",
+    "name": "Rapport",
+    "description": "Create emotionally intelligent, multilingual, customizable AI characters.",
+    "url": "https://www.futurepedia.io/tool/rapport",
+    "categories": [
+      "ai agents"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/rapport"
+    },
+    "collected_at": "2026-08-19T09:06:49.535869+00:00",
+    "startup_name": "Rapport",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "0f2c08fc-01d8-59dd-99fb-458fecacf7c0",
+    "entity_type": "PRODUCT",
+    "name": "Insight7",
+    "description": "Score calls, coach teams, automate routine conversations.",
+    "url": "https://www.futurepedia.io/tool/insight7",
+    "categories": [
+      "customer support"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/insight7"
+    },
+    "collected_at": "2026-08-19T09:06:49.535623+00:00",
+    "startup_name": "Insight7",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "20621eeb-5d29-5f8c-a069-184ae869fdd9",
+    "entity_type": "PRODUCT",
+    "name": "TheLoops",
+    "description": "Revolutionize CX operations with AI-driven insights, proactive tools, and seamless integrations.",
+    "url": "https://www.futurepedia.io/tool/theloops",
+    "categories": [
+      "customer support"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/theloops"
+    },
+    "collected_at": "2026-08-19T09:06:49.535336+00:00",
+    "startup_name": "TheLoops",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "59e6d840-cb05-5ec0-ade7-0ca599437099",
+    "entity_type": "PRODUCT",
+    "name": "MailMaestro",
+    "description": "Boost email drafting speed and security with AI-driven personalization.",
+    "url": "https://www.futurepedia.io/tool/mailmaestro",
+    "categories": [
+      "email assistant"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/mailmaestro"
+    },
+    "collected_at": "2026-08-19T09:06:49.535092+00:00",
+    "startup_name": "MailMaestro",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "d5d02404-cc42-534c-91b8-362fd1ea6ba4",
+    "entity_type": "PRODUCT",
+    "name": "Setter AI",
+    "description": "Revolutionizes lead engagement with AI, boosting conversions and personalizing calls at scale.",
+    "url": "https://www.futurepedia.io/tool/setter-ai",
+    "categories": [
+      "sales assistant"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/setter-ai"
+    },
+    "collected_at": "2026-08-19T09:06:49.534844+00:00",
+    "startup_name": "Setter AI",
+    "pricing_model": null
+  },
+  {
+    "id": "4d35fd5a-ded9-5f34-a37e-27ea17c94abf",
+    "entity_type": "PRODUCT",
+    "name": "Marketing Strategy Generator",
+    "description": "Unleash tailored marketing strategies in minutes with AI-driven insights and user-friendly templates.",
+    "url": "https://www.futurepedia.io/tool/marketing-strategy-generator",
+    "categories": [
+      "marketing"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/marketing-strategy-generator"
+    },
+    "collected_at": "2026-08-19T09:06:49.534594+00:00",
+    "startup_name": "Marketing Strategy Generator",
+    "pricing_model": "PAID"
+  },
+  {
+    "id": "4ea8fcde-de0d-5f05-ab8c-315647c7caa5",
+    "entity_type": "PRODUCT",
+    "name": "Stammer",
+    "description": "Empowers agencies to create and offer customized AI-powered solutions to their clients.",
+    "url": "https://www.futurepedia.io/tool/stammer",
+    "categories": [
+      "sales assistant"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/stammer"
+    },
+    "collected_at": "2026-08-19T09:06:49.534325+00:00",
+    "startup_name": "Stammer",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "8553f435-225e-5f22-ab1b-c1c74cde9c4d",
+    "entity_type": "PRODUCT",
+    "name": "Qodo",
+    "description": "Turns PR history into enforceable code standards.",
+    "url": "https://www.futurepedia.io/tool/qodo",
+    "categories": [
+      "code assistant"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/qodo"
+    },
+    "collected_at": "2026-08-19T09:06:49.534041+00:00",
+    "startup_name": "Qodo",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "63f5f639-4afa-5311-a373-0b32ea1b4b76",
+    "entity_type": "PRODUCT",
+    "name": "MindStudio",
+    "description": "Unlock AI's potential: analytics, creativity, efficiency, in an intuitive, customizable platform.",
+    "url": "https://www.futurepedia.io/tool/mindstudio",
+    "categories": [
+      "low-code/no-code"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/mindstudio"
+    },
+    "collected_at": "2026-08-19T09:06:45.612693+00:00",
+    "startup_name": "MindStudio",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "68d21016-33dd-59a0-8c10-d98a18fb0a86",
+    "entity_type": "PRODUCT",
+    "name": "Clevis",
+    "description": "Unleash AI app development and monetization, no coding required—build, integrate, automate, and sell.",
+    "url": "https://www.futurepedia.io/tool/clevis",
+    "categories": [
+      "low-code/no-code"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/clevis"
+    },
+    "collected_at": "2026-08-19T09:06:45.612448+00:00",
+    "startup_name": "Clevis",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "0dc5765a-9a7b-50b4-9f8b-aa9bffb9e39d",
+    "entity_type": "PRODUCT",
+    "name": "Cognosys",
+    "description": "Optimize workflows, automate tasks, enhance productivity with AI.",
+    "url": "https://www.futurepedia.io/tool/cognosys",
+    "categories": [
+      "ai agents"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/cognosys"
+    },
+    "collected_at": "2026-08-19T09:06:45.612202+00:00",
+    "startup_name": "Cognosys",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "3a8f4e20-e63b-5f22-a352-462c9d51d13d",
+    "entity_type": "PRODUCT",
+    "name": "GPTConsole",
+    "description": "Revolutionize app development with AI agents for seamless automation.",
+    "url": "https://www.futurepedia.io/tool/gptconsole",
+    "categories": [
+      "ai agents"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/gptconsole"
+    },
+    "collected_at": "2026-08-19T09:06:45.611965+00:00",
+    "startup_name": "GPTConsole",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "09a951ef-7f4d-56d8-990c-3b32d6e2f1a0",
+    "entity_type": "PRODUCT",
+    "name": "Cheat Layer",
+    "description": "AI platform automating business tasks for enhanced efficiency.",
+    "url": "https://www.futurepedia.io/tool/cheat-layer",
+    "categories": [
+      "marketing"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/cheat-layer"
+    },
+    "collected_at": "2026-08-19T09:06:45.611731+00:00",
+    "startup_name": "Cheat Layer",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "23c91075-7119-5d6a-b351-fe4538e743eb",
+    "entity_type": "PRODUCT",
+    "name": "Role Model AI",
+    "description": "Virtual assistant with 3D avatars, phone integration, and Fortnite connectivity.",
+    "url": "https://www.futurepedia.io/tool/rolemodel-ai",
+    "categories": [
+      "personal assistant"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/rolemodel-ai"
+    },
+    "collected_at": "2026-08-19T09:06:45.611473+00:00",
+    "startup_name": "Role Model AI",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "04087241-1675-5d75-a438-fa96f0c2f7f2",
+    "entity_type": "PRODUCT",
+    "name": "Lenix",
+    "description": "Automates sales outreach, lead management, and follow-ups.",
+    "url": "https://www.futurepedia.io/tool/lenix",
+    "categories": [
+      "sales assistant"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/lenix"
+    },
+    "collected_at": "2026-08-19T09:06:45.611236+00:00",
+    "startup_name": "Lenix",
+    "pricing_model": "PAID"
+  },
+  {
+    "id": "057ea80e-9719-5bf8-b5f3-cd3d6677b736",
+    "entity_type": "PRODUCT",
+    "name": "Circleback.ai",
+    "description": "Streamline meeting notes and action items with AI, ensuring efficiency and data security.",
+    "url": "https://www.futurepedia.io/tool/circlebackai",
+    "categories": [
+      "personal assistant"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/circlebackai"
+    },
+    "collected_at": "2026-08-19T09:06:45.610964+00:00",
+    "startup_name": "Circleback.ai",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "77eb8e46-001d-5404-b385-afba3684e271",
+    "entity_type": "PRODUCT",
+    "name": "Coinfeeds",
+    "description": "AI-driven insights revolutionize cryptocurrency and stock data analysis.",
+    "url": "https://www.futurepedia.io/tool/coinfeeds",
+    "categories": [
+      "stock trading"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/coinfeeds"
+    },
+    "collected_at": "2026-08-19T09:06:45.610715+00:00",
+    "startup_name": "Coinfeeds",
+    "pricing_model": null
+  },
+  {
+    "id": "7f6f8ffb-a3c9-5a57-ad21-f63baf9a72b7",
+    "entity_type": "PRODUCT",
+    "name": "Inworld",
+    "description": "Elevate game development with dynamic NPCs, immersive worlds, and AI-driven content creation.",
+    "url": "https://www.futurepedia.io/tool/inworld",
+    "categories": [
+      "avatars"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/inworld"
+    },
+    "collected_at": "2026-08-19T09:06:45.610464+00:00",
+    "startup_name": "Inworld",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "67142147-108f-578c-8598-fc5c9cf181ae",
+    "entity_type": "PRODUCT",
+    "name": "SuperAGI",
+    "description": "Revolutionize business operations with AI-driven automation and intelligence.",
+    "url": "https://www.futurepedia.io/tool/superagi",
+    "categories": [
+      "research"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/superagi"
+    },
+    "collected_at": "2026-08-19T09:06:45.610214+00:00",
+    "startup_name": "SuperAGI",
+    "pricing_model": null
+  },
+  {
+    "id": "d0e86e21-c968-5775-9e9f-764843800ee2",
+    "entity_type": "PRODUCT",
+    "name": "CustomGPT.ai",
+    "description": "Cut Support Costs in Half with AI that Auto-Resolves 93% of Questions",
+    "url": "https://www.futurepedia.io/tool/customgpt",
+    "categories": [
+      "customer support"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/customgpt"
+    },
+    "collected_at": "2026-08-19T09:06:45.609939+00:00",
+    "startup_name": "CustomGPT.ai",
+    "pricing_model": null
+  },
+  {
+    "id": "b9f46da4-05a7-5a9e-8315-e2ea769e4f0c",
+    "entity_type": "PRODUCT",
+    "name": "Meshy",
+    "description": "Turn prompts into print-ready 3D models.",
+    "url": "https://www.futurepedia.io/tool/meshy",
+    "categories": [
+      "3D"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/meshy"
+    },
+    "collected_at": "2026-08-19T09:06:41.685448+00:00",
+    "startup_name": "Meshy",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "2b0a7b8b-205c-5035-a0d8-7586c3d23cbe",
+    "entity_type": "PRODUCT",
+    "name": "Baby AGI",
+    "description": "Develop autonomous AI agents with self-building and task planning.",
+    "url": "https://www.futurepedia.io/tool/baby-agi",
+    "categories": [
+      "research"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/baby-agi"
+    },
+    "collected_at": "2026-08-19T09:06:41.685168+00:00",
+    "startup_name": "Baby AGI",
+    "pricing_model": "FREE"
+  },
+  {
+    "id": "7428d735-ca25-5a05-9ad3-202f2f009f91",
+    "entity_type": "PRODUCT",
+    "name": "Stratup.ai",
+    "description": "Revolutionize startup ideation with AI-driven, market-trend savvy, personalized idea generation.",
+    "url": "https://www.futurepedia.io/tool/stratupai",
+    "categories": [
+      "startup tools"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/stratupai"
+    },
+    "collected_at": "2026-08-19T09:06:41.684926+00:00",
+    "startup_name": "Stratup.ai",
+    "pricing_model": "FREE"
+  },
+  {
+    "id": "7c67cad1-0444-571b-98e8-a5e69a0c5a07",
+    "entity_type": "PRODUCT",
+    "name": "AgentGPT",
+    "description": "Automate complex web tasks with customizable AI agents.",
+    "url": "https://www.futurepedia.io/tool/agentgpt",
+    "categories": [
+      "ai agents"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/agentgpt"
+    },
+    "collected_at": "2026-08-19T09:06:41.684680+00:00",
+    "startup_name": "AgentGPT",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "475a5d78-3c06-5b7b-a34f-744d6516b797",
+    "entity_type": "PRODUCT",
+    "name": "Chatbase",
+    "description": "Create AI agents for efficient customer query handling.",
+    "url": "https://www.futurepedia.io/tool/chatbase",
+    "categories": [
+      "customer support"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/chatbase"
+    },
+    "collected_at": "2026-08-19T09:06:41.684408+00:00",
+    "startup_name": "Chatbase",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "ce6b0c35-6523-5836-9d7e-c09e739726c7",
+    "entity_type": "PRODUCT",
+    "name": "Softr",
+    "description": "Build custom business apps from your data using AI.",
+    "url": "https://www.futurepedia.io/tool/softr",
+    "categories": [
+      "low-code/no-code"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/softr"
+    },
+    "collected_at": "2026-08-19T09:06:41.684161+00:00",
+    "startup_name": "Softr",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "2de8861c-1888-5685-bd24-0f1d324b7b50",
+    "entity_type": "PRODUCT",
+    "name": "Windsurf",
+    "description": "Streamline coding with predictive AI, deployment, and integration.",
+    "url": "https://www.futurepedia.io/tool/windsurf",
+    "categories": [
+      "code assistant"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/windsurf"
+    },
+    "collected_at": "2026-08-19T09:06:41.683892+00:00",
+    "startup_name": "Windsurf",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "c7f4ce5c-ee9b-537d-aaa1-bd5f032d8439",
+    "entity_type": "PRODUCT",
+    "name": "ChatGPT",
+    "description": "Research, create, and automate tasks with the leader in AI.",
+    "url": "https://www.futurepedia.io/tool/chatgpt",
+    "categories": [
+      "ai chatbots"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/chatgpt"
+    },
+    "collected_at": "2026-08-19T09:06:41.683630+00:00",
+    "startup_name": "OpenAI",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "5d7262e2-4849-5c36-8e34-fbe1df6fb4cf",
+    "entity_type": "PRODUCT",
+    "name": "AgentVerse",
+    "description": "Explore, create, manage AI agents effortlessly; enhance efficiency, cut costs.",
+    "url": "https://www.futurepedia.io/tool/agentverse",
+    "categories": [
+      "ai agents"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/agentverse"
+    },
+    "collected_at": "2026-08-19T09:06:41.683359+00:00",
+    "startup_name": "AgentVerse",
+    "pricing_model": null
+  },
+  {
+    "id": "1b60cf0f-704e-52f3-9e81-176dd7acc1c8",
+    "entity_type": "PRODUCT",
+    "name": "Mixus",
+    "description": "Turns plain English tasks into instant, automated workflows.",
+    "url": "https://www.futurepedia.io/tool/mixus",
+    "categories": [
+      "customer support"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/mixus"
+    },
+    "collected_at": "2026-08-19T09:12:26.142554+00:00",
+    "startup_name": "Mixus",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "3ffb042a-29fc-5a64-b020-d3b8d17ab7c4",
+    "entity_type": "PRODUCT",
+    "name": "Replicate",
+    "description": "Unlock AI's potential: run, fine-tune, deploy models easily and cost-effectively.",
+    "url": "https://www.futurepedia.io/tool/replicate",
+    "categories": [
+      "ai agents"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/replicate"
+    },
+    "collected_at": "2026-08-19T09:12:26.142299+00:00",
+    "startup_name": "Replicate",
+    "pricing_model": "PAID"
+  },
+  {
+    "id": "10836c77-9468-5699-b0ff-cb457df6c5b1",
+    "entity_type": "PRODUCT",
+    "name": "LlamaIndex",
+    "description": "Transform enterprise data into powerful LLM applications effortlessly.",
+    "url": "https://www.futurepedia.io/tool/llamaindex",
+    "categories": [
+      "ai agents"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/llamaindex"
+    },
+    "collected_at": "2026-08-19T09:12:26.142014+00:00",
+    "startup_name": "LlamaIndex",
+    "pricing_model": "ENTERPRISE"
+  },
+  {
+    "id": "b5e0837c-a5d6-581c-97ee-82339352eca6",
+    "entity_type": "PRODUCT",
+    "name": "Manus",
+    "description": "Transforms thoughts into actions, enhancing productivity and efficiency.",
+    "url": "https://www.futurepedia.io/tool/manus",
+    "categories": [
+      "ai agents"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/manus"
+    },
+    "collected_at": "2026-08-19T09:12:22.552503+00:00",
+    "startup_name": "Manus",
+    "pricing_model": null
+  },
+  {
+    "id": "7989c947-d799-5fb4-b272-f1db2fdc9334",
+    "entity_type": "PRODUCT",
+    "name": "LangChain",
+    "description": "Revolutionize AI application development, monitoring, and deployment.",
+    "url": "https://www.futurepedia.io/tool/langchain",
+    "categories": [
+      "ai agents"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/langchain"
+    },
+    "collected_at": "2026-08-19T09:12:22.552232+00:00",
+    "startup_name": "LangChain",
+    "pricing_model": null
+  },
+  {
+    "id": "a2538392-f3c7-5d0c-978b-a0f5e6bd09bd",
+    "entity_type": "PRODUCT",
+    "name": "Imbue",
+    "description": "An innovative AI tool that redefines personal computing with advanced, real-world capable AI agents.",
+    "url": "https://www.futurepedia.io/tool/imbue",
+    "categories": [
+      "personal assistant"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/imbue"
+    },
+    "collected_at": "2026-08-19T09:12:22.551979+00:00",
+    "startup_name": "Imbue",
+    "pricing_model": "FREE"
+  },
+  {
+    "id": "c06fb8e4-4561-5ae8-97b1-22b85a5b38fb",
+    "entity_type": "PRODUCT",
+    "name": "Aidelly",
+    "description": "Automates multi-platform social posts from chat.",
+    "url": "https://www.futurepedia.io/tool/aidelly",
+    "categories": [
+      "social media"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/aidelly"
+    },
+    "collected_at": "2026-08-19T09:12:22.551712+00:00",
+    "startup_name": "Aidelly",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "c669fa4d-089b-5861-8272-edb13f35bb08",
+    "entity_type": "PRODUCT",
+    "name": "Adrenaline",
+    "description": "Supercharge business automation and data analysis effortlessly.",
+    "url": "https://www.futurepedia.io/tool/adrenaline",
+    "categories": [
+      "ai agents"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/adrenaline"
+    },
+    "collected_at": "2026-08-19T09:12:22.551469+00:00",
+    "startup_name": "Adrenaline",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "50644b4b-6a1d-56ab-9507-e6cc7a1c0363",
+    "entity_type": "PRODUCT",
+    "name": "Lutra AI",
+    "description": "Automate complex workflows seamlessly with AI-driven efficiency.",
+    "url": "https://www.futurepedia.io/tool/lutra-ai",
+    "categories": [
+      "project management"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/lutra-ai"
+    },
+    "collected_at": "2026-08-19T09:12:22.551234+00:00",
+    "startup_name": "Lutra AI",
+    "pricing_model": null
+  },
+  {
+    "id": "4bf42362-5606-53bc-8246-85599b6c9068",
+    "entity_type": "PRODUCT",
+    "name": "enso",
+    "description": "Easy-to-use business AI Agents adapt to your business needs.",
+    "url": "https://www.futurepedia.io/tool/enso",
+    "categories": [
+      "social media"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/enso"
+    },
+    "collected_at": "2026-08-19T09:12:22.550992+00:00",
+    "startup_name": "enso",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "22bb556d-a26b-56fe-a62c-bfea313e5741",
+    "entity_type": "PRODUCT",
+    "name": "Momentum",
+    "description": "Automates sales calls, integrates CRM, streamlines workflows.",
+    "url": "https://www.futurepedia.io/tool/momentum",
+    "categories": [
+      "sales assistant"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/momentum"
+    },
+    "collected_at": "2026-08-19T09:12:22.550752+00:00",
+    "startup_name": "Momentum",
+    "pricing_model": "PAID"
+  },
+  {
+    "id": "3eb5eee5-ea22-589b-80bb-25ea56d601d5",
+    "entity_type": "PRODUCT",
+    "name": "B2B Rocket",
+    "description": "Automate and enhance B2B sales with AI-driven outreach.",
+    "url": "https://www.futurepedia.io/tool/b2b-rocket",
+    "categories": [
+      "sales assistant"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/b2b-rocket"
+    },
+    "collected_at": "2026-08-19T09:12:22.550495+00:00",
+    "startup_name": "B2B Rocket",
+    "pricing_model": "PAID"
+  },
+  {
+    "id": "b7764c76-f939-5867-a35d-8cf16e816406",
+    "entity_type": "PRODUCT",
+    "name": "Cassidy",
+    "description": "Automate tasks, enhance efficiency, and personalize solutions with AI.",
+    "url": "https://www.futurepedia.io/tool/cassidy",
+    "categories": [
+      "ai agents"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/cassidy"
+    },
+    "collected_at": "2026-08-19T09:12:22.550247+00:00",
+    "startup_name": "Cassidy",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "2f72f8dd-69b9-50ff-8cfd-66c3c5b47884",
+    "entity_type": "PRODUCT",
+    "name": "Mindsera",
+    "description": "Revolutionize personal growth with AI journaling, mentorship, and cognitive insights.",
+    "url": "https://www.futurepedia.io/tool/mindsera",
+    "categories": [
+      "education"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/mindsera"
+    },
+    "collected_at": "2026-08-19T09:12:22.549998+00:00",
+    "startup_name": "Mindsera",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "60e0d079-7d9f-57bf-9236-540ef5a4965d",
+    "entity_type": "PRODUCT",
+    "name": "Beloga",
+    "description": "Elevates teamwork with AI insights, seamless app integration, and real-time data unification.",
+    "url": "https://www.futurepedia.io/tool/beloga",
+    "categories": [
+      "research"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/beloga"
+    },
+    "collected_at": "2026-08-19T09:12:22.549728+00:00",
+    "startup_name": "Beloga",
+    "pricing_model": "FREE"
+  },
+  {
+    "id": "b599cf47-14d5-5e4a-ac66-8a5ed3a27534",
+    "entity_type": "PRODUCT",
+    "name": "Ask Layla",
+    "description": "Revolutionize travel with AI-driven planning and seamless bookings.",
+    "url": "https://www.futurepedia.io/tool/ask-layla",
+    "categories": [
+      "travel"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/ask-layla"
+    },
+    "collected_at": "2026-08-19T09:12:19.070991+00:00",
+    "startup_name": "Ask Layla",
+    "pricing_model": "FREE"
+  },
+  {
+    "id": "f63448bb-b550-50f3-b9e3-a0cc525e6d8d",
+    "entity_type": "PRODUCT",
+    "name": "Wellpin",
+    "description": "Streamlines scheduling with AI, calendar sync, and personalized links.",
+    "url": "https://www.futurepedia.io/tool/wellpin",
+    "categories": [
+      "personal assistant"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/wellpin"
+    },
+    "collected_at": "2026-08-19T09:12:19.070742+00:00",
+    "startup_name": "Wellpin",
+    "pricing_model": "FREE"
+  },
+  {
+    "id": "e90f166c-0b53-502f-b5c3-0dc34bc1bc73",
+    "entity_type": "PRODUCT",
+    "name": "Kintext",
+    "description": "AI-driven parenting assistant offering personalized advice, milestone tracking, and community support.",
+    "url": "https://www.futurepedia.io/tool/kintext",
+    "categories": [
+      "personal assistant"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/kintext"
+    },
+    "collected_at": "2026-08-19T09:12:19.070499+00:00",
+    "startup_name": "Kintext",
+    "pricing_model": "PAID"
+  },
+  {
+    "id": "b674b145-4166-5497-b620-e6c3b42196df",
+    "entity_type": "PRODUCT",
+    "name": "Nabla",
+    "description": "Automated clinical note generation, seamless EHR integration, and HIPAA-compliant documentation streamline healthcare workflows effortlessly.\"",
+    "url": "https://www.futurepedia.io/tool/nabla",
+    "categories": [
+      "health"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/nabla"
+    },
+    "collected_at": "2026-08-19T09:12:19.070246+00:00",
+    "startup_name": "Nabla",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "4013c241-5b05-59ee-8dc6-3ff4dce0375d",
+    "entity_type": "PRODUCT",
+    "name": "Dart",
+    "description": "Streamline project management with AI-driven automation.",
+    "url": "https://www.futurepedia.io/tool/dart",
+    "categories": [
+      "ai agents"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/dart"
+    },
+    "collected_at": "2026-08-19T09:12:19.070004+00:00",
+    "startup_name": "Dart",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "af573cb7-6576-539f-bd40-669fd26eac7f",
+    "entity_type": "PRODUCT",
+    "name": "Simple Phones",
+    "description": "Revolutionize business calls with AI, ensuring no customer is missed.",
+    "url": "https://www.futurepedia.io/tool/simple-phones",
+    "categories": [
+      "customer support"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/simple-phones"
+    },
+    "collected_at": "2026-08-19T09:12:19.069749+00:00",
+    "startup_name": "Simple Phones",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "525406fd-0f1e-5ddb-9c92-2a5c7082ce99",
+    "entity_type": "PRODUCT",
+    "name": "Relevance AI",
+    "description": "Empower growth with AI: streamline operations, enhance output, no-code, LLM-flexible.",
+    "url": "https://www.futurepedia.io/tool/relevance-ai",
+    "categories": [
+      "customer support"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/relevance-ai"
+    },
+    "collected_at": "2026-08-19T09:12:19.069509+00:00",
+    "startup_name": "Relevance AI",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "b24f8464-5510-5811-8b0b-7e1f5b33cad7",
+    "entity_type": "PRODUCT",
+    "name": "Sonara",
+    "description": "Revolutionizes job search with AI-driven automated applications and personalized matches.",
+    "url": "https://www.futurepedia.io/tool/sonara",
+    "categories": [
+      "human resources"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/sonara"
+    },
+    "collected_at": "2026-08-19T09:12:19.069263+00:00",
+    "startup_name": "Sonara",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "e6ffa861-79ec-5e9f-8ce5-a1fbecd51f43",
+    "entity_type": "PRODUCT",
+    "name": "HeyMilo AI",
+    "description": "Revolutionize hiring with AI-driven automated voice interviews.",
+    "url": "https://www.futurepedia.io/tool/heymilo",
+    "categories": [
+      "human resources"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/heymilo"
+    },
+    "collected_at": "2026-08-19T09:12:19.069019+00:00",
+    "startup_name": "HeyMilo AI",
+    "pricing_model": null
+  },
+  {
+    "id": "b113c957-fadc-58d0-b9c1-483ea8604644",
+    "entity_type": "PRODUCT",
+    "name": "Momen",
+    "description": "Build AI-powered apps effortlessly with Momen's integrated development platform.",
+    "url": "https://www.futurepedia.io/tool/momen",
+    "categories": [
+      "low-code/no-code"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/momen"
+    },
+    "collected_at": "2026-08-19T09:12:19.068769+00:00",
+    "startup_name": "Momen",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "8e4dad0f-affe-59e9-8d5f-1b7ef30e6d24",
+    "entity_type": "PRODUCT",
+    "name": "Tulsk.io",
+    "description": "Revolutionize teamwork with AI-driven project management and seamless collaboration.",
+    "url": "https://www.futurepedia.io/tool/tulskio",
+    "categories": [
+      "project management"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/tulskio"
+    },
+    "collected_at": "2026-08-19T09:12:19.068520+00:00",
+    "startup_name": "Tulsk.io",
+    "pricing_model": "FREE"
+  },
+  {
+    "id": "ad280298-481b-5550-adca-c24e23a539fa",
+    "entity_type": "PRODUCT",
+    "name": "iPlan.ai",
+    "description": "AI-driven, personalized travel itineraries at your fingertips.",
+    "url": "https://www.futurepedia.io/tool/iplan-ai",
+    "categories": [
+      "travel"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/iplan-ai"
+    },
+    "collected_at": "2026-08-19T09:12:19.068257+00:00",
+    "startup_name": "iPlan.ai",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "16384019-c372-593b-b24c-7291d941b313",
+    "entity_type": "PRODUCT",
+    "name": "Adept",
+    "description": "Automate complex workflows with precision using agentic AI.",
+    "url": "https://www.futurepedia.io/tool/adept",
+    "categories": [
+      "ai agents"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/adept"
+    },
+    "collected_at": "2026-08-19T09:12:14.547205+00:00",
+    "startup_name": "Adept",
+    "pricing_model": null
+  },
+  {
+    "id": "5b8f84a6-75d9-5aa2-96fd-9a7f0e876b0f",
+    "entity_type": "PRODUCT",
+    "name": "AgentX",
+    "description": "Enhance customer engagement with intelligent, customizable AI chatbots.",
+    "url": "https://www.futurepedia.io/tool/agentx",
+    "categories": [
+      "ai chatbots"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/agentx"
+    },
+    "collected_at": "2026-08-19T09:12:14.546962+00:00",
+    "startup_name": "AgentX",
+    "pricing_model": "FREEMIUM"
+  },
+  {
+    "id": "8e6e3a87-d8ce-5206-bd3b-896c073bf8d9",
+    "entity_type": "PRODUCT",
+    "name": "Lindy AI",
+    "description": "Automate workflows, integrate systems, no-code AI creation.",
+    "url": "https://www.futurepedia.io/tool/lindyai",
+    "categories": [
+      "workflows"
+    ],
+    "source": {
+      "name": "Futurepedia",
+      "url": "https://www.futurepedia.io/tool/lindyai"
+    },
+    "collected_at": "2026-08-19T09:12:14.546710+00:00",
+    "startup_name": "Lindy AI",
+    "pricing_model": "FREEMIUM"
   }
 ]

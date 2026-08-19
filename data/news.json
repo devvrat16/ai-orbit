@@ -1,5 +1,131 @@
 [
   {
+    "id": "fa251466-30b1-5caf-97f6-0969f10ad47c",
+    "entity_type": "NEWS",
+    "name": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+    "description": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Save $300 on your Disrupt 2026 ticket: REGISTER NOW. Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrun...",
+    "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+    "categories": [
+      "AI"
+    ],
+    "source": {
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/"
+    },
+    "collected_at": "2026-08-19T11:48:45.995312Z",
+    "published_at": "2026-08-19T10:00:00+00:00",
+    "author": "",
+    "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Save $300 on your Disrupt 2026 ticket: REGISTER NOW. Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrun..."
+  },
+  {
+    "id": "a53948f3-9926-53eb-a6ad-598205eaa6ab",
+    "entity_type": "NEWS",
+    "name": "Child-monitoring apps might need a reboot",
+    "description": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile dirt road. She moved in with her older sister and taught herself to type on AOL Instant Messenger. Online, she&#8230;",
+    "url": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
+    "categories": [
+      "AI"
+    ],
+    "source": {
+      "name": "MIT Tech Review AI",
+      "url": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/"
+    },
+    "collected_at": "2026-08-19T09:13:05.138967Z",
+    "published_at": "2026-08-19T09:00:00+00:00",
+    "author": "",
+    "summary": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile dirt road. She moved in with her older sister and taught herself to type on AOL Instant Messenger. Online, she&#8230;"
+  },
+  {
+    "id": "33d79666-2a40-52fa-9db1-666cddd8e58a",
+    "entity_type": "NEWS",
+    "name": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+    "description": "Flock’s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confirm it goes much further than tracking license plates.",
+    "url": "https://www.wired.com/story/flock-safety-os-investigate/",
+    "categories": [
+      "AI"
+    ],
+    "source": {
+      "name": "Wired AI",
+      "url": "https://www.wired.com/story/flock-safety-os-investigate/"
+    },
+    "collected_at": "2026-08-19T09:13:05.093211Z",
+    "published_at": "2026-08-19T09:00:00+00:00",
+    "author": "",
+    "summary": "Flock’s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confirm it goes much further than tracking license plates."
+  },
+  {
+    "id": "fffe7e18-4818-51e9-92ba-4d82ca86fdec",
+    "entity_type": "NEWS",
+    "name": "Google&#8217;s Pet Memory forgot who my cats are",
+    "description": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So, when Google announced its new Pet Memory feature for Gemini for Home, [&#8230;]",
+    "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+    "categories": [
+      "AI"
+    ],
+    "source": {
+      "name": "The Verge AI",
+      "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review"
+    },
+    "collected_at": "2026-08-19T09:13:05.034508Z",
+    "published_at": "2026-08-18T08:01:29-04:00",
+    "author": "Jennifer Pattison Tuohy",
+    "summary": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So, when Google announced its new Pet Memory feature for Gemini for Home, [&#8230;]"
+  },
+  {
+    "id": "dd970dd1-8983-5649-8cee-6acb65292b68",
+    "entity_type": "NEWS",
+    "name": "Firefox&#8217;s Smart Window promises a better AI browser",
+    "description": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest tab groups and show visual previews of pages you previously visited when you search your browsing history using natural [&#8230;]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+    "categories": [
+      "AI"
+    ],
+    "source": {
+      "name": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features"
+    },
+    "collected_at": "2026-08-19T09:13:05.034465Z",
+    "published_at": "2026-08-18T09:00:00-04:00",
+    "author": "Stevie Bonifield",
+    "summary": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest tab groups and show visual previews of pages you previously visited when you search your browsing history using natural [&#8230;]"
+  },
+  {
+    "id": "c9faa603-a0d6-5a5b-bbea-29b501a1f6d9",
+    "entity_type": "NEWS",
+    "name": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+    "description": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have \"critical\" cybersecurity capabilities, and the [&#8230;]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+    "categories": [
+      "AI"
+    ],
+    "source": {
+      "name": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack"
+    },
+    "collected_at": "2026-08-19T09:13:05.034421Z",
+    "published_at": "2026-08-18T15:28:30-04:00",
+    "author": "Jay Peters",
+    "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have \"critical\" cybersecurity capabilities, and the [&#8230;]"
+  },
+  {
+    "id": "a96e6b49-7847-5650-b2b3-75f845db1f38",
+    "entity_type": "NEWS",
+    "name": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+    "description": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a \"safe, trusted place where the [&#8230;]",
+    "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+    "categories": [
+      "AI"
+    ],
+    "source": {
+      "name": "The Verge AI",
+      "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai"
+    },
+    "collected_at": "2026-08-19T09:13:05.034367Z",
+    "published_at": "2026-08-18T15:48:26-04:00",
+    "author": "Emma Roth",
+    "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a \"safe, trusted place where the [&#8230;]"
+  },
+  {
     "id": "9da1c092-e7c1-5964-abd3-6d2925dd0f40",
     "entity_type": "NEWS",
     "name": "Microsoft Copilot reveals secret input that allowed it to be hacked",
@@ -54,24 +180,6 @@
     "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Save $300 on your Disrupt 2026 ticket: REGISTER NOW. Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrun..."
   },
   {
-    "id": "cd6369f0-3380-57f0-b84b-c25d1467f0aa",
-    "entity_type": "NEWS",
-    "name": "Reading Zhipu’s GLM-5.3 results past the headline number",
-    "description": "Zhipu&#8217;s&#160;release note&#160;for GLM-5.3 contains a sentence that did not make it into most of the coverage. Describing its own cybersecurity results, the Beijing company writes that capability &#8220;is growing fastest exactly where we are furthest behind.&#8221; Zhipu, which also trades as Z.ai, is one of a handful of Chinese labs releasing models that compete with [&#8230;] The post Reading Zhipu&#8217;s GLM-5.3 results past the headline number appeared first on AI News.",
-    "url": "https://www.artificialintelligence-news.com/news/zhipu-glm-5-3-benchmarks-explained/",
-    "categories": [
-      "AI"
-    ],
-    "source": {
-      "name": "AI News",
-      "url": "https://www.artificialintelligence-news.com/news/zhipu-glm-5-3-benchmarks-explained/"
-    },
-    "collected_at": "2026-08-19T08:09:27.024132Z",
-    "published_at": "2026-08-18T10:00:00+00:00",
-    "author": "",
-    "summary": "Zhipu&#8217;s&#160;release note&#160;for GLM-5.3 contains a sentence that did not make it into most of the coverage. Describing its own cybersecurity results, the Beijing company writes that capability &#8220;is growing fastest exactly where we are furthest behind.&#8221; Zhipu, which also trades as Z.ai, is one of a handful of Chinese labs releasing models that compete with [&#8230;]\nThe post Reading Zhipu&#8217;s GLM-5.3 results past the headline number appeared first on AI News."
-  },
-  {
     "id": "3faea14c-653a-592d-b29f-075742d59335",
     "entity_type": "NEWS",
     "name": "Alvys launches AI agents for freight TMS workflows",
@@ -108,24 +216,6 @@
     "summary": "OpenAI president and co-founder Greg Brockman warns that enterprise security teams face a compressed timeline to adopt AI defences. Brockman has published an account of what the company calls the “OpenAI-Hugging Face” incident, using it to argue that organisations need to uplevel their security practices with what he terms unprecedented speed. He writes that he [&#8230;]\nThe post OpenAI president urges enterprises to hasten AI security defences appeared first on AI News."
   },
   {
-    "id": "eadf112f-0b11-5590-a1d1-42cdaab89d0f",
-    "entity_type": "NEWS",
-    "name": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-    "description": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
-    "url": "https://openai.com/index/chatgpt-for-teens",
-    "categories": [
-      "AI"
-    ],
-    "source": {
-      "name": "OpenAI Blog",
-      "url": "https://openai.com/index/chatgpt-for-teens"
-    },
-    "collected_at": "2026-08-19T08:09:27.022578Z",
-    "published_at": "2026-08-18T11:00:00+00:00",
-    "author": "",
-    "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents."
-  },
-  {
     "id": "b63db113-6334-5e9c-8035-5f30f916fcbf",
     "entity_type": "NEWS",
     "name": "Warp’s new system is an out-of-the-box software factory for AI development",
@@ -144,24 +234,6 @@
     "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Save $300 on your Disrupt 2026 ticket: REGISTER NOW. Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrun..."
   },
   {
-    "id": "632b4c97-c93f-51e5-97ae-a0516da51b9f",
-    "entity_type": "NEWS",
-    "name": "Pacing model development in an era of cyber-critical capabilities",
-    "description": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
-    "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-    "categories": [
-      "AI"
-    ],
-    "source": {
-      "name": "OpenAI Blog",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities"
-    },
-    "collected_at": "2026-08-19T08:09:26.262023Z",
-    "published_at": "2026-08-18T11:00:00+00:00",
-    "author": "",
-    "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development."
-  },
-  {
     "id": "c51aec66-a12c-58aa-9366-b0a76f604ec5",
     "entity_type": "NEWS",
     "name": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
@@ -178,24 +250,6 @@
     "published_at": "2026-08-18T16:19:10+00:00",
     "author": "",
     "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Save $300 on your Disrupt 2026 ticket: REGISTER NOW. Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrun..."
-  },
-  {
-    "id": "0892de41-6f8d-590c-9cea-42e26802d192",
-    "entity_type": "NEWS",
-    "name": "Partnering with CodeAI to prepare the first AI generation",
-    "description": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
-    "url": "https://openai.com/index/partnering-with-codeai",
-    "categories": [
-      "AI"
-    ],
-    "source": {
-      "name": "OpenAI Blog",
-      "url": "https://openai.com/index/partnering-with-codeai"
-    },
-    "collected_at": "2026-08-19T08:09:25.560595Z",
-    "published_at": "2026-08-18T11:00:00+00:00",
-    "author": "",
-    "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly."
   },
   {
     "id": "383a32a1-a5c2-5e95-81e3-0bdbc0f43b61",
@@ -250,24 +304,6 @@
     "published_at": "2026-08-18T18:00:00+00:00",
     "author": "",
     "summary": "🚨 Flash Sale 🚨 Get $100 off your Disrupt 2026 ticket Save $300 on your Disrupt 2026 ticket: REGISTER NOW. Latest AI Amazon Apps Biotech & Health Climate Cloud Computing Commerce Crypto Enterprise EVs Fintech Fundraising Gadgets Gaming Google Government & Policy Hardware Instagram Layoffs Media & Entertainment Meta Microsoft Privacy Robotics Security Social Space Startups TikTok Transportation Venture Staff Events Startup Battlefield StrictlyVC Newsletters Podcasts Videos Partner Content TechCrun..."
-  },
-  {
-    "id": "66e7da54-e526-52ae-b702-6152225eef3b",
-    "entity_type": "NEWS",
-    "name": "The Powerful Chinese AI Model Experts Warned About Is Here",
-    "description": "Will Knight Business Aug 18, 2026 5:00 AM The Powerful Chinese AI Model Experts Warned About—and Waited for—Is Here Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers. Photo-Illustration: WIRED Staff; Getty Images Comment Loader Save Story Save this story Comment Loader Save Story Save this story It’s now even easier to find—and exploit—vulnerabilities in computer systems using AI. Last Friday, the Chinese AI company Z.ai announced ...",
-    "url": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
-    "categories": [
-      "AI"
-    ],
-    "source": {
-      "name": "Wired AI",
-      "url": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/"
-    },
-    "collected_at": "2026-08-19T08:09:25.009534Z",
-    "published_at": "2026-08-18T09:00:00+00:00",
-    "author": "",
-    "summary": "Will Knight Business Aug 18, 2026 5:00 AM The Powerful Chinese AI Model Experts Warned About—and Waited for—Is Here Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers. Photo-Illustration: WIRED Staff; Getty Images Comment Loader Save Story Save this story Comment Loader Save Story Save this story It’s now even easier to find—and exploit—vulnerabilities in computer systems using AI. Last Friday, the Chinese AI company Z.ai announced ..."
   },
   {
     "id": "288dc321-3142-530e-9c7c-7cb2cf5484c5",
@@ -376,42 +412,6 @@
     "published_at": "2026-08-18T16:30:00+00:00",
     "author": "",
     "summary": "Building the Responsible AI, security, and governance layers required for enterprise-ready agents\nThe post From Prototype to Production: The Architecture Behind Secure &amp; Governed AI Agents appeared first on Towards Data Science."
-  },
-  {
-    "id": "b15f154b-7f73-5d8b-810a-9e7eb9c2fcd0",
-    "entity_type": "NEWS",
-    "name": "AI’s recursive self-improvement might not come so quickly after all",
-    "description": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon.&#160;&#8230;",
-    "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-    "categories": [
-      "AI"
-    ],
-    "source": {
-      "name": "MIT Tech Review AI",
-      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/"
-    },
-    "collected_at": "2026-08-19T08:09:23.617419Z",
-    "published_at": "2026-08-18T09:00:00+00:00",
-    "author": "",
-    "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon.&#160;&#8230;"
-  },
-  {
-    "id": "d9bc20fd-9dfc-52ae-95cd-ae8d2098848f",
-    "entity_type": "NEWS",
-    "name": "We still don’t know how people are really using AI",
-    "description": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research&#8230;",
-    "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-    "categories": [
-      "AI"
-    ],
-    "source": {
-      "name": "MIT Tech Review AI",
-      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/"
-    },
-    "collected_at": "2026-08-19T08:09:23.617369Z",
-    "published_at": "2026-08-18T10:06:43+00:00",
-    "author": "",
-    "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research&#8230;"
   },
   {
     "id": "fda5b600-132c-592e-b2cb-0e6f4fdc7d81",
